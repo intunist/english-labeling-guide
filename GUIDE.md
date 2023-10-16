@@ -89,6 +89,7 @@ Hero:	[hh ih - r ow]
 - EXCEPTION: [iy r] can be labeled for very VERY intentional stylistic choices for additional singer control. However don't do this for general cases.
 - Mistakes in labeling this causes difficulty when using models as users have to guess which vowel was used.
     - Can be easily fixed in bulk using Notepad++ or other tool with text replace.
+- [ey r] is an invalid label, always label as [eh r]. This is due to the rhotic changing the shape of the vowel causing confusion.
 - LABEL DROPPED RHOTICS. Especially in BrE dialects. (example: car crash [k aa r - k r ae sh] NOT [k aa - k r ae sh]
     - This gives the model very important context. In BrE these dropped rhotics often exist as a very short schwa. Without this label the model will not produce the correct pronunciation.
 - DO NOT label linking [r]. This is a specific dialect trait, let model handle it as part of vowel contextually.
