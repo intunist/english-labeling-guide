@@ -49,7 +49,7 @@ For compatibility with the most vocal synthesis systems possible, Intunist makes
 [UK/BrE PHONETICS LIST](phone_AmE.md)
 <br>[US/AmE PHONETICS LIST](phone_AmE.md)
 <br>AU/AuE PHONETICS LIST
-(refer UK until next update)
+(refer UK until further notice as considerations are the same)
 
 ----------
 ## Syllabification:
