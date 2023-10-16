@@ -89,8 +89,8 @@ Even if your dialect makes a distinct [iy] it is best practice to still label wi
 - Mistakes in labeling this causes difficulty when using models as users have to guess which vowel was used.
     - Can be easily fixed in bulk using Notepad++ or other tool with text replace.
 - LABEL DROPPED RHOTICS. Especially in BrE dialects.
-    - This gives the model very important context. In BrE these dropped rhotics often exist as a very short schwa.
-- NO NOT label linking [r]. Let model handle it as part of vowel.
+    - This gives the model very important context. In BrE these dropped rhotics often exist as a very short schwa. Without this label the model will not produce the correct pronunction.
+- DO NOT label linking [r]. This is a specific dialect trait, let model handle it as part of vowel contextually.
     - "I saw a" [ay - s aa - ah] NOT [ay - s aa r - ah]
 
 ## Diphthongs:
