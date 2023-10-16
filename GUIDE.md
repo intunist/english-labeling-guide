@@ -120,7 +120,8 @@ Hero:	[hh ih - r ow]
     - dropped [hh] such as "in her" (sounds like [ih - n er]) should still have the [hh] labeled shortly as part of the tap.
 - [ey ng] doesn't exist. Should always be labeled as [ae ng]
     - "canker" is [k ae ng - k er] not [k ey ng - ker]
-    - I personally hate this (~heteric)
+    - NOT to be confused with [eh ng], the difference is vowel frontness ([ae] is more forward and [eh] more central). 
+    - I personally hate this but seems to be universally accepted (~heteric)
 - AuE QUIRKS
     - Sometimes [iy] sounds like [ih] or [ax] for brief moments. Continue to label as [iy]
 	- There are three variations of the [ae] phoneme. These can all share the same label without problem.
