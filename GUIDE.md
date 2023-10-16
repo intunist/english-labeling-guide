@@ -29,13 +29,15 @@ Bare in mind we want to label English **PHONEMICALLY NOT phonetically**.
 
 <sup>1</sup> Exceptions do occur, as we are inconsistent humans, however if you find you are making exceptions more often than not you should stop making that exception and allow the model to learn it as a default behavior.
 
-[**DiffSinger base phone dict**](https://github.com/intunist/diffsinger-english-support) (remove phonemes you do not use)
+[**DiffSinger base phone dict**](https://github.com/intunist/diffsinger-english-support) (remove phonemes you do not use, handled automatically by some training notebooks)
 <br>[**NNSVS English HED**](https://github.com/intunist/nnsvs-english-support)
 
 ---
 ## Phonemes: (as separate linked markdown document.)
-For comparability with the most vocal synthesis systems possible, Intunist makes use of a lightly modified Arpabet.
+For compatibility with the most vocal synthesis systems possible, Intunist makes use of a lightly modified Arpabet.
 <br>This modified version has careful consideration for most English Dialects
+
+(Notes for public phoneme lists, to remove:)
 - Full phone set
 - Simple phone set
   Simplified phoneme set which may make labeling and use easier for non-native speakers.
@@ -44,12 +46,9 @@ For comparability with the most vocal synthesis systems possible, Intunist makes
 	- may remove el, em, en as these were always optional
 	- may remove [dx] and use [t] instead (with context).
 
-(US/AmE PHONETICS LIST)[phone_AmE.md]
-
-(UK/BrE PHONETICS LIST)[phone_AmE.md]
-
-
-AU/AuE PHONETICS LIST
+[UK/BrE PHONETICS LIST](phone_AmE.md)
+<br>[US/AmE PHONETICS LIST](phone_AmE.md)
+<br>AU/AuE PHONETICS LIST
 (refer UK until next update)
 
 ----------
