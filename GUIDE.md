@@ -96,6 +96,7 @@ Hero:	[hh ih - r ow]
 ## Diphthongs:
 - Runs with diphthongs should use repeated phonemes.
     - [ay - ay - ay] NOT [aa - aa - ay]
+    - DIFFSINGER ONLY: You can label runs with a SINGLE vowel label but split across multiple notes.
 	
 ## Runs and held vowels:
 - vowels held over multiple notes carries the vowel along.
