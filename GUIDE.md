@@ -1,4 +1,4 @@
-NOTE: THIS IS A DRAFT.
+NOTE: THIS IS A DRAFT. Please open an issue or contact for questions, concerns, etc
 
 # Intunist Guide to English labeling very rough draft
 ### For DiffSinger and NNSVS
@@ -83,20 +83,21 @@ Clear:	[k l ih r] NOT [k l iy r]
 Ear:	[ih r]
 Hero:	[hh ih - r ow]
 > This is difficult to explain and some dialects will sound as if words like "clear" and "hero" use a distinct "iy" sound.
-In most of these cases this is due to how the brain handles language and speech processing, causing a [iy] to be incorrectly heard.
-Even if your dialect makes a distinct [iy] it is best practice to still label with [ih] for consistency and compatibility. Context will handle the rest.
-- EXCEPTION: [iy r] can be labeled for very VERY intentional sylistic choices for additional singer control. However don't do this for general cases.
+> In most of these cases this is due to how the brain handles language and speech processing, causing a [iy] to be incorrectly heard.
+> Even if your dialect makes a distinct [iy] it is best practice to still label with [ih] for consistency and compatibility. Context will handle the rest.
+> If you have enough data (>4 hours) you may label _both_ so users can use them interchangeably. But this can reduce quality on smaller datasets as examples are split between phonemes.
+- EXCEPTION: [iy r] can be labeled for very VERY intentional stylistic choices for additional singer control. However don't do this for general cases.
 - Mistakes in labeling this causes difficulty when using models as users have to guess which vowel was used.
     - Can be easily fixed in bulk using Notepad++ or other tool with text replace.
 - LABEL DROPPED RHOTICS. Especially in BrE dialects.
-    - This gives the model very important context. In BrE these dropped rhotics often exist as a very short schwa. Without this label the model will not produce the correct pronunction.
+    - This gives the model very important context. In BrE these dropped rhotics often exist as a very short schwa. Without this label the model will not produce the correct pronunciation.
 - DO NOT label linking [r]. This is a specific dialect trait, let model handle it as part of vowel contextually.
     - "I saw a" [ay - s aa - ah] NOT [ay - s aa r - ah]
 
 ## Diphthongs:
 - Runs with diphthongs should use repeated phonemes.
     - [ay - ay - ay] NOT [aa - aa - ay]
-    - DIFFSINGER ONLY: You can label runs with a SINGLE vowel label but split across multiple notes.
+    - DIFFSINGER ONLY: You can label runs with a SINGLE vowel label but split across multiple notes. **NOTE:** this will prevent multiple/split-phoneme cases from working entirely if done exclusively.
 	
 ## Runs and held vowels:
 - vowels held over multiple notes carries the vowel along.
