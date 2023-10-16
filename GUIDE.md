@@ -82,10 +82,10 @@ In multi-syllable words
 Clear:	[k l ih r] NOT [k l iy r]
 Ear:	[ih r]
 Hero:	[hh ih - r ow]
-- This is difficult to explain and some dialects will sound as if words like "clear" and "hero" use a distinct "iy" sound.
-- In most of these cases this is due to how the brain handles language and speech processing, causing a [iy] to be incorrectly heard.
-- Even if your dialect makes a distinct [iy] it is best practice to still label with [ih] for consistency and compatibility. Context will handle the rest.
-- EXCEPTION: [iy r] can be labeled for very VERY intentional sylistic choices for additional singer control. However don't do this for genral cases.
+> This is difficult to explain and some dialects will sound as if words like "clear" and "hero" use a distinct "iy" sound.
+In most of these cases this is due to how the brain handles language and speech processing, causing a [iy] to be incorrectly heard.
+Even if your dialect makes a distinct [iy] it is best practice to still label with [ih] for consistency and compatibility. Context will handle the rest.
+- EXCEPTION: [iy r] can be labeled for very VERY intentional sylistic choices for additional singer control. However don't do this for general cases.
 - Mistakes in labeling this causes difficulty when using models as users have to guess which vowel was used.
     - Can be easily fixed in bulk using Notepad++ or other tool with text replace.
 - LABEL DROPPED RHOTICS. Especially in BrE dialects.
