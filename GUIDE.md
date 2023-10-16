@@ -4,16 +4,18 @@ NOTE: THIS IS A DRAFT.
 ### For DiffSinger and NNSVS
 
 This is a guide to assist with consistent, easier, and stable labeling.
-Inconsistency in labels causes undesirable and unexpected results in trained models, which can be a large headache.
+Inconsistency in labels causes undesirable and unexpected results in trained models, which can be an incredible headache. (ex: a model being unusable to all but who labeled it).
 This guide along with it's Github repo will provide examples on best practices for english labels.
 
 These label guidelines can be carried over to nearly all speech and singing vocal synthesis software.
 Some aspects may not be relevent for DiffSinger due to time/scoring method but may still be useful to understand. A future update will help distinguish specifics.
 
+---
 ### NOTE FOR UTAU USERS:
 please bare in mind concepts learned from the use of the UTAU software DO NOT carry over to ML/AI/DNN/HTS systems.
 It is best to assume most of what you know may not be suitable for an easier experience.
 
+---
 Guide is optimized for BrE as Intunist current production datasets focuses on this dialect.
 However this guide should be valid for any and all major dialects of english, including notes for particular broad dialects.
 
@@ -29,7 +31,7 @@ Exceptions are/can be [dx] and [ax] where one may prefer having more control of 
 DiffSinger base phone dict: [url] (remove phonemes you do not use)
 <br>NNSVS English HED: [url]
 
-----------
+---
 ## Phonemes: (as separate linked markdown document.)
 For comparability with the most vocal synthesis systems possible, Intunist makes use of a lightly modified Arpabet.
 This modified version has careful consideration for most English Dialects
