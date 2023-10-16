@@ -136,6 +136,6 @@ The struggle is CMU Dict was never designed for singing synthesis in mind. It ha
 If you know what you are doing it can be a valuable resource, however for a novice many mistakes may be made.
 Once you are comfortable and understand the rules here you may be able to use CMU Dict and mentally correct it as you work.
 
-Intunist provides a REFERENCE-ONLY dictionary to assist with syllabification.
+[Intunist provides a REFERENCE-ONLY dictionary to assist with syllabification.](https://github.com/hetteric/english-labeling-guide/blob/main/reference/AmE_guide_dictionary_v0.5.txt)
 This dictionary cannot be used for synthesis but should be a useful resource. It contains over 40,000 words and their syllable breaks.
 Please bare in mind this dictionary may break rules stated in this resource. Please ignore the dictionary mistakes and follow the rules in this document. Report any inconsistency please.
