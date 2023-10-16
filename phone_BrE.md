@@ -1,3 +1,3 @@
 Phonemes for British English
 
-[note - cover aa ao merge.]
+[note - cover ae aa merge.]
