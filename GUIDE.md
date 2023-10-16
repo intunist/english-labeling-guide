@@ -19,22 +19,23 @@ It is best to assume most of what you know may not be suitable for an easier exp
 Guide is optimized for BrE as Intunist current production datasets focuses on this dialect.
 However this guide should be valid for any and all major dialects of english, including notes for particular broad dialects.
 
-((Intunist plans on releasing an 8hr singing dataset and models for pretraining.))
-This model, when available, should help reduce the workload and allow more stable models with less data.
+Intunist plans on releasing an 8hr singing dataset and models for pretraining.
+<br>This model, when available, should help reduce the workload and allow more stable models with less data.
 
-Bare in mind we want to label English PHONEMICALLY NOT PHONETICALLY.
-(1)We are labeling based on the intention not the exact phoneme used in most cases.
-Most speakers cannot distinguish fine phonetic differences accurately and handling it broadly allows us to rely on the model to handle these differences naturally.
-Exceptions are/can be [dx] and [ax] where one may prefer having more control of these sounds.
-!!1!! Exceptions do occur, as we are inconsistent humans, however if you find you are making exceptions more often than not you should stop making that exception and allow the model to learn it as a default behavior.
+Bare in mind we want to label English **PHONEMICALLY NOT phonetically**.
+<br>We are labeling based on the intention not the exact phoneme used in most cases.
+<br>Most speakers cannot distinguish fine phonetic differences accurately and handling it broadly allows us to rely on the model to handle these differences naturally.
+<br>Exceptions are/can be [dx] and [ax] where one may prefer having more control of these sounds.
 
-DiffSinger base phone dict: [url] (remove phonemes you do not use)
-<br>NNSVS English HED: [url]
+<sup>1</sup> Exceptions do occur, as we are inconsistent humans, however if you find you are making exceptions more often than not you should stop making that exception and allow the model to learn it as a default behavior.
+
+[**DiffSinger base phone dict**](https://github.com/intunist/diffsinger-english-support) (remove phonemes you do not use)
+<br>[**NNSVS English HED**](https://github.com/intunist/nnsvs-english-support)
 
 ---
 ## Phonemes: (as separate linked markdown document.)
 For comparability with the most vocal synthesis systems possible, Intunist makes use of a lightly modified Arpabet.
-This modified version has careful consideration for most English Dialects
+<br>This modified version has careful consideration for most English Dialects
 - Full phone set
 - Simple phone set
   Simplified phoneme set which may make labeling and use easier for non-native speakers.
