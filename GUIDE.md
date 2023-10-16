@@ -110,6 +110,7 @@ Hero:	[hh ih - r ow]
 - [aa l] is invalid, always label as [ao l]
     - fall [f ao l]
 	- falling [f ao - l ih ng]
+    - some dictionaries will label US English with [aa l] and [ao l] sporatically and UK English with [ao l] exclusively. This is an odd arbitrary decision with no real purpose.
 - [iy l] can sometimes sound like [iy ax l], label as [iy l] as this is not a true vowel and more a transition from [iy] to [l]
 - Incidental sounds, such as "new" being pronounced as [n y uw] or [n ih uw], the [y]/[ih] should be ignored in most cases.
 	- This is because the [ih] is ACTUALLY [ix] (i-shape schwa). Very easy confusion. Same as [ax] in the prior note.
@@ -117,6 +118,9 @@ Hero:	[hh ih - r ow]
     - example: My Chemical Romance "sleEeEeEep" sounding as [s l iy ih iy ih iy p] is labeled as simple [s l iy p]
 - voiced and devoiced [hh] share the same phoneme. Handled by context in model.
     - dropped [hh] such as "in her" (sounds like [ih - n er]) should still have the [hh] labeled shortly as part of the tap.
+- [ey ng] doesn't exist. Should always be labeled as [ae ng]
+    - "canker" is [k ae ng - k er] not [k ey ng - ker]
+    - I personally hate this (~heteric)
 - AuE QUIRKS
     - Sometimes [iy] sounds like [ih] or [ax] for brief moments. Continue to label as [iy]
 	- There are three variations of the [ae] phoneme. These can all share the same label without problem.
