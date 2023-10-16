@@ -103,6 +103,7 @@ Hero:	[hh ih - r ow]
 - vowels held over multiple notes carries the vowel along.
 	- "steels" across two notes is [s t iy][iy l z]
 		- across 3 notes it is [s t iy] [iy] [iy l z]
+    - Has same diffsinger notice as [above](#Diphthongs)
 
 ## Phonemic quirks/rules:
 - [iy ng] doesn't exist, always label as [ih ng]
