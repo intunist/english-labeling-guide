@@ -111,8 +111,8 @@ Hero:	[hh ih - r ow]
     - fall [f ao l]
 	- falling [f ao - l ih ng]
 - [iy l] can sometimes sound like [iy ax l], label as [iy l] as this is not a true vowel and more a transition from [iy] to [l]
-- Incidental sounds, such as "new" being pronounced as [n y uw], the [ih] should be ignored in most cases.
-	- This is because the [ih] is ACTUALLY [ix] (i-shape schwa). Very easy confusion.
+- Incidental sounds, such as "new" being pronounced as [n y uw] or [n ih uw], the [y]/[ih] should be ignored in most cases.
+	- This is because the [ih] is ACTUALLY [ix] (i-shape schwa). Very easy confusion. Same as [ax] in the prior note.
 - unstable pronunciations (vowels that drift rapidly) are generally best labeled as a stable vowel.
     - example: My Chemical Romance "sleEeEeEep" sounding as [s l iy ih iy ih iy p] is labeled as simple [s l iy p]
 - voiced and devoiced [hh] share the same phoneme. Handled by context in model.
