@@ -111,7 +111,11 @@ Hero:	[hh ih - r ow]
 - [aa l] is invalid, always label as [ao l]
     - fall [f ao l]
 	- falling [f ao - l ih ng]
+    - alder [ao l - d er] 
     - some dictionaries will label US English with [aa l] and [ao l] sporatically and UK English with [ao l] exclusively. This is an odd arbitrary decision with no real purpose.
+    - NOTE: For American (AmE) English it becomes [aa - l] for multi-syllable words. This is due to light/dark [l] differences.
+        - abolish is [aa - b **aa** - l ih sh] NOT [aa - b **ao** - l ih sh]
+        - biology is [b ay - **aa** - l ax - jh iy] not [b ay - **ao** - l ax - jh iy]
 - [iy l] can sometimes sound like [iy ax l], label as [iy l] as this is not a true vowel and more a transition from [iy] to [l]
 - Incidental sounds, such as "new" being pronounced as [n y uw] or [n ih uw], the [y]/[ih] should be ignored in most cases.
 	- This is because the [ih] is ACTUALLY [ix] (i-shape schwa). Very easy confusion. Same as [ax] in the prior note.
