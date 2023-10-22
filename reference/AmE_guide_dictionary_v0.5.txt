@@ -7,6 +7,11 @@
 # note: fix inconsistency with [uh] used in some placed where [ah] should be used. Especially for compound words.
 # note: [d] is missing in some words ending in "-nds". Up for debate as some may drop the [d] entirely. Label [d] if pause between [n] and [s].
 
+# note: words like "carry" are transcribed as [k eh - r iy] instead of [k ae r - iy]
+	as moving the rhotic to the syllable start is often more correct for a singing context.
+	This is unique to rhotics surrounded by two vowels.
+	Please use own discretion.
+
 I                                  ay
 I'd                                ay d
 I'll                               ay l

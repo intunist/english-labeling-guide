@@ -74,7 +74,11 @@ In multi-syllable words
 - Rhotics are NOT transferred to the next syllable. IN A PRIOR VERSION they were carried for "international consistency" but doing so is incredibly broken.
     - sorrow is [s aa r - ow] NOT [s aa - r ow]
 	- clearly is [k l ih r - l iy] NOT [k l ih - r l iy]
-	- carry is [k ae r - iy] NOT [k ae - r iy]
+- Sometimes an [r] can be pronounced as either a rhotic or a starting r. This changes the syllabification.
+	- when an [r] is surrounded by two vowels, even if it is technically a rhotic it is often functionally a starting [r] for the next syllable.
+	- Most dictionaries will transcibe "carry" as [k ae r - iy] but most speakers in a singing context (EXPECIALLY NON-AMERICAN) will actually pronounce [k ae - r iy].
+	- can often times can be difficult to discern. You may use your own discretion but often times it's safer to place the [r] at the start of the next syllable unless it has a long length and/or heavily colors the prior vowel.
+	- due to this inconsistency, the labeling guide dictionary uses a mix of both. 
 
 ## Rhotics:
 - [iy r] is an invalid label, always label as [ih r].
@@ -130,6 +134,9 @@ Hero:	[hh ih - r ow]
     - "canker" is [k ae ng - k er] not [k ey ng - ker]
     - NOT to be confused with [eh ng], the difference is vowel frontness ([ae] is more forward and [eh] more central). 
     - I personally hate this but seems to be universally accepted (~heteric)
+	- NOT TO BE CONFUSED FOR [eh ng] THAT IS VALID.
+		- if it sounds more like [ey] it is [ae]. If it's cleaner and lower then it is [eh] (although [eh ng] is much more rare).
+		- "length" is [l eh ng (k) th] but "bank" is [b ae ng k]
 - AuE QUIRKS
     - Sometimes [iy] sounds like [ih] or [ax] for brief moments. Continue to label as [iy]
 	- There are three variations of the [ae] phoneme. These can all share the same label without problem.
