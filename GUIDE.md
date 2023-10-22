@@ -80,15 +80,18 @@ In multi-syllable words
 	- can often times can be difficult to discern. For non-american dialects it is ALWAYS carried over, otherwise you may use your own discretion but most times it's safer to place the [r] at the start of the next syllable.
 		- For an [r] of long length and/or heavily colors the prior vowel you may choose to place [r] at the end of the prior syllable, however even in these cases you can get away with keeping it at the beginning of the next syllable if you prefer.
 		- Even the later note about when to treat as a rhotic isn't truly consistent and you can often get away with always carrying the [r] to the next syllable
+	- NOTE THAT EVEN IF [r] IS MOVED TO THE NEXT SYLLABLE, THE VOWEL NOTES FOR THE [RHOTICS](#Rhotics) SECTION ARE STILL VALID. This is due to these [r] technically still being rhotic.
 
 ## Rhotics:
-- [iy r] is an invalid label, always label as [ih r].
+- [iy r] with a rhotic is an invalid label, always label as [ih r].
 (artifact of human labeling with lacking symbols)
 (actually i-shape schwa [ix])
 (context handles it as long as handled correctly)
 Clear:	[k l ih r] NOT [k l iy r]
 Ear:	[ih r]
 Hero:	[hh ih - r ow]
+NON RHOTIC:
+Erase:	[**iy** - r ey s] (non-rhotic, r is part of a separate syllable and does not color the prior vowel)
 > This is difficult to explain and some dialects will sound as if words like "clear" and "hero" use a distinct "iy" sound.
 > In most of these cases this is due to how the brain handles language and speech processing, causing a [iy] to be incorrectly heard.
 > Even if your dialect makes a distinct [iy] it is best practice to still label with [ih] for consistency and compatibility. Context will handle the rest.
@@ -96,7 +99,8 @@ Hero:	[hh ih - r ow]
 - EXCEPTION: [iy r] can be labeled for very VERY intentional stylistic choices for additional singer control. However don't do this for general cases.
 - Mistakes in labeling this causes difficulty when using models as users have to guess which vowel was used.
     - Can be easily fixed in bulk using Notepad++ or other tool with text replace.
-- [ey r] is an invalid label, always label as [eh r]. This is due to the rhotic changing the shape of the vowel causing confusion.
+- [ey r] is an invalid label for smooth monophthonic vowels, always label as [eh r]. This is due to the rhotic changing the shape of the vowel causing confusion.
+	- it may seem reasonable to use [ey] if it is pronounced as [eh - iy] but this is often two separate syllables. Of course exceptions do occur. As long as you do not label smooth vowels as [ey] and diphthonic vowels as [eh] it should be ok.
 - LABEL DROPPED RHOTICS. Especially in BrE/AuE dialects. (example: car crash [k aa r - k r ae sh] NOT [k aa - k r ae sh]
     - This gives the model very important context. In BrE these dropped rhotics often exist as a very short schwa. Without this label the model will not produce the correct pronunciation.
     - Many American dialects also feature dropped rhotics.

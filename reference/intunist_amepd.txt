@@ -1363,8 +1363,8 @@ aeronautic  eh r ow n ao t ih k
 aeronautical  eh r ow n ao t ih k ax l
 aeronauticas  eh r ow n ao t ih k ax s
 aeronautics  eh r ow n ao t ih k s
-aeroperu  eh r ow p ey r uw
-aeroperu's  eh r ow p ey r uw z
+aeroperu  eh r ow p eh r uw
+aeroperu's  eh r ow p eh r uw z
 aeroquip  eh r ow k w ih p
 aeroscience  eh r ow s ay ax n s
 aerosmith  eh r ow s m ih th
@@ -3077,7 +3077,7 @@ alvah  ae l v aa
 alvan  ae l v ax n
 alvarado  ae l v er aa d ow
 alvardo  aa l v aa r d ow
-alvare  ae l v ey r
+alvare  ae l v eh r
 alvare(2)  ae l v aa r
 alvarenga  aa l v aa r eh ng g ax
 alvares  aa l v aa r eh s
@@ -6870,7 +6870,6 @@ ayende(2)  ax y eh n d ey
 ayer  ay er
 ayer(2)  ey er
 ayer's  eh r z
-ayer's(2)  ey r z
 ayers  ay er z
 ayers(2)  ey er z
 ayerst  ey er s t
@@ -6901,7 +6900,7 @@ ayodhya  ay aa d y ax
 ayon  ey ao n
 ayotte  ey aa t
 ayoub  ey aw b
-ayr  ey r
+ayr  eh r
 ayre  eh r
 ayres  eh r z
 ayrshire  eh r sh ay er
@@ -8876,7 +8875,7 @@ bayonne  b ey y ow n
 bayou  b ay uw
 bayous  b ay uw z
 bayouth  b ay uw th
-bayreuth  b ey r oy th
+bayreuth  b ay r oy th
 bays  b ey z
 bayse  b ey z
 bayside  b ey s ay d
@@ -9482,7 +9481,7 @@ being  b iy ih ng
 being's  b iy ih ng z
 beings  b iy ih ng z
 beiny  b ay n iy
-beira  b ey r ax
+beira  b eh r ax
 beirne  b ih r n
 beirut  b ey r uw t
 beirut's  b ey r uw t s
@@ -13697,7 +13696,7 @@ bradykinin  b r ax d ih k ih n ih n
 bradys  b r ey d iy z
 brae  b r ey
 braendstroem  b r ae n d s t r ow m
-braer  b r ey r
+braer  b r eh r
 braff  b r ae f
 brafford  b r ae f er d
 brag  b r ae g
@@ -26921,7 +26920,7 @@ daiquiri  d ae k er iy
 dairies  d eh r iy z
 dairy  d eh r iy
 dairying  d eh r iy ih ng
-dairymen  d ey r iy m ax n
+dairymen  d eh r iy m ax n
 dais  d ey z
 daise  d ey z
 daisey  d ey s iy
@@ -29286,7 +29285,7 @@ deo  d iy ow
 deobia  d iy ow b iy ax
 deodorant  d iy ow d er ax n t
 deodorants  d iy ow d er ax n t s
-deoliveira  d iy aa l ih v ey r ax
+deoliveira  d iy aa l ih v eh r ax
 deon  d iy aa n
 deontological  d iy aa n t ax l aa jh ih k ax l
 deontology  d iy aa n t aa l ax jh iy
@@ -29788,11 +29787,11 @@ despot  d eh s p ax t
 despotic  d ih s p aa t ih k
 despotism  d eh s p ax t ih z ax m
 despres  d eh s p er z
-desrochers  d ey r ow sh er z
-desroches  d ey r ow sh ih z
-desrosier  d ey r ow sh iy er
-desrosiers  d ey r ow sh iy er z
-desrosiers(2)  d ey r ow zh iy er z
+desrochers  d eh r ow sh er z
+desroches  d eh r ow sh ih z
+desrosier  d eh r ow sh iy er
+desrosiers  d eh r ow sh iy er z
+desrosiers(2)  d eh r ow zh iy er z
 dessauer  d ih s aw er
 dessauer(2)  d eh s aw er
 desselle  d ih s eh l
@@ -35125,7 +35124,7 @@ elaboration  ih l ae b er ey sh ax n
 elaina  ih l ey n ax
 elaine  ih l ey n
 elaine's  ih l ey n z
-elaire  ih l ey r
+elaire  ih l eh r
 elam  eh l ax m
 elamin  eh l ax m ih n
 elan  iy l ax n
@@ -38546,7 +38545,7 @@ eynon  ey n ax n
 eyre  eh r
 eyrich  eh r ih ch
 eyrie  eh r iy
-eyring  ey r ih ng
+eyring  eh r ih ng
 eyster  ey s t er
 eyton  ey t ax n
 ezekiel  ih z iy k iy ax l
@@ -39392,7 +39391,7 @@ fayez  f ey eh z
 fayme  f ey m
 faymonville  f ey m ax n v ih l
 fayne  f ey n
-fayrouz  f ey r uw z
+fayrouz  f eh r uw z
 faz  f ae z
 faze  f ey z
 fazed  f ey z d
@@ -39902,7 +39901,7 @@ ferraro's  f er aa r ow z
 ferre  f eh r
 ferrebee  f eh r ih b iy
 ferree  f er iy
-ferreira  f eh r ey r ax
+ferreira  f eh r eh r ax
 ferreiro  f eh r eh r ow
 ferrel  f eh r eh l
 ferrell  f eh r ih l
@@ -72520,7 +72519,7 @@ mayoralty  m ey er ax l t iy
 mayorga  m ey ao r g ax
 mayors  m ey er z
 mayotte  m ey aa t
-mayr  m ey r
+mayr  m eh r
 mays  m ey z
 mayse  m ey z
 mayson  m ey z ax n
@@ -73840,7 +73839,7 @@ mediocre  m iy d iy ow k er
 mediocrity  m iy d iy aa k r ax t iy
 mediplex  m eh d ih p l eh k s
 mediq  m eh d iy k
-mediscare  m eh d ih s k ey r
+mediscare  m eh d ih s k eh r
 medisgroup  m eh d ih s g r uw p
 medisgroups  m eh d ih s g r uw p s
 meditate  m eh d ih t ey t
@@ -74032,7 +74031,7 @@ meinke  m ih ng k
 meints  m ay n t s
 meinzer  m ay n z er
 meiosis  m ay ow s ax s
-meir  m ey r
+meir  m eh r
 meir(2)  m ay r
 meiring  m ay r ih ng
 meis  m iy z
@@ -74399,7 +74398,7 @@ menstrual  m eh n s t r uw ax l
 menstrual(2)  m eh n s t r ax l
 menstruate  m eh n s t r uw ey t
 menstruation  m eh n s t r uw ey sh ax n
-menswear  m eh n z w ey r
+menswear  m eh n z w eh r
 mental  m eh n t ax l
 mentality  m eh n t ae l ih t iy
 mentally  m eh n t ax l iy
@@ -77754,7 +77753,7 @@ mossman  m ao s m ax n
 mosso  m ow s ow
 mossy  m ao s iy
 most  m ow s t
-mostaert  m ax s t ey r t
+mostaert  m ax s t eh r t
 mostar  m ow s t aa r
 mostar's  m ow s t aa r z
 mostek  m aa s t ih k
@@ -81304,10 +81303,10 @@ norwin  n ao r w ih n
 norwitz  n ao r w ih t s
 norwood  n ao r w uh d
 norwyn  n ao r w ih n
-nosair  n ow z ey r
-nosair(2)  n ow s ey r
-nosair's  n ow z ey r z
-nosair's(2)  n ow s ey r z
+nosair  n ow z eh r
+nosair(2)  n ow s eh r
+nosair's  n ow z eh r z
+nosair's(2)  n ow s eh r z
 nosal  n ow z ax l
 nose  n ow z
 nosebleed  n ow z b l iy d
@@ -81589,7 +81588,7 @@ numbing  n ah m ih ng
 numbingly  n ah m ih ng l iy
 numbness  n ah m n ax s
 numed  n uw m eh d
-numeiri  n uw m ey r iy
+numeiri  n uw m eh r iy
 numeral  n uw m er ax l
 numerals  n uw m er ax l z
 numerate  n uw m er ey t
@@ -82742,7 +82741,7 @@ olivares  ow l iy v aa r eh s
 olivarez  ow l iy v aa r eh z
 olivas  ow l iy v aa z
 olive  aa l ih v
-oliveira  aa l ih v ey r ax
+oliveira  aa l ih v eh r ax
 oliver  aa l ih v er
 oliver's  aa l ih v er z
 olivera  ow l iy v eh r ax
@@ -87644,10 +87643,6 @@ phantasms  f ae n t ae z ax m z
 phantom  f ae n t ax m
 phantoms  f ae n t ax m z
 phar  f aa r
-pharaoh  f eh r ow
-pharaoh(2)  f ey r ow
-pharaohs  f eh r ow z
-pharaohs(2)  f ey r ow z
 pharaon  f eh r ow n
 pharaonic  f eh r ax aa n ih k
 phares  f eh r z
@@ -87671,10 +87666,8 @@ pharmacy  f aa r m ax s iy
 pharmakinetic  f aa r m ax k ax n eh t ih k
 pharmakinetics  f aa r m ax k ax n eh t ih k s
 pharo  f aa r ow
-pharoah  f ey r ow
-pharoah(2)  f eh r ow
-pharoahs  f ey r ow z
-pharoahs(2)  f eh r ow z
+pharoah  f eh r ow
+pharoahs  f eh r ow z
 pharos  f eh r ow z
 pharr  f aa r
 pharris  f eh r ih s
@@ -89081,8 +89074,8 @@ plough  p l aw
 plough(2)  p l ow
 ploughed  p l aw d
 ploughs  p l aw z
-ploughshare  p l aw sh ey r
-ploughshares  p l aw sh ey r z
+ploughshare  p l aw sh eh r
+ploughshares  p l aw sh eh r z
 plourde  p l ao r d
 plover  p l ah v er
 plovers  p l ah v er z
@@ -89094,8 +89087,8 @@ plowman  p l aw m ax n
 plowman's  p l aw m ax n z
 plowright  p l aw r ay t
 plows  p l aw z
-plowshare  p l aw sh ey r
-plowshares  p l aw sh ey r z
+plowshare  p l aw sh eh r
+plowshares  p l aw sh eh r z
 ploy  p l oy
 ploys  p l oy z
 plucinski  p l ax ch ih n s k iy
@@ -90347,7 +90340,7 @@ prague's  p r aa g z
 prahl  p r aa l
 prairie  p r eh r iy
 prairie's  p r eh r iy z
-prairies  p r ey r iy z
+prairies  p r eh r iy z
 praise  p r ey z
 praised  p r ey z d
 praises  p r ey z ih z
@@ -104973,7 +104966,7 @@ shifty  sh ih f t iy
 shigeki  sh ih g ey k iy
 shigekuni  sh iy g ih k uw n iy
 shigeo  sh ih g ey ow
-shigeru  sh ih g ey r uw
+shigeru  sh ih g eh r uw
 shigley  sh ih g l iy
 shih  sh iy
 shihan  sh iy hh aa n
@@ -107782,7 +107775,7 @@ soeder  s ow d er
 soens  s ow n z
 soerensen  s ao r ax n s ax n
 sofa  s ow f ax
-sofaer  s ow f ey r
+sofaer  s ow f eh r
 sofamor  s ow f ax m ao r
 sofas  s ow f ax z
 sofer  s ow f er
@@ -114619,12 +114612,12 @@ teherani  t eh hh er aa n iy
 teherani's  t eh hh er aa n iy z
 teheranis  t eh hh er aa n iy z
 teherans  t eh hh er aa n z
-tehran  t ey r aa n
-tehran's  t ey r aa n z
-tehrani  t ey r aa n iy
-tehrani's  t ey r aa n iy z
-tehranis  t ey r aa n iy z
-tehrans  t ey r aa n z
+tehran  t eh r aa n
+tehran's  t eh r aa n z
+tehrani  t eh r aa n iy
+tehrani's  t eh r aa n iy z
+tehranis  t eh r aa n iy z
+tehrans  t eh r aa n z
 teich  t ay k
 teicher  t ay k er
 teichert  t ay k er t
@@ -120854,7 +120847,7 @@ vacuuming  v ae k y uw m ih ng
 vacuums  v ae k y uw m z
 vadala  v aa d aa l ax
 vadas  v aa d aa z
-vadehra  v ax d ey r ax
+vadehra  v ax d eh r ax
 vaden  v ey d ax n
 vader  v ey d er
 vadim  v aa d iy m
@@ -121431,7 +121424,7 @@ varden  v aa r d ax n
 vardon  v aa r d ao n
 varela  v aa r ey l ax
 vares  v aa r eh s
-vares(2)  v ey r z
+vares(2)  v eh r z
 varga  v aa r g ax
 vargas  v aa r g ax s
 vargason  v aa r g ax s ax n
@@ -121666,7 +121659,7 @@ veillon  v ey l ax n
 veils  v ey l z
 vein  v ey n
 veins  v ey n z
-veira  v ey r ax
+veira  v eh r ax
 veit  v iy t
 veitch  v ay ch
 veith  v iy th
@@ -124862,7 +124855,7 @@ weymer  w ey m er
 weymouth  w ey m ax th
 weyrauch  w eh r aw k
 weyrich  w eh r ih k
-weyrick  w ey r ih k
+weyrick  w eh r ih k
 whack  w ae k
 whacked  w ae k t
 whacker  w ae k er
@@ -128074,7 +128067,7 @@ zawistowski  z aa v ih s t ao f s k iy
 zayac  z ay ax k
 zayas  z ey aa z
 zayed  z ey iy d
-zayre  z ey r
+zayre  z eh r
 zayre's  z ey er z
 zazueta  z aa z w eh t ax
 zbig  z b ih g
