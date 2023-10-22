@@ -76,9 +76,10 @@ In multi-syllable words
 	- clearly is [k l ih r - l iy] NOT [k l ih - r l iy]
 - Sometimes an [r] can be pronounced as either a rhotic or a starting r. This changes the syllabification.
 	- when an [r] is surrounded by two vowels, even if it is technically a rhotic it is often functionally a starting [r] for the next syllable.
-	- Most dictionaries will transcibe "carry" as [k ae r - iy] but most speakers in a singing context (EXPECIALLY NON-AMERICAN) will actually pronounce [k ae - r iy].
-	- can often times can be difficult to discern. You may use your own discretion but often times it's safer to place the [r] at the start of the next syllable unless it has a long length and/or heavily colors the prior vowel.
-	- due to this inconsistency, the labeling guide dictionary uses a mix of both. 
+	- Most dictionaries will transcibe "carry" as [k ae r - iy] but most speakers in a singing context (ESPECIALLY NON-AMERICAN) will actually pronounce [k ae - r iy].
+	- can often times can be difficult to discern. For non-american dialects it is ALWAYS carried over, otherwise you may use your own discretion but most times it's safer to place the [r] at the start of the next syllable.
+		- For an [r] of long length and/or heavily colors the prior vowel you may choose to place [r] at the end of the prior syllable, however even in these cases you can get away with keeping it at the beginning of the next syllable if you prefer.
+		- Even the later note about when to treat as a rhotic isn't truly consistent and you can often get away with always carrying the [r] to the next syllable
 
 ## Rhotics:
 - [iy r] is an invalid label, always label as [ih r].
