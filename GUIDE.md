@@ -71,8 +71,10 @@ In multi-syllable words
 	- FOR THE PREVIOUS it may help to conceptualize these consonant combinations as requiring a "pause" to transition.
 	- whisper is [w ih - s p er] NOT [w ih s - p er]
 	    - [s p] is a common starting cluster and part of the same root word.
-- Rhotics are also transferred to the next syllable. For international consistency.
-    - sorrow is [s aa - r ow] NOT [s aa r - ow]
+- Rhotics are NOT transferred to the next syllable. IN A PRIOR VERSION they were carried for "international consistency" but doing so is incredibly broken.
+    - sorrow is [s aa r - ow] NOT [s aa - r ow]
+	- clearly is [k l ih r - l iy] NOT [k l ih - r l iy]
+	- carry is [k ae r - iy] NOT [k ae - r iy]
 
 ## Rhotics:
 - [iy r] is an invalid label, always label as [ih r].
