@@ -1,3 +1,6 @@
+#This is a heavily modified version of AMEPD by Reece H. Dunn. (https://github.com/rhdunn/amepd)
+#Modified for singing.
+
 a ax
 a's  ey z
 aaberg  aa b er g
