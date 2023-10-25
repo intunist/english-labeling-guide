@@ -134,8 +134,8 @@ absent                             ae b / s ax n t
 absentee                           ae b / s ax n / t iy
 absenteeism                        ae b / s ax n / t iy / ih / z ax m
 absently                           ae b / s ax n t / l iy
-absinth                            ae b / s aẽ th
-absinthe                           ae b / s aẽ th
+absinth                            ae b / s ih n th
+absinthe                           ae b / s ih n th
 absolute                           ae b / s ax / l uw t
 absolutely                         ae b / s ax / l uw t / l iy
 absolution                         ae b / s ax / l uw / sh ax n
@@ -279,7 +279,7 @@ accuser                            ax / k y uw / z er
 accuses                            ax / k y uw z
 accusing                           ax / k y uw / z ih ng
 accusingly                         ax / k y uw / z ih ng / l iy
-accustom                           ax / k ah· s t ax m
+accustom                           ax / k ah / s t ax m
 ace                                ey s
 acephalous                         ey / s eh / f ax / l ax s
 acer                               ey / s er
@@ -365,7 +365,7 @@ activate                           ae k / t ax / v ey t
 activation                         ae k / t ax / v ey / sh ax n
 active                             ae k / t ih v
 actively                           ae k / t ih v / l iy
-activism                           ae k· t ax / v ih / z ax m
+activism                           ae k / t ax / v ih / z ax m
 activist                           ae k / t ax / v ih s t
 activity                           ae k / t ih / v ax / dx iy
 actor                              ae k / t er
@@ -595,7 +595,7 @@ aeration                           eh / r ey / sh ax n
 aerator                            eh / r ey / dx er
 aerial                             eh / r iy / ax l
 aerie                              ih / r iy
-aero                               eh / r ow-
+aero                               eh / r ow
 aerobatic                          eh / r ow / b ae / dx ih k
 aerobatics                         eh / r ow / b ae / dx ih k s
 aerobe                             eh / r ow b
@@ -718,7 +718,7 @@ agency                             ey / jh ax n / s iy
 agenda                             ax / jh eh n / d ax
 agent                              ey / jh ax n t
 ager                               n uw / ey / jh er
-ages                               ey· jh ih z
+ages                               ey / jh ih z
 ageusia                            ax / g y uw / z iy / ax
 agglomerate                        ax / g l aa / m ax / r ey / sh ax n
 agglomeration                      ax / g l aa / m ax / r ey / sh ax n
@@ -1142,7 +1142,7 @@ americanization                    ax / m eh / r ih / k ax / n ax / z ey / sh ax
 americanize                        ax / m eh / r ih / k ax / n ay z
 americanizes                       ax / m eh / r ih / k ax / n ay z
 americano                          ax / m eh / r ih / k aa / n ow
-americas                           ax / m eh / r ih· k ax z
+americas                           ax / m eh / r ih / k ax z
 americium                          ae / m ax / r ih / s iy / ax m
 amerindian                         ae / m ax / r ih n / d iy / ax n
 amethyst                           ae / m ax / th ih s t
@@ -1197,7 +1197,7 @@ amortizes                          ae / m ao r / t ay z
 amount                             ax / m aw n t
 amp                                ae m p
 amperage                           ae m / p r ih jh
-ampere                             ae m· p ih er
+ampere                             ae m / p ih er
 ampersand                          ae m / p er / s ae n d
 amphetamine                        ae m / f eh dx / m iy n
 amphibia                           ae m / f ih / b iy / ax
@@ -1496,7 +1496,7 @@ anthologist                        ae n / th aa / l ax / jh ih s t
 anthology                          ae n / th aa / l ax / jh iy
 anthracite                         ae n / th r ax / s ay t
 anthrax                            ae n / th r ae k s
-anthrop                            ae n / th r ax / p ax-
+anthrop                            ae n / th r ax / p ax
 anthropocentric                    ae n / th r ax / p ax / s eh n / t r ih k
 anthropocentrism                   ae n / th r ax / p ax / s eh n / t r ih / z ax m
 anthropogenic                      ae n / th r ax / p ax / jh eh / n ih k
@@ -1683,11 +1683,11 @@ antiviral                          ae n / dx iy / v ay / r ax l
 antivirus                          ae n / dx iy / v ay / r ax s
 antivivisection                    ae n / t ay / v ih / v ih / s eh k / sh ax n
 antivivisectionist                 ae n / t ay / v ih / v ih / s eh k / sh ax / n ih s t
-antiwar                            ae n· t iy / w ao r
+antiwar                            ae n / t iy / w ao r
 antiwear                           ae n / t ay / w eh r
 antiwoman                          ae n / t ay / w uh / m ax n
 antler                             ae n t / l er
-antlers                            ae n t· l er z
+antlers                            ae n t / l er z
 antonym                            ae n / dx ax / n ih m
 antonymous                         ae n / t aa / n ax / m ax s
 antrum                             ae n / t r ax m
@@ -1792,7 +1792,7 @@ appealing                          ax / p iy / l ih ng
 appealingly                        ax / p iy / l ih ng / l iy
 appear                             ax / p ih r
 appearance                         ax / p ih / r ax n s
-appearances                        ax / p ih er· ax n· s ax z
+appearances                        ax / p ih er / ax n / s ax z
 appease                            ax / p iy z
 appeasement                        ax / p iy z / m ax n t
 appeases                           ax / p iy z
@@ -1979,7 +1979,7 @@ arduously                          aa r / jh uw / ax s / l iy
 arduousness                        aa r / jh uw / ax s / n ax s
 are                                aa r
 area                               eh / r iy / ax
-areal                              eh / r iy-
+areal                              eh / r iy
 aren                               aa r n t
 aren't                             aa r n t
 arena                              ax / r iy / n ax
@@ -2299,7 +2299,7 @@ astride                            ax / s t r ay d
 astringency                        ax / s t r ih n / jh ax n / s iy
 astringent                         ax / s t r ih n / jh ax n t
 astringently                       ax / s t r ih n / jh ax n t / l iy
-astro                              ae s / t r ow-
+astro                              ae s / t r ow
 astrolabe                          ae s / t r ow / l ey b
 astrologer                         ax / s t r aa / l ax / jh er
 astrological                       ae s / t r ax / l aa / jh ih / k ax l
@@ -2566,7 +2566,7 @@ avail                              ax / v ey l
 availability                       ax / v ey / l ax / b ih / l ax / dx iy
 available                          ax / v ey / l ax / b ax l
 avalanche                          ae / v ax / l ae n ch
-avant                              ae / v aã / g aa r d
+avant                              ax / v aa n t
 avarice                            ae / v er / ih s
 avaricious                         ae / v ax / r ih / sh ax s
 avariciously                       ae / v ax / r ih / sh ax s / l iy
@@ -3178,7 +3178,7 @@ beardless                          b ih r d / l ax s
 beardy                             b ih r / d iy
 bearer                             b eh / r er
 bearing                            b eh / r ih ng
-bearings                           b eh er· ih ng z
+bearings                           b eh er / ih ng z
 bearish                            b eh / r ih sh
 bearnaise                          b eh r / n ey z
 bearskin                           b eh r / s k ih n
@@ -3474,7 +3474,7 @@ bethlehem                          b eh th / l ih / hh eh m
 betide                             b ih / t ay d
 betoken                            b ih / t ow / k ax n
 betray                             b ih / t r ey
-betrayal                           b ih / t r ey· ax l
+betrayal                           b ih / t r ey / ax l
 betrayer                           b ih / t r ey / er
 betroth                            b ih / t r ow dh
 betrothal                          b ih / t r ow / dh ax l
@@ -3552,7 +3552,7 @@ bigamy                             b ih / g ax / m iy
 bigfoot                            b ih g / f uh t
 biggie                             b ih / g iy
 bighead                            b ih g / hh eh d
-bighearted                         b ih g / hh aa r· dx ax d
+bighearted                         b ih g / hh aa r / dx ax d
 bight                              b ay t
 bigot                              b ih / g ax t
 bigotry                            b ih / g ax / t r iy
@@ -3612,7 +3612,7 @@ binoculars                         b ax / n aa / k y ax / l er z
 binomial                           b ay / n ow / m iy / ax l
 bint                               b ih n t
 binturong                          b ih / n / t uh / r aa ng
-bio                                b ay / ow-
+bio                                b ay / ow
 biochemical                        b ay / ow / k eh / m ih / k ax l
 biochemically                      b ay / ow / k eh / m ih / k ax / l iy
 biochemist                         b ay / ow / k eh / m ih s t
@@ -4274,7 +4274,7 @@ bowdlerise                         b ow d / l ax / r ay z
 bowdlerize                         b ow d / l ax / r ay z
 bowdlerizes                        b ow d / l ax / r ay z
 bowel                              b aw / ax l
-bowels                             b aa uh· ax l z
+bowels                             b aa uh / ax l z
 bower                              b aw / er
 bowl                               b ow l
 bowler                             b ow / l er
@@ -4303,7 +4303,7 @@ bra                                b r aa
 brac                               b r ih / k ax / b r ae k
 brace                              b r ey s
 bracelet                           b r ey / s l ax t
-braces                             b r ey· s ih z
+braces                             b r ey / s ih z
 brachial                           b r ey / k iy / ax l
 brachialis                         b r ey / k iy / ae / l ih s
 brachii                            b r ey / k iy / ay
@@ -4574,7 +4574,7 @@ browbeat                           b r aw / b iy t
 brown                              b r aw n
 brownfield                         b r aw n / f iy l d
 brownie                            b r aw / n iy
-brownies                           b r aa uh· n iy z
+brownies                           b r aa uh / n iy z
 brownish                           b r aw / n ih sh
 brownout                           b r aw / n aw t
 brownstone                         b r aw n / s t ow n
@@ -4888,7 +4888,7 @@ cabaret                            k ae / b er / ey
 cabbage                            k ae / b ih jh
 cabbie                             k ae / b iy
 cabby                              k ae / b iy
-cabdriver                          k ae b / d r aa ih· v er
+cabdriver                          k ae b / d r aa ih / v er
 caber                              k ey / b er
 cabin                              k ae / b ih n
 cabinet                            k ae / b ax / n ax t
@@ -4998,7 +4998,7 @@ calipers                           k ae / l ax / p er z
 caliph                             k ey / l ih f
 caliphate                          k ey / l ih / f ax t
 calisthenics                       k ae / l ax s / th eh / n ih k s
-calk                               ka k
+calk                               k ao k
 call                               k ao l
 callable                           k aa / l ax / b ax l
 callback                           k ao l / b ae k
@@ -5188,7 +5188,7 @@ capacity                           k ax / p ae / s ax / dx iy
 cape                               k ey p
 caper                              k ey / p er
 capercaillie                       k ae / p er / k ey / l iy
-capillarity                        k ae / p ax / l eh er· ax / dx iy
+capillarity                        k ae / p ax / l eh er / ax / dx iy
 capillary                          k ax / p ih / l er / iy
 capita                             k ae / p ih / dx ax
 capital                            k ae / p ax / dx ax l
@@ -5662,7 +5662,7 @@ center                             s eh n / dx er
 centerfold                         s eh n / dx er / f ow l d
 centerpiece                        s eh n / dx er p iy s
 centerpieces                       s eh n / dx er p iy s
-centi                              s eh n / dx ax-
+centi                              s eh n / dx ax
 centigrade                         s eh n / dx ax / g r ey d
 centigram                          s eh n / dx ax / g r ae m
 centigramme                        s eh n / dx ax / g r ae m
@@ -5778,7 +5778,7 @@ chalupa                            ch ax / l uw / p ax
 chamber                            ch ey m / b er
 chamberlain                        ch ey m / b er / l ih n
 chambermaid                        ch ey m / b er / m ey d
-chambers                           ch ey m· b er z
+chambers                           ch ey m / b er z
 chameleon                          k ax / m iy / l iy / ax n
 chamfer                            sh ae m / f er
 chamomile                          k ae / m ax / m ay l
@@ -5806,9 +5806,9 @@ changeover                         ch ey n jh / ow / v er
 changing                           ch ey n / jh ih ng
 channel                            ch ae / n ax l
 chant                              ch ae n t
-chanterelle                        sh aã n / t ax / r eh l
-chanteuse                          sh aã n / t uw z
-chanteuses                         sh aã n / t uw z / ax z
+chanterelle                        sh ae n / t ax / r eh l
+chanteuse                          sh ae n / t uw s
+chanteuses                         sh ae n / t uw s / ax z
 chantey                            sh ae n / t iy
 chanty                             sh ae n / t iy
 chanukah                           hh aa / n ax / k ax
@@ -6157,7 +6157,7 @@ christianize                       r iy / k r ih s / ch ax / n ay z
 christianizes                      r iy / k r ih s / ch ax / n ay z
 christmas                          k r ih s / m ax s
 christmases                        k r ih s / m ax s
-christmastime                      k r ih s· m ax s / t aa ih m
+christmastime                      k r ih s / m ax s / t aa ih m
 chromatic                          k r ow / m ae / dx ih k
 chromatid                          k r ow m ax t ih d
 chromatography                     k r ow / m ax / t aa / g r ax / f iy
@@ -6574,7 +6574,7 @@ cna                                s iy / eh / n ey
 cnd                                s iy / eh n / d iy
 cnn                                s iy / eh / n eh n
 cns                                s iy / eh / n eh s
-co                                 k ow-
+co                                 k ow
 coach                              k ow ch
 coaching                           k ow / ch ih ng
 coachwork                          k ow ch / w er k
@@ -6680,16 +6680,16 @@ coerces                            k ow / er s
 coercion                           k ow / er / sh ax n
 coercive                           k ow / er / s ih v
 coeval                             k ow / iy / v ax l
-coexist                            k ow· ih g / z ih s t
+coexist                            k ow / ih g / z ih s t
 coexistence                        k ow / ih g / z ih s / t ax n s
 coffee                             k aa / f iy
-coffeehouse                        k ao· f iy / hh aa uh s
-coffeehouses                       k ao· f iy / hh aa uh s
+coffeehouse                        k ao / f iy / hh aa uh s
+coffeehouses                       k ao / f iy / hh aa uh s
 coffeemaker                        k aa / f iy / m ey / k er
 coffeepot                          k aa / f iy / p aa t
 coffer                             k aa / f er
 cofferdam                          k aa / f er / d ae m
-coffers                            k ao· f er z
+coffers                            k ao / f er z
 coffin                             k aa / f ih n
 cog                                k aa g
 cogency                            k ow / jh ax n / s iy
@@ -6701,7 +6701,7 @@ cognac                             k ow / n y ae k
 cognate                            k aa g / n ey t
 cognisance                         k aa g / n ih / z ax n s
 cognisant                          k aa g / n ih / z ax n t
-cognition                          k aa g-
+cognition                          k aa g
 cognitive                          k aa g / n ax / dx ih v
 cognizance                         k aa g / n ih / z ax n s
 cognizant                          k aa g / n ih / z ax n t
@@ -6766,7 +6766,7 @@ collation                          k ax / l ey / sh ax n
 colleague                          k aa / l iy g
 collect                            k ax / l eh k t
 collectable                        k ax / l eh k / t ax / b ax l
-collectible                        k ax / l eh k· t ax· b ax l
+collectible                        k ax / l eh k / t ax / b ax l
 collection                         k ax / l eh k / sh ax n
 collective                         k ax / l eh k / t ih v
 collectively                       k ax / l eh k / t ih v / l iy
@@ -6857,7 +6857,7 @@ columbine                          k aa / l ax m / b ay n
 columbus                           k ax / l ah m / b ax s
 column                             k aa / l ax m
 columnist                          k aa / l ax m / n ih s t
-com                                k aa m-
+com                                k aa m
 coma                               k ow / m ax
 comatose                           k ow / m ax / t ow s
 comb                               k ow m
@@ -6956,7 +6956,7 @@ commodious                         k ax / m ow / d iy / ax s
 commodity                          k ax / m aa / d ax / dx iy
 commodore                          k aa / m ax / d ao r
 common                             k aa / m ax n
-commonality                        k aa / m ax / n ae / l ax / t iy̬
+commonality                        k aa / m ax / n ae / l ax / t iy
 commoner                           k aa / m ax / n er
 commonly                           k aa / m ax n / l iy
 commonplace                        k aa / m ax n / p l ey s
@@ -6972,7 +6972,7 @@ communicable                       k ax / m y uw / n ax / k ax / b ax l
 communicant                        k ax / m y uw / n ax / k ax n t
 communicate                        k ax / m y uw / n ax / k ey t
 communication                      k ax / m y uw / n ax / k ey / sh ax n
-communications                     k ax / m y uw· n ih / k ey· sh ax n z
+communications                     k ax / m y uw / n ih / k ey / sh ax n z
 communicative                      k ax / m y uw / n ax / k ey / dx ih v
 communicatively                    k ax / m y uw / n ax / k ey / dx ih v
 communicator                       k ax / m y uw / n ax / k ey / dx er
@@ -7092,7 +7092,7 @@ compost                            k aa m / p ow s t
 composting                         k aa m / p ow / s t ih ng
 composure                          k ax m / p ow / zh er
 compote                            k aa m / p ow t
-compound                           k aa m-
+compound                           k aa m
 comprehend                         k aa m / p r ax / hh eh n d
 comprehensibility                  k aa m / p r ax / hh eh n / s ax / b ih / l ax / dx iy
 comprehensible                     k aa m / p r ax / hh eh n / s ax / b ax l
@@ -7219,7 +7219,7 @@ condemn                            k ax n / d eh m
 condemnation                       k aa n / d ax m / n ey / sh ax n
 condemnatory                       k ax n / d eh m / n ax / t ao / r iy
 condensate                         k aa n / d ax n / s ey t
-condensation                       k aa n-
+condensation                       k aa n
 condense                           k ax n / d eh n s
 condenser                          k ax n / d eh n / s er
 condenses                          k ax n / d eh n s
@@ -7341,7 +7341,7 @@ congolese                          k aa ng / g ax / l iy z
 congrats                           k ax n / g r ae t s
 congratulate                       k ax n / g r ae / ch ax / l ey t
 congratulation                     k ax n / g r ae / ch ax / l ey / sh ax n
-congratulations                    k ax n / g r ae / ch ax / l ey· sh ax n z
+congratulations                    k ax n / g r ae / ch ax / l ey / sh ax n z
 congratulatory                     k ax n / g r ae / ch ax / l ax / t ao / r iy
 congregate                         k aa ng / g r ax / g ey t
 congregation                       k aa ng / g r ax / g ey / sh ax n
@@ -7559,7 +7559,7 @@ contention                         k ax n / t eh n / sh ax n
 contentious                        k ax n / t eh n / sh ax s
 contentiousness                    k ax n / t eh n / sh ax s / n ax s
 contentment                        k ax n / t eh n t / m ax n t
-contents                           k aa n· t eh n t s
+contents                           k aa n / t eh n t s
 contest                            k aa n / t eh s t
 contestable                        k ax n / t eh s / dx ax / b ax l
 contestant                         k ax n / t eh s / dx ax n t
@@ -7590,7 +7590,7 @@ contortion                         k ax n / t ao r / sh ax n
 contortionist                      k ax n / t ao r / sh ax / n ih s t
 contour                            k aa n / t uh r
 contouring                         k aa n / t uh / r ih ng
-contra                             k aa n / t r ax-
+contra                             k aa n / t r ax
 contraband                         k aa n / t r ax / b ae n d
 contraception                      k aa n / t r ax / s eh p / sh ax n
 contraceptive                      k aa n / t r ax / s eh p / t ih v
@@ -7741,7 +7741,7 @@ copayment                          k ow / p ey
 cope                               k ow p
 copenhagen                         k ow / p ax n / hh ey / g ax n
 copier                             k aa / p iy / er
-copilot                            k ow / p aa ih· l ax t
+copilot                            k ow / p aa ih / l ax t
 coping                             k ow / p ih ng
 copious                            k ow / p iy / ax s
 copiously                          k ow / p iy / ax s / l iy
@@ -7848,7 +7848,7 @@ corral                             k ax / r ae l
 correct                            k ax / r eh k t
 correction                         k ax / r eh k / sh ax n
 correctional                       k ax / r eh k / sh ax / n ax l
-corrections                        k ax / r eh k· sh ax n z
+corrections                        k ax / r eh k / sh ax n z
 corrective                         k ax / r eh k / t ih v
 correctly                          k ax / r eh k t / l iy
 correctness                        k ax / r eh k t / n ax s
@@ -8068,7 +8068,7 @@ cow                                k aw
 coward                             k aw / er d
 cowardice                          k aw / er / d ih s
 cowardly                           k aw / er d / l iy
-cowbell                            ka uw / b eh l
+cowbell                            k aw / b eh l
 cowboy                             k aw / b oy
 cowcatcher                         k aw / k ae / ch er
 cower                              k aw / er
@@ -8209,7 +8209,7 @@ creature                           k r iy / ch er
 creche                             k r eh sh
 credence                           k r iy / d ax n s
 credential                         k r ih / d eh n / sh ax l
-credentials                        k r ih / d eh n· sh ax l z
+credentials                        k r ih / d eh n / sh ax l z
 credenza                           k r ih / d eh n / z ax
 credibility                        k r eh / d ax / b ih / l ax / dx iy
 credible                           k r eh / d ax / b ax l
@@ -8233,7 +8233,7 @@ creeping                           k r iy / p ih ng
 creeps                             k r iy p s
 creepy                             k r iy / p iy
 cremains                           k r ih / m ey n z
-cremant                            k r eh / m aõ
+cremant                            k r eh / m aa n t
 cremate                            k r iy / m ey t
 cremation                          k r ih / m ey / sh ax n
 crematorium                        k r eh / m ax / t ao / r iy / ax m
@@ -8331,7 +8331,7 @@ crocus                             k r ow / k ax s
 crocuses                           k r ow / k ax s
 croft                              k r aa f t
 crofter                            k r aa f / t er
-croissant                          k w aa / s aã
+croissant                          k w aa / s aa n t
 cromlech                           k r aa m / l eh k
 crone                              k r ow n
 crony                              k r ow / n iy
@@ -8428,7 +8428,7 @@ crusty                             k r ah s / t iy
 crutch                             k r ah ch
 crux                               k r ah k s
 cry                                k r ay
-crybaby                            k r aa ih / b ey· b iy
+crybaby                            k r aa ih / b ey / b iy
 crying                             k r ay / ih ng
 cryogenic                          k r ay / ax / jh eh / n ih k
 cryogenically                      k r ay / ax / jh eh / n ih / k l iy
@@ -8621,7 +8621,7 @@ customises                         k ah s / t ax / m ay z
 customization                      k ah s / t ax / m ax / z ey / sh ax n
 customize                          k ah s / t ax / m ay z
 customizes                         k ah s / t ax / m ay z
-customs                            k ah· s t ax m z
+customs                            k ah / s t ax m z
 cut                                k ah t
 cutaneous                          k y uw / t ey / n iy / ax s
 cutaway                            k ah / dx ax / w ey
@@ -8738,7 +8738,7 @@ dally                              d ae / l iy
 dalmatian                          d ae l / m ey / sh ax n
 dam                                d ae m
 damage                             d ae / m ih jh
-damages                            d ae / m ih· jh ih z
+damages                            d ae / m ih / jh ih z
 damaging                           d ae / m ih / jh ih ng
 damask                             d ae / m ax s k
 dame                               d ey m
@@ -8846,7 +8846,7 @@ dbs                                d iy / b iy / eh s
 dc                                 d iy / s iy
 dci                                d iy / s iy / ay
 ddt                                d iy / d iy / t iy
-de                                 d iy-
+de                                 d iy
 deacon                             d iy / k ax n
 deaconess                          d iy / k ax / n ax s
 deaconesses                        d iy / k ax / n ax s
@@ -8869,7 +8869,7 @@ deal                               d iy l
 dealer                             d iy / l er
 dealership                         d iy / l er / sh ih p
 dealing                            d iy / l ih ng
-dealings                           d iy· l ih ng z
+dealings                           d iy / l ih ng z
 dealt                              d eh l t
 deaminate                          d iy / ae m ih n ey t
 deamination                        d iy / ae / m ax / n ey / sh ax n
@@ -9268,7 +9268,7 @@ dementia                           d ih / m eh n / sh ax
 demerit                            d iy / m eh / r ih t
 demesne                            d ih / m ey n
 demeter                            d ih / m iy / dx er
-demi                               d eh / m iy-
+demi                               d eh / m iy
 demigod                            d eh / m iy / g aa d
 demijohn                           d eh / m iy / jh aa n
 demilitarisation                   d iy / m ih / l ax / dx er / ax / z ey / sh ax n
@@ -9371,7 +9371,7 @@ denotation                         d iy / n ow / t ey / sh ax n
 denotational                       d iy / n ow / t ey / sh ax / n ax l
 denotative                         d iy / n ow / t ey / dx ih v
 denote                             d ih / n ow t
-denouement                         d ey / n uw / m aã
+denouement                         d ey / n uw / m aa n t
 denounce                           d ih / n aw n s
 denounces                          d ih / n aw n s
 dense                              d eh n s
@@ -9384,7 +9384,7 @@ dentist                            d eh n / dx ih s t
 dentistry                          d eh n / dx ih / s t r iy
 dentition                          d eh n / t ih / sh ax n
 denture                            d eh n / ch er
-dentures                           d eh n· ch er z
+dentures                           d eh n / ch er z
 denuclearization                   d iy / n uw / k l iy / er / ay / z ey / sh ax n
 denuclearize                       d iy / n uw / k l iy / ax / r ay z
 denude                             d ih / n uw d
@@ -9500,11 +9500,11 @@ derisory                           d ih / r ay / er / iy
 derivation                         d eh / r ax / v ey / sh ax n
 derivative                         d ih / r ih / v ax / dx ih v
 derive                             d ih / r ay v
-derma                              d er / m ax-
+derma                              d er / m ax
 dermal                             d er / m ax l
 dermatitis                         d er / m ax / t ay / dx ax s
 dermatologist                      d er / m ax / t aa / l ax / jh ih s t
-dermatology                        d er / m ax / t aa / l ax-
+dermatology                        d er / m ax / t aa / l ax
 dermatome                          d er / m ax / t ow m
 dermis                             d er / m ih s
 derogate                           d eh / r ax / g ey t
@@ -10521,7 +10521,7 @@ dogfish                            d aa g / f ih sh
 doggedly                           d aa / g ih d / l iy
 doggedness                         d aa / g ih d / n ax s
 doggerel                           d aa / g er / ax l
-doggie                             d ao· g iy
+doggie                             d ao / g iy
 dogging                            d aa / g ih ng
 doggo                              d aa / g ow
 doggone                            d aa / g aa n
@@ -10748,7 +10748,7 @@ doziness                           d ow / z iy / n ax s
 dozy                               d ow / z iy
 dphil                              d iy / f ih l
 dpp                                d iy / p iy / p iy
-dr                                 d aa k· t er
+dr                                 d aa k / t er
 drab                               d r ae b
 drably                             d r ae b / l iy
 drabness                           d r ae b / n ax s
@@ -10829,7 +10829,7 @@ dreck                              d r eh k
 dredge                             d r eh jh
 dredger                            d r eh / jh er
 dregs                              d r eh g z
-dreich                             d r iyx
+dreich                             d r iy k
 drench                             d r eh n ch
 dress                              d r eh s
 dressage                           d r eh / s aa zh
@@ -10922,7 +10922,7 @@ drupe                              d r uw p
 druthers                           d r ah / dh er z
 dry                                d r ay
 dryer                              d r ay / er
-dryly                              d r aa ih· l iy
+dryly                              d r aa ih / l iy
 dryness                            d r ay / n ax s
 drywall                            d r ay / w ao l
 dual                               d uw / ax l
@@ -11130,7 +11130,7 @@ earthiness                         er / th iy / n ax s
 earthling                          er th / l ih ng
 earthly                            er th / l iy
 earthquake                         er th / k w ey k
-earthshaking                       er th / sh ey· k ih ng
+earthshaking                       er th / sh ey / k ih ng
 earthward                          er th / w er d
 earthwork                          er th / w er r k
 earthworm                          er th / w er m
@@ -11196,7 +11196,7 @@ eclectically                       eh k / l eh k / t ih / k ax / l iy
 eclecticism                        eh k / l eh k / t ih / s ih / z ax m
 eclipse                            ih / k l ih p s
 eclipses                           ih / k l ih p s
-eco                                iy / k ow-
+eco                                iy / k ow
 ecocide                            iy / k ow / s ay d
 ecological                         iy / k ax / l aa / jh ih / k ax l
 ecologically                       iy / k ax / l aa / jh ih / k ax / l iy
@@ -11432,7 +11432,7 @@ electromagnetic                    iy / l eh k / t r ow / m ae g / n eh / dx ih 
 electromagnetism                   iy / l eh k / t r ow / m ae g / n ax / t ih / z ax m
 electromotive                      iy / l eh k / t r ax / m ow / dx ih v
 electron                           iy / l eh k / t r aa n
-electronegativity                  ih / l eh k· t r ow / n eh / g ax / t ih / v ih· dx iy
+electronegativity                  ih / l eh k / t r ow / n eh / g ax / t ih / v ih / dx iy
 electronic                         iy / l eh k / t r aa / n ih k
 electronically                     iy / l eh k / t r aa / n ih / k ax / l iy
 electronics                        iy / l eh k / t r aa / n ih k s
@@ -11448,7 +11448,7 @@ element                            eh / l ax / m ax n t
 elemental                          eh / l ax / m eh n / dx ax l
 elementally                        eh / l ax / m eh n / dx ax / l iy
 elementary                         eh / l ax / m eh n / dx er / iy
-elements                           eh / l ax· m ax n t s
+elements                           eh / l ax / m ax n t s
 elephant                           eh / l ax / f ax n t
 elephantine                        eh / l ax / f ae n / t ay n
 elevate                            eh / l ax / v ey t
@@ -11640,7 +11640,7 @@ emulation                          eh m / y ax / l ey / sh ax n
 emulsifier                         ih / m ah l / s ax / f ay / er
 emulsify                           ih / m ah l / s ax / f ay
 emulsion                           ih / m ah l / sh ax n
-en                                 ih n-
+en                                 ih n
 enable                             ih / n ey / b ax l
 enablement                         ih / n ey / b ax l / m ax n t
 enabler                            ih / n ey / b l er
@@ -12716,7 +12716,7 @@ extreme                            ih k / s t r iy m
 extremely                          ih k / s t r iy m / l iy
 extremism                          ih k / s t r iy / m ih / z ax m
 extremist                          ih k / s t r iy / m ih s t
-extremities                        ih k / s t r eh / m ih· dx iy z
+extremities                        ih k / s t r eh / m ih / dx iy z
 extremity                          ih k / s t r eh / m ax / dx iy
 extricate                          eh k / s t r ih / k ey t
 extrication                        eh k / s t r ax / k ey / sh ax n
@@ -12895,8 +12895,8 @@ familiar                           f ax / m ih / l iy / y er
 familiarise                        f ax / m ih / l iy / ax / r ay z
 familiarises                       f ax / m ih / l iy / ax / r ay z
 familiarity                        f ax / m ih / l iy / eh / r ax / dx iy
-familiarize                        f ax / m ih l· y ax / r aa ih z
-familiarizes                       f ax / m ih l· y ax / r aa ih z
+familiarize                        f ax / m ih l / y ax / r aa ih z
+familiarizes                       f ax / m ih l / y ax / r aa ih z
 familiarly                         f ax / m ih / l iy / y er / l iy
 family                             f ae / m ax / l iy
 famine                             f ae / m ih n
@@ -13179,7 +13179,7 @@ fest                               f eh s t
 fester                             f eh s / t er
 festival                           f eh s / t ax / v ax l
 festive                            f eh s / t ih v
-festivities                        f eh / s t ih / v ih· dx iy z
+festivities                        f eh / s t ih / v ih / dx iy z
 festivity                          f eh s / t ih / v ax / dx iy
 festoon                            f eh s / t uw n
 feta                               f eh / dx ax
@@ -13351,7 +13351,7 @@ finances                           f ay / n ae n s
 financial                          f ay / n ae n / sh ax l
 financially                        f ay / n ae n / sh ax / l iy
 financier                          f ih / n ae n / s iy / er
-financing                          f ax / n ae n· s ih ng
+financing                          f ax / n ae n / s ih ng
 finch                              f ih n ch
 find                               f ay n d
 finder                             f ay n / d er
@@ -13699,7 +13699,7 @@ flosses                            f l aa s
 flossing                           f l aa / s ih ng
 flotation                          f l ow / t ey / sh ax n
 flotilla                           f l ax / t ih / l ax
-flotsam                            f l aa t-
+flotsam                            f l aa t
 flounce                            f l aw n s
 flounces                           f l aw n s
 flouncy                            f l aw n / s iy
@@ -13800,7 +13800,7 @@ fohn                               f uh n
 foible                             f oy / b ax l
 foil                               f oy l
 foist                              f oy s t
-folate                             fo uw / l ey t
+folate                             f ow / l ey t
 fold                               f ow l d
 foldable                           f ow l / d ax / b ax l
 foldaway                           f ow l / d ax / w ey
@@ -13933,7 +13933,7 @@ foremen                            f ao r / m ax n
 foremost                           f ao r / m ow s t
 foremother                         f ao r / m ah / dh er
 forename                           f ao r / n ey m
-forensic                           f ax / r eh n· s ih k
+forensic                           f ax / r eh n / s ih k
 forensically                       f ax / r eh n / z ih / k ax / l iy
 forensics                          f ax / r eh n / z ih k s
 foreplay                           f ao r / p l ey
@@ -14114,11 +14114,11 @@ franchises                         f r ae n / ch ay z
 franchising                        f r ae n / ch ay / z ih ng
 franchisor                         f r ae n / ch ay / z er
 franciscan                         f r ae n / s ih s / k ax n
-franco                             f r ae ng / k ow-
+franco                             f r ae ng / k ow
 francophone                        f r ae ng / k ow / f ow n
 frangipane                         f r aa n / jh ih / p ey n
 frank                              f r ae ng k
-franken                            f r ae ng / k ax n-
+franken                            f r ae ng / k ax n
 frankenstein                       f r ae ng / k ax n / s t ay n
 frankfurter                        f r ae ng k / f er / dx er
 frankincense                       f r ae ng / k ih n / s eh n s
@@ -14502,7 +14502,7 @@ gadfly                             g ae d / f l ay
 gadget                             g ae / jh ax t
 gadgetry                           g ae / jh ax / t r iy
 gael                               g ey l
-gaeltacht                          g ey l / t axx t
+gaeltacht                          g ey l / t ax k t
 gaff                               g ae f
 gaffe                              g ae f
 gaffer                             g ae / f er
@@ -14610,7 +14610,7 @@ garbanzo                           ch ih k / p iy
 garble                             g aa r / b ax l
 garcon                             g aa r / s ow n
 garda                              g aa r / d ax
-garde                              ae / v aã / g aa r d
+garde                              g aa r d
 garden                             g aa r / d ax n
 gardener                           g aa r / d ax / n er
 gardenia                           g aa r / d iy / n iy / ax
@@ -14832,7 +14832,7 @@ genuine                            jh eh n / y uw / ih n
 genuinely                          jh eh n / y uw / ih n / l iy
 genuineness                        jh eh n / y uw / ih n / n ax s
 genus                              jh iy / n ax s
-geo                                jh iy / ow-
+geo                                jh iy / ow
 geocentric                         jh iy / ow / s eh n / t r ih k
 geodesic                           jh iy / ax / d eh / z ih k
 geodesy                            jh iy / ax / d eh / dx ih k s
@@ -14948,7 +14948,7 @@ giddy                              g ih / d iy
 gif                                g ih f
 gift                               g ih f t
 gig                                g ih g
-giga                               g ih / g ax-
+giga                               g ih / g ax
 gigabit                            g ih / g ax / b ih t
 gigabyte                           g ih / g ax / b ay t
 gigahertz                          g ih / g ax / hh er t s
@@ -15200,7 +15200,7 @@ gob                                g aa b
 gobbet                             g aa / b ih t
 gobble                             g aa / b ax l
 gobbledegook                       g aa / b ax l / d iy / g uw k
-gobbledygook                       g aa / b ax l· d iy / g uh k
+gobbledygook                       g aa / b ax l / d iy / g uh k
 gobby                              g aa / b iy
 gobi                               g ow / b iy
 goblet                             g aa / b l ax t
@@ -15438,7 +15438,7 @@ grapevine                          g r ey p / v ay n
 graph                              g r ae f
 grapheme                           g r ae / f iy m
 graphic                            g r ae / f ih k
-graphical                          g r ae / f ih· k ax l
+graphical                          g r ae / f ih / k ax l
 graphically                        g r ae / f ih / k ax / l iy
 graphics                           g r ae / f ih k s
 graphing                           g r ae f ih ng
@@ -15511,7 +15511,7 @@ greatly                            g r ey t / l iy
 greatness                          g r ey t / n ax s
 grebe                              g r iy b
 grecian                            g r iy / sh ax n
-greco                              g r eh / k ow-
+greco                              g r eh / k ow
 greece                             g r iy s
 greed                              g r iy d
 greedily                           g r iy / d ax / l iy
@@ -15604,7 +15604,7 @@ groan                              g r ow n
 groat                              g r ow t
 grocer                             g r ow / s er
 grocer's                           g r ow / s er z
-groceries                          g r ow· s ax· r iy z
+groceries                          g r ow / s ax / r iy z
 grocery                            g r ow / s er / iy
 grog                               g r aa g
 grogger                            g r aa / g er
@@ -16004,7 +16004,7 @@ handiwork                          hh ae n / d iy / w er k
 handkerchief                       hh ae ng / k er / ch iy f
 handle                             hh ae n / d ax l
 handlebar                          hh ae n / d ax l / b aa r
-handlebars                         hh ae n· d ax l / b aa r z
+handlebars                         hh ae n / d ax l / b aa r z
 handler                            hh ae n d / l er
 handling                           hh ae n d / l ih ng
 handmade                           hh ae n d / m ey d
@@ -16037,7 +16037,7 @@ hangnail                           hh ae ng / n ey l
 hangout                            hh ae / ng aw t
 hangover                           hh ae ng / ow / v er
 hank                               hh ae ng k
-hanker                             hh ae ng· k er
+hanker                             hh ae ng / k er
 hankering                          hh ae ng / k er / ih ng
 hankie                             hh ae ng / k iy
 hanky                              hh ae ng / k iy
@@ -16080,7 +16080,7 @@ hardship                           hh aa r d / sh ih p
 hardtop                            hh aa r d / t aa p
 hardware                           hh aa r d / w eh r
 hardwood                           hh aa r d / w uh d
-hardworking                        hh aa r d / w er· k ih ng
+hardworking                        hh aa r d / w er / k ih ng
 hardy                              hh aa r / d iy
 hare                               hh eh r
 harebell                           hh eh r / b eh l
@@ -16372,7 +16372,7 @@ hejira                             hh eh / jh ih / r ax
 held                               hh eh l d
 helical                            hh iy / l ih / k ax l
 helicopter                         hh eh / l ax / k aa p / t er
-helio                              hh iy / l iy / ow-
+helio                              hh iy / l iy / ow
 heliocentric                       hh iy / l iy / ax / s eh n / t r ih k
 heliotherapy                       hh iy / l iy / ow / th eh / r ax / p iy
 heliotrope                         hh iy / l iy / ax / t r ow p
@@ -16502,7 +16502,7 @@ heroin                             hh eh / r ow / ih n
 heroine                            hh eh / r ow / ih n
 heroism                            hh eh / r ow / ih / z ax m
 heron                              hh eh / r ax n
-herp                               hh er p-
+herp                               hh er p
 herpes                             hh er / p iy z
 herring                            hh eh / r ih ng
 herringbone                        hh eh / r ih ng / b ow n
@@ -16728,7 +16728,7 @@ holdall                            hh ow l / d ao l
 holdback                           hh ow l d / b ae k
 holder                             hh ow l / d er
 holding                            hh ow l / d ih ng
-holdings                           hh ow l· d ih ng z
+holdings                           hh ow l / d ih ng z
 holdout                            hh ow l / d aw t
 holdover                           hh ow l / d ow / v er
 holdup                             hh ow l / d ah p
@@ -16879,7 +16879,7 @@ hooky                              hh uh / k iy
 hooligan                           hh uw / l ih / g ax n
 hooliganism                        hh uw / l ih / g ax / n ih / z ax m
 hoop                               hh uw p
-hoopla                             hh uw p· l aa
+hoopla                             hh uw p / l aa
 hoopoe                             hh uw / p uw
 hoorah                             hh ax / r aa
 hooray                             hh ax / r ey
@@ -17096,7 +17096,7 @@ humanist                           hh y uw / m ax / n ih s t
 humanistic                         hh y uw / m ax / n ih s / t ih k
 humanitarian                       hh y uw / m ae / n ih / t eh / r iy / ax n
 humanitarianism                    hh y uw / m ae / n ih / t eh / r iy / ax / n ih / z ax m
-humanities                         hh y uw / m ae / n ih· dx iy z
+humanities                         hh y uw / m ae / n ih / dx iy z
 humanity                           hh y uw / m ae / n ax / dx iy
 humanization                       hh y uw / m ax / n ax / z ey / sh ax n
 humanize                           hh y uw / m ax / n ay z
@@ -17230,7 +17230,7 @@ hydrolyses                         hh ay / d r ax / l ay z
 hydrolysis                         hh ay / d r aa / l ax / s ih s
 hydrolyze                          hh ay / d r ax / l ay z
 hydrometer                         hh ay / d r aa / m ax / dx er
-hydronium                          hh aa ih / d r ow· n iy· ax m
+hydronium                          hh aa ih / d r ow / n iy / ax m
 hydrophilic                        hh ay d r ow / f ih l ih k
 hydrophobia                        hh ay / d r ow / f ow / b iy / ax
 hydrophobic                        hh ay d r ow / f ow b ih k
@@ -17909,7 +17909,7 @@ incline                            ih n / k l ay n
 include                            ih n / k l uw d
 including                          ih n / k l uw / d ih ng
 inclusion                          ih n / k l uw / zh ax n
-inclusive                          ih n / k l uw· s ih v
+inclusive                          ih n / k l uw / s ih v
 inclusiveness                      ih n / k l uw / s ih v / n ax s
 incognito                          ih n / k aa g / n iy / dx ow
 incoherence                        ih n / k ow / hh ih / r ax n s
@@ -17985,7 +17985,7 @@ incredibly                         ih n / k r eh / d ax / b l iy
 incredulity                        ih n / k r ax / d uw / l ax / dx iy
 incredulous                        ih n / k r eh / jh ax / l ax s
 incredulously                      ih n / k r eh / jh ax / l ax s / l iy
-increment                          ih n· k r ax· m ax n t
+increment                          ih n / k r ax / m ax n t
 incremental                        ih ng / k r ax / m eh n / dx ax l
 incrementally                      ih ng / k r ax / m eh n / dx ax / l iy
 incriminate                        ih n / k r ih / m ax / n ey t
@@ -18109,7 +18109,7 @@ individually                       ih n / d ax / v ih / jh uw / ax / l iy
 indivisibility                     ih n / d ih / v ih / z ax / b ih / l ax / dx iy
 indivisible                        ih n / d ih / v ih / z ax / b ax l
 indivisibly                        ih n / d ih / v ih / z ax / b l iy
-indo                               ih n / d ow-
+indo                               ih n / d ow
 indoctrinate                       ih n / d aa k / t r ax / n ey t
 indoctrination                     ih n / d aa k / t r ax / n ey / sh ax n
 indolence                          ih n / d ax / l ax n s
@@ -18326,7 +18326,7 @@ ingenuity                          ih n / jh ax / n y uw / ax / dx iy
 ingenuous                          ih n / jh eh n / y uw / ax s
 ingenuously                        ih n / jh eh n / y uw / ax s / l iy
 ingest                             ih n / jh eh s t
-ingestion                          ih / nʤ eh s / ch ax n
+ingestion                          ih / n / jh eh s / ch ax n
 inglenook                          ih ng / g ax l / n uh k
 inglorious                         ih n / g l ao / r iy / ax s
 ingot                              ih ng / g ax t
@@ -18583,7 +18583,7 @@ institutionally                    ih n / s t ax / t uw / sh ax / n ax l
 instruct                           ih n / s t r ah k t
 instruction                        ih n / s t r ah k / sh ax n
 instructional                      ih n / s t r ah k / sh ax / n ax l
-instructions                       ih n / s t r ah k· sh ax n z
+instructions                       ih n / s t r ah k / sh ax n z
 instructive                        ih n / s t r ah k / t ih v
 instructively                      ih n / s t r ah k / t ih v / l iy
 instructor                         ih n / s t r ah k / t er
@@ -18929,7 +18929,7 @@ interzone                          ih n / dx er / z ow n
 intestate                          ih n / t eh s / t ey t
 intestinal                         ih n / t eh s / t ih / n ax l
 intestine                          ih n / t eh s / t ih n
-intestines                         ih n / t eh· s t ax n z
+intestines                         ih n / t eh / s t ax n z
 intifada                           ih n / t ih / f aa d ax
 intimacy                           ih n / dx ax / m ax / s iy
 intimate                           ih n / dx ax / m ax t
@@ -18950,7 +18950,7 @@ intoxicant                         ih n / t aa k / s ih / k ax n t
 intoxicate                         ih n / t aa k / s ih / k ey t
 intoxicating                       ih n / t aa k / s ih / k ey / dx ih ng
 intoxication                       ih n / t aa k / s ax / k ey / sh ax n
-intra                              ih n / t r ax-
+intra                              ih n / t r ax
 intracapsular                      ih n / t r ax / k ae p / s ax / l er
 intracellular                      ih n / t r ax / s eh l / y ax / l er
 intracranial                       ih n / t r ax / k r ey / n iy / ax l
@@ -19273,7 +19273,7 @@ italic                             ih / t ae / l ih k
 italicize                          ih / t ae / l ax / s ay z
 italicizes                         ih / t ae / l ax / s ay z
 italics                            ih / t ae / l ih k s
-italo                              ih / dx ax / l ow-
+italo                              ih / dx ax / l ow
 italy                              ih / dx ax / l iy
 itch                               ih ch
 itchiness                          ih / ch iy / n ax s
@@ -19583,7 +19583,7 @@ juggling                           jh ah g / l ih ng
 jugular                            jh ah g / y uh / l er
 juice                              jh uw s
 juicer                             jh uw / s er
-juices                             jh uw· s ax z
+juices                             jh uw / s ax z
 juiciness                          jh uw / s iy / n ax s
 juicing                            jh uw / s ih ng
 juicy                              jh uw / s iy
@@ -20964,7 +20964,7 @@ longshoremen                       l aa ng / sh ao r / m ax n
 longsightedness                    l aa ng / s ay / dx ih d / n ax s
 longstanding                       l aa ng / s t ae n / d ih ng
 longtime                           l ao ng / t aa ih m
-longueur                           l aõ / g er
+longueur                           l aa ng / g er
 longus                             l ao ng / g ax s
 longways                           l aa ng / w ey z
 longwise                           l aa ng / w ey z
@@ -21399,8 +21399,8 @@ makeshift                          m ey k / sh ih f t
 makeup                             m ey / k ah p
 makeweight                         m ey k / w ey t
 making                             m ey / k ih ng
-makings                            m ey· k ih ng z
-mal                                m ae l-
+makings                            m ey / k ih ng z
+mal                                m ae l
 malachite                          m ae / l ax / k ay t
 maladaptive                        m ae / l ax / d ae p / t ih v
 maladjustment                      m ae / l ax / jh ah s t / m ax n t
@@ -21511,7 +21511,7 @@ maneuver                           m ax / n uw / v er
 maneuverability                    m ax / n uw / v r ax / b ih / l ax / dx iy
 maneuverable                       m ax / n uw / v r ax / b ax l
 maneuvering                        m ax / n uw / v er / ih ng
-maneuvers                          m ax / n uw· v er z
+maneuvers                          m ax / n uw / v er z
 maneuvre                           m ax / n uw / v er
 manfully                           m ae n / f ax / l iy
 manga                              m ae ng / g ax
@@ -21611,7 +21611,7 @@ marathon                           m eh / r ax / th aa n
 marauder                           m ax / r aa / d er
 marauding                          m ax / r aa / d ih ng
 marble                             m aa r / b ax l
-marbles                            m aa r· b ax l z
+marbles                            m aa r / b ax l z
 marbling                           m aa b l ih ng
 marcasite                          m aa r / k ax / s ay t
 march                              m aa r ch
@@ -22031,7 +22031,7 @@ melancholic                        m eh / l ax ng / k aa / l ih k
 melancholy                         m eh / l ax ng / k aa / l iy
 melanesia                          m eh / l ax / n iy / z iy / zh ax
 melanesian                         m eh / l ax / n iy / z iy / zh ax n
-melange                            m ey / l aã zh
+melange                            m ey / l aa n jh
 melanin                            m eh / l ax / n ih n
 melanistic                         m eh / l ax / n ih s / t ih k
 melanoma                           m eh / l ax / n ow / m ax
@@ -22059,7 +22059,7 @@ meltwater                          m eh l t / w aa / dx er
 member                             m eh m / b er
 membership                         m eh m / b er / sh ih p
 membrana                           m eh m / b r ey / n ax
-membrane                           m eh m· b r ey n
+membrane                           m eh m / b r ey n
 membranophone                      m eh m / b r ey / n ax / f ow n
 membranous                         m eh m / b r ax / n ax s
 meme                               m iy m
@@ -22454,7 +22454,7 @@ millennium                         m ih / l eh / n iy / ax m
 millepede                          m ih / l ax / p iy d
 miller                             m ih / l er
 millet                             m ih / l ih t
-milli                              m ih / l ih-
+milli                              m ih / l ih
 milliampere                        m ih / l iy / ae m / p ih r
 milliard                           m ih / l iy / ax d
 millibar                           m ih / l ih / b aa r
@@ -22554,7 +22554,7 @@ miniskirt                          m ih / n iy / s k er t
 minister                           m ih / n ax / s t er
 ministerial                        m ih / n ax / s t ih / r iy / ax l
 ministrations                      m ih / n ax / s t r ey / sh ax n z
-ministry                           m ih / n ax· s t r iy
+ministry                           m ih / n ax / s t r iy
 minivan                            m ih / n iy / v ae n
 mink                               m ih ng k
 minnesota                          m ih / n ih / s ow / dx ax
@@ -22897,7 +22897,7 @@ mohair                             m ow / hh eh r
 mohammedan                         m ow / hh ae / m ax / d ax n
 mohawk                             m ow / hh aa k
 mohican                            m ow / hh iy / k ax n
-moho                               m ow· hh ow
+moho                               m ow / hh ow
 moi                                m w aa
 moiety                             m oy / ax / dx iy
 moire                              m w aa / r ey
@@ -22915,7 +22915,7 @@ mojo                               m ow / jh ow
 molal                              m ow / l ax l
 molality                           m ow / l ae / l ax / dx iy
 molar                              m ow / l er
-molarity                           m ow / l ae / r ih· dx iy
+molarity                           m ow / l ae / r ih / dx iy
 molasses                           m ax / l ae / s ih z
 mold                               m ow l d
 moldavian                          m ao l / d ow / v ax n
@@ -23017,7 +23017,7 @@ monomania                          m aa / n ow / m ey / n iy / ax
 monomaniac                         m aa / n ow / m ey / n iy / ae k
 monomaniacal                       m aa / n ow / m ax / n ay / ax / k ax l
 monomer                            m aa / n ax / m er
-monomial                           m aa / n ow· m iy· ax l
+monomial                           m aa / n ow / m iy / ax l
 mononucleosis                      m aa / n ow / n uw / k l iy / ow / s ih s
 monophthong                        m aa / n ax f / th aa ng
 monoplane                          m aa / n ax / p l ey n
@@ -23270,7 +23270,7 @@ moviegoer                          m uw / v iy / g ow / er
 moviegoing                         m uw / v iy / g ow / ih ng
 moviemaker                         m uw / v iy / m ey / k er
 moviemaking                        m uw / v iy / m ey / k iy ng
-movies                             m uw· v iy z
+movies                             m uw / v iy z
 moving                             m uw / v ih ng
 movingly                           m uw / v ih ng / l iy
 mow                                m ow
@@ -23351,7 +23351,7 @@ mull                               m ah l
 mullah                             m uh / l ax
 mullet                             m ah / l ih t
 mulligatawny                       m ah / l ax / g ax / t aa / n iy
-multi                              m ah l / t iy-
+multi                              m ah l / t iy
 multiaxial                         m ah l / t iy / ae k / s iy / ax l
 multiblade                         m ah l / t iy / b l ey / d ih d
 multibuilding                      m ah l / t iy / b ih l / d ih ng
@@ -23637,7 +23637,7 @@ nance                              n ae n / s iy
 nancy                              n ae n / s iy
 nankeen                            n ae ng / k iy n
 nanny                              n ae / n iy
-nano                               n ae / n ow-
+nano                               n ae / n ow
 nanogram                           n ae / n ax / g r ae m
 nanometer                          n ae / n ow / m iy / dx er
 nanometre                          n ae / n ow / m iy / dx er
@@ -23678,7 +23678,7 @@ nascar                             n ae s / k aa r
 nascent                            n ey / s ax n t
 nashville                          n ae sh / v ih l
 nasi                               n ey / z ay
-naso                               n ey / z ow-
+naso                               n ey / z ow
 nasopharyngeal                     n ey / z ow / f ax / r ih n / jh iy / ax l
 nasopharynx                        n ey / z ow / f eh / r ih ng k s
 nastily                            n ae s / t ax / l iy
@@ -23862,7 +23862,7 @@ neither                            n ay / dh er
 nelly                              n eh / l iy
 nematode                           n eh m ax t ow d
 nemesis                            n eh / m ax / s ih s
-neo                                n iy / ow-
+neo                                n iy / ow
 neoclassical                       n iy / ow / k l ae / s ih / k ax l
 neoclassicism                      n iy / ow / k l ae / s ih / s ih / z ax m
 neocolonialism                     n iy / ow / k ax / l ow / n iy / ax / l ih / z ax m
@@ -23927,7 +23927,7 @@ networking                         n eh t / w er / k ih ng
 neural                             n uh / r ax l
 neuralgia                          n uh / r ae l / jh ax
 neuralgic                          n uh / r ae l / jh ih k
-neuro                              n uh / r ow-
+neuro                              n uh / r ow
 neurodegenerative                  n uh / r ow / d ih / jh eh / n ax / r ax / dx ih v
 neuroendocrine                     n uh / r ow / eh n / d ax / k r ih n
 neurogenesis                       n uh / r ow / jh eh / n ax / s ih s
@@ -23940,7 +23940,7 @@ neuron                             n uh / r aa n
 neuronal                           n uh / r ow / n ax l
 neuropathic                        n uh / r ax / p ae / th ih k
 neuropathy                         n uh / r aa / p ax / th iy
-neuroscience                       n uh / r ow-
+neuroscience                       n uh / r ow
 neuroscientist                     n uh / r ow / s ay / ax n / t ih s t
 neurosis                           n uh / r ow / s ih s
 neurosurgeon                       n uh / r ow / s er / jh ax n
@@ -24161,7 +24161,7 @@ nominate                           n aa / m ax / n ey t
 nomination                         n aa / m ax / n ey / sh ax n
 nominative                         n aa / m ax / n ax / dx ih v
 nominee                            n aa / m ax / n iy
-non                                n aa n-
+non                                n aa n
 nonabrasive                        n aa / n ax / b r ey / s ih v
 nonabsorbable                      n aa / n ax b / z ao r / b ax / b ax l
 nonabsorbent                       n aa / n ax b / z ao r / b ax n t
@@ -24288,11 +24288,11 @@ nones                              n ow n z
 nonetheless                        n ah n / dh ax / l eh s
 nonethical                         n aa / n eh / th ih / k ax l
 nonexclusive                       n aa / n ih k / s k l uw / s ih v
-nonexistent                        n aa / n ih g / z ih· s t ax n t
+nonexistent                        n aa / n ih g / z ih / s t ax n t
 nonexistential                     n aa / n eh g / z ih / s t eh n / sh ax l
 nonfiction                         n aa n / f ih k / sh ax n
 nonfinal                           n aa n / f ay / n ax l
-nonflammable                       n aa n / f l ae / m ax· b ax l
+nonflammable                       n aa n / f l ae / m ax / b ax l
 nonforfeitable                     n aa / n / f ao r / f ih / t ax / b ax l
 nonforfeiture                      n aa n / f ao r / f ax / ch er
 nonfulfillment                     n aa n / f uh l / f ih l / m ax n t
@@ -24306,24 +24306,24 @@ nonmetal                           n aa n / m eh / dx ax l
 nonnegotiable                      n aa n / n ax / g ow / sh iy / ax
 nonpareil                          n aa n / p ax / r eh l
 nonpartisan                        n aa n / p aa r / dx ax / z ax n
-nonpayment                         n aa n / p ey· m ax n t
+nonpayment                         n aa n / p ey / m ax n t
 nonplacental                       n aa n / p l ax / s eh n / dx ax l
-nonpolar                           n aa n / p ow· l er
+nonpolar                           n aa n / p ow / l er
 nonpregnant                        n aa n / p r eh g / n ax n t
 nonprofessionally                  n aa n / p r ax / f eh / sh ax / n ax / l iy
 nonprofit                          n aa n / p r aa / f ih t
-nonproliferation                   n aa n· p r ax / l ih / f ax / r ey· sh ax n
+nonproliferation                   n aa n / p r ax / l ih / f ax / r ey / sh ax n
 nonradioactive                     n aa n / r ey / d iy / ow / ae k / t ih v
 nonreactive                        n aa n / r iy / ae k / t ih v
 nonrepresentational                n aa n / r eh p / r ih / z eh n / t ey / sh ax / n ax l
 nonresident                        n aa n / r eh / z ih / d ax n t
-nonsectarian                       n aa n· s eh k / t ax eh / r iy· ax n
+nonsectarian                       n aa n / s eh k / t ax eh / r iy / ax n
 nonsense                           n aa n / s eh n s
 nonsensical                        n aa n / s eh n / s ih / k ax l
-nonsmoker                          n aa n / s m ow· k er
-nonsmoking                         n aa n / s m ow· k ih ng
+nonsmoker                          n aa n / s m ow / k er
+nonsmoking                         n aa n / s m ow / k ih ng
 nonspecifically                    n aa n / s p ax / s ih / f ih k / l iy
-nonstandard                        n aa n / s t ae n· d er d
+nonstandard                        n aa n / s t ae n / d er d
 nonstop                            n aa n / s t aa p
 nonstrategic                       n aa n / s t r ax / t iy / jh ih k
 nonstudent                         n aa n / s t uw / d ax n t
@@ -24657,7 +24657,7 @@ objectively                        ax b / jh eh k / t ih v / l iy
 objectivity                        aa b / jh eh k / t ih / v ax / dx iy
 objector                           ax b / jh eh k / t er
 oblation                           ax / b l ey / sh ax n
-obligate                           aa b· l ax / g ey t
+obligate                           aa b / l ax / g ey t
 obligation                         aa / b l ax / g ey / sh ax n
 obligatory                         ax / b l ih / g ax / t ao / r iy
 oblige                             ax / b l ay jh
@@ -24935,7 +24935,7 @@ ominous                            aa / m ax / n ax s
 ominously                          aa / m ax / n ax s / l iy
 omission                           ow / m ih / sh ax n
 omit                               ow / m ih t
-omni                               aa m / n ih-
+omni                               aa m / n ih
 omnibus                            aa m / n ax / b ax s
 omnibuses                          aa m / n ax / b ax s
 omnidirectional                    aa m / n ih / d ih / r eh k / sh ax / n ax l
@@ -25147,7 +25147,7 @@ organisational                     ao r / g ax / n ax / z ey / sh ax / n ax l
 organise                           ao r / g ax / n ay z
 organiser                          ao r / g ax / n ay / z er
 organises                          ao r / g ax / n ay z
-organism                           ao r-
+organism                           ao r
 organist                           ao r / g ax / n ih s t
 organization                       ao r / g ax / n ax / z ey / sh ax n
 organizational                     ao r / g ax / n ax / z ey / sh ax / n ax l
@@ -25268,7 +25268,7 @@ otherwise                          ah / dh er / w ay z
 otherworldly                       ah / dh er / w er l d / l iy
 otiose                             ow / dx iy / ow s
 otitis                             ow / t ay / dx ih s
-oto                                ow / dx ow-
+oto                                ow / dx ow
 otolaryngologist                   ow / dx ow / l eh / r ih ng / g aa / l ax / jh ih s t
 otolaryngology                     ow / dx ow / l eh / r ih ng / g aa / l ax / jh iy
 otologist                          ow / t aa / l ax / jh ih s t
@@ -25881,7 +25881,7 @@ paper                              p ey / p er
 paperback                          p ey / p er / b ae k
 paperbark                          p ey / p er / b aa r k
 paperless                          p ey / p er / l ax s
-papers                             p ey· p er z
+papers                             p ey / p er z
 paperweight                        p ey / p er / w ey t
 paperwork                          p ey / p er / w er k
 papery                             p ey / p er / iy
@@ -26060,7 +26060,7 @@ particle                           p aa r / dx ax / k ax l
 particular                         p er / t ih k / y ax / l er
 particularity                      p er / t ih k / y ax / l eh / r ax / dx iy
 particularly                       p er / t ih k / y ax / l er / l iy
-particulars                        p er / t ih k· y ax· l er z
+particulars                        p er / t ih k / y ax / l er z
 particulate                        p aa r / t ih k / y ax / l ax t
 parting                            p aa r / dx ih ng
 partisan                           p aa r / dx ax / z ax n
@@ -26172,7 +26172,7 @@ patriarchal                        p ey / t r iy / aa r / k ax l
 patriarchy                         p ey / t r iy / aa r / k iy
 patrician                          p ax / t r ih / sh ax n
 patricide                          p ae t / r ax / s ay d
-patrilineal                        p ae t / r ax-
+patrilineal                        p ae t / r ax
 patrimony                          p ae t / r ax / m ow / n iy
 patriot                            p ey / t r iy / aa t
 patriotic                          p ey / t r iy / aa / dx ih k
@@ -26267,7 +26267,7 @@ peak                               p iy k
 peaky                              p iy / k iy
 peal                               p iy l
 peanut                             p iy / n ah t
-peanuts                            p iy· n ax t s
+peanuts                            p iy / n ax t s
 pear                               p eh r
 pearl                              p er l
 pearlescence                       p er / l eh / s ax n s
@@ -26466,13 +26466,13 @@ per                                p er
 perambulate                        p ax / r ae m / b y ax / l ey t
 perambulator                       p ax / r ae m / b y ax / l ey / dx er
 percale                            p er / k ey l
-perceive                           p er-
+perceive                           p er
 percent                            p er / s eh n t
 percentage                         p er / s eh n / dx ih jh
 percentile                         p er / s eh n / t ay l
 perceptible                        p er / s eh p / t ax / b ax l
 perceptibly                        p er / s eh p / t ax / b l iy
-perception                         p er-
+perception                         p er
 perceptive                         p er / s eh p / t ih v
 perceptively                       p er / s eh p / t ih v / l iy
 perceptiveness                     p er / s eh p / t ih v / n ax s
@@ -26786,7 +26786,7 @@ philippic                          f ih / l ih / p ih k
 philippine                         f ih / l ih ax / p iy n
 philippines                        f ih / l ax / p iy n z
 philistine                         f ih / l ih / s t iy n
-philodendron                       f ih / l ax / d eh n· d r ax n
+philodendron                       f ih / l ax / d eh n / d r ax n
 philogynist                        f ih / l aa / jh ax / n ih s t
 philogyny                          f ih / l aa / jh ax / n iy
 philological                       f ih / l ax / l aa / jh ih / k ax l
@@ -26917,7 +26917,7 @@ pickup                             p ih / k ah p
 picky                              p ih / k iy
 picnic                             p ih k / n ih k
 picnicker                          p ih k / n ih / k er
-pico                               p iy / k ow-
+pico                               p iy / k ow
 pict                               p ih k t
 pictish                            p ih k t
 pictogram                          p ih k / t ax / g r ae m
@@ -27393,7 +27393,7 @@ poignantly                         p oy / n y ax n t / l iy
 poikilothermic                     p oy k ih l ow / th er m ih k
 poinsettia                         p oy n / s eh / dx iy / ax
 point                              p oy n t
-pointe                             p w aẽ t
+pointe                             p w ae t
 pointedly                          p oy n / dx ih d / l iy
 pointer                            p oy n / dx er
 pointillism                        p w ae n / t ax / l ih / z ax m
@@ -27431,7 +27431,7 @@ poleax                             p ow / l ae k s
 poleaxe                            p ow / l ae k s
 poleaxes                           p ow / l ae k s
 polecat                            p ow l / k ae t
-poleis                             p ow· l ih s
+poleis                             p ow / l ih s
 polemic                            p ax / l eh / m ih k
 polemical                          p ax / l eh / m ih / k ax l
 polenta                            p ow / l eh n / dx ax
@@ -27444,10 +27444,10 @@ policewomen                        p ax / l iy s / w uh / m ax n
 policing                           p ax / l iy / s ih ng
 policy                             p aa / l ax / s iy
 policyholder                       p aa / l ax / s iy / hh ow l / d er
-policymaker                        p aa / l ax· s iy / m ey· k er
+policymaker                        p aa / l ax / s iy / m ey / k er
 policymaking                       p aa / l ax / s iy / m ey / k ih ng
 polio                              p ow / l iy / ow
-polis                              p ow· l ih s
+polis                              p ow / l ih s
 polish                             p aa / l ih sh
 politburo                          p aa / l ih t / b y uh / r ow
 polite                             p ax / l ay t
@@ -27800,7 +27800,7 @@ powerpoint                         p aw / er / p oy n t
 powwow                             p aw / w aw
 powys                              p ow / ih s
 pox                                p aa k s
-poxy                               p aa k-
+poxy                               p aa k
 poznan                             p ow z / n ae n
 ppe                                p iy / p iy / iy
 ppi                                p iy / p iy / ay
@@ -27810,7 +27810,7 @@ pr                                 p iy / aa r
 practicability                     p r ae k / t ih / k ax / b ih / l ax / dx iy
 practicable                        p r ae k / t ih / k ax / b ax l
 practical                          p r ae k / t ih / k ax l
-practicalities                     p r ae k· t ih / k ae / l ax· dx iy z
+practicalities                     p r ae k / t ih / k ae / l ax / dx iy z
 practicality                       p r ae k / t ih / k ae / l ax / dx iy
 practically                        p r ae k / t ih / k ax / l iy
 practice                           p r ae k / t ih s
@@ -27847,7 +27847,7 @@ prattler                           p r ae / dx ax / l er
 prawn                              p r aa n
 praxis                             p r ae k / s ih s
 pray                               p r ey
-pre                                p r iy-
+pre                                p r iy
 preach                             p r iy ch
 preacher                           p r iy / ch er
 preachy                            p r iy / ch iy
@@ -27929,7 +27929,7 @@ predominantly                      p r ih / d aa / m ax / n ax n t / l iy
 predominate                        p r ih / d aa / m ax / n ey t
 preemie                            p r iy / m iy
 preeminence                        p r iy / eh / m ax / n ax n s
-preeminent                         p r iy / eh / m ax· n ax n t
+preeminent                         p r iy / eh / m ax / n ax n t
 preempt                            p r iy / eh m p t
 preemptive                         p r iy / eh m p / t ih v
 preen                              p r iy n
@@ -28525,9 +28525,9 @@ protestantism                      p r aa / dx ax / s t ax n / t ih / z ax m
 protestation                       p r aa / dx eh s / t ey / sh ax n
 protester                          p r ax / t eh s / t er
 protestor                          p r ax / t eh s / t er
-protista                           p r ow / t ih· s t ax
+protista                           p r ow / t ih / s t ax
 protium                            p r ow / t iy / ax m
-proto                              p r ow / dx ow-
+proto                              p r ow / dx ow
 protocol                           p r ow / dx ax / k ao l
 proton                             p r ow / dx aa n
 protoplasm                         p r ow / dx ax / p l ae / z ax m
@@ -28604,7 +28604,7 @@ psc                                p iy / eh s / s iy
 psephologist                       s ih / f aa / l ax / jh ih s t
 psephology                         s ih / f aa / l ax / jh iy
 pseud                              s uw d
-pseudo                             s uw / d ow-
+pseudo                             s uw / d ow
 pseudonym                          s uw / d ax / n ih m
 pseudonymous                       s uw / d aa / n ax / m ax s
 pseudopod                          s uw / d ax / p aa d
@@ -28707,8 +28707,8 @@ pugilist                           p y uw / jh ih / l ih s t
 pugilistic                         p y uw / jh ih / l ih s / t ih k
 pugnacious                         p ah g / n ey / sh ax s
 pugnacity                          p ah g / n ae / s ax / dx iy
-puissance                          p w iy / s aã s 
-puissant                           p w iy / s aã t 
+puissance                          p w iy / s aa n s
+puissant                           p w iy / s aa n t
 puke                               p y uw k
 pukka                              p ah / k ax
 pul                                p iy / y uw / eh l
@@ -28912,7 +28912,7 @@ qua                                k w aa
 quack                              k w ae k
 quackery                           k w ae / k er / iy
 quad                               k w aa d
-quadrangle                         k w aa d / r ae ng· g ax l
+quadrangle                         k w aa d / r ae ng / g ax l
 quadrangular                       k w aa / d r ae ng / g y ax / l er
 quadrant                           k w aa / d r ax n t
 quadraphonic                       k w aa / d r ax / f aa / n ih k
@@ -28968,13 +28968,13 @@ quarterfinal                       k w ao r / dx er / f ay / n ax l
 quarterfinalist                    k w ao r / dx er / f ay / n ax / l ih s t
 quarterly                          k w ao r / dx er / l iy
 quartermaster                      k w ao r / dx er / m ae s / t er
-quarters                           k w ao r· dx er z
+quarters                           k w ao r / dx er z
 quartet                            k w ao r / t eh t
 quartile                           k w ao r / t ay l
 quartz                             k w ao r t s
 quasar                             k w ey / z aa r
 quash                              k w aa sh
-quasi                              k w ey / z ay-
+quasi                              k w ey / z ay
 quaternary                         k w aa / dx er / n eh / r iy
 quatrain                           k w aa / t r ey n
 quaver                             k w ey / v er
@@ -29434,7 +29434,7 @@ realisable                         r iy / ax / z ax / b ax l
 realisation                        r iy / ax / l ax / z ey / sh ax n
 realise                            r iy / ax / l ay z
 realises                           r iy / ax / l ay z
-realism                            r iy / ax-
+realism                            r iy / ax
 realist                            r iy / ax / l ih s t
 realistic                          r iy / ax / l ih s / t ih k
 realistically                      r iy / ax / l ih s / t ih / k ax / l iy
@@ -29794,7 +29794,7 @@ reef                               r iy f
 reefer                             r iy / f er
 reek                               r iy k
 reel                               r ih ax l
-reelect                            r iy· ax / l eh k t
+reelect                            r iy / ax / l eh k t
 reelection                         r iy / ih / l eh k / sh ax n
 reeligibility                      r iy / eh / l ax / jh ax / b ih / l ax / dx iy
 reeligible                         r iy / eh / l ax / jh ax / b ax l
@@ -29805,7 +29805,7 @@ reemission                         r iy / ih / m ih / sh ax n
 reemit                             r iy / ih / m ih t
 reemphasis                         r iy / eh m / f ax / s ih s
 reemphasize                        r iy / eh m / f ax / s ay z
-reenact                            r iy· ax / n ae k t
+reenact                            r iy / ax / n ae k t
 reenactment                        r iy / ih / n ae k t / m ax n t
 reencounter                        r iy / ih n / k aw n / dx er
 reenergize                         r iy / eh / n er / jh ay z
@@ -29960,7 +29960,7 @@ regularity                         r eh g / y ax / l eh / r ax / dx iy
 regularization                     r eh g / y ax / l er / ax / z ey / sh ax n
 regularize                         r eh g / y ax / l er / ay z
 regularizes                        r eh g / y ax / l er / ay z
-regularly                          r eh g· y ax· l er· l iy
+regularly                          r eh g / y ax / l er / l iy
 regulate                           r eh g / y ax / l ey t
 regulation                         r eh g / y ax / l ey / sh ax n
 regulator                          r eh g / y ax / l ey / dx er
@@ -30748,7 +30748,7 @@ rights                             r aa ih t s
 righty                             r ay / dx iy / ow
 rigid                              r ih / jh ih d
 rigidity                           r ih / jh ih / d ax / dx iy
-rigidly                            r ih / jh ih d· l iy
+rigidly                            r ih / jh ih d / l iy
 rigmarole                          r ih g / m ax / r ow l
 rigor                              r ih / g er
 rigorous                           r ih / g er / ax s
@@ -30910,7 +30910,7 @@ romances                           r ow / m ae n s
 romanesque                         r ow / m ax / n eh s k
 romania                            r ow / m ey / n iy / ax
 romanian                           r ow / m ey / n iy / ax n
-romano                             r ax / m aa n ow-
+romano                             r ax / m aa n ow
 romantic                           r ow / m ae n / dx ih k
 romantically                       r ow / m ae n / dx ih / k ax / l iy
 romanticise                        r ow / m ae n / dx ax / s ay z
@@ -31001,7 +31001,7 @@ rounders                           r aw n / d er z
 rounding                           r aw n / d ih ng
 roundly                            r aw n d / l iy
 rounds                             r aa uh n d z
-roundtable                         r aa uh n d / t ey· b ax l
+roundtable                         r aa uh n d / t ey / b ax l
 roundup                            r aa uh n d / ah p
 roundworm                          r aw n d / w er m
 rouse                              r aw z
@@ -31300,7 +31300,7 @@ saltiness                          s ao l / t iy / n ax s
 saltire                            s ao l / t ih r
 saltpeter                          s ao l t / p iy / dx er
 saltpetre                          s ao l t / p iy / dx er
-saltshaker                         s ao l t / sh ey· k er
+saltshaker                         s ao l t / sh ey / k er
 saltwater                          s ao l t / w ao / dx er
 salty                              s ao l / dx iy
 salubrious                         s ax / l uw / b r iy / ax s
@@ -31489,7 +31489,7 @@ savate                             s ax / v aa t
 save                               s ey v
 saver                              s ey / v er
 saving                             s ey / v ih ng
-savings                            s ey· v ih ng z
+savings                            s ey / v ih ng z
 savior                             s ey / v y er
 saviour                            s ey / v y er
 savor                              s ey / v er
@@ -32079,10 +32079,10 @@ semiprecious                       s eh / m iy / p r eh / sh ax s
 semiprofessional                   s eh / m iy / p r ax / f eh / sh ax / n ax l
 semiquaver                         s eh / m iy / k w ey / v er
 semispinalis                       s eh / m iy / s p ay / n ae / l ih s
-semite                             ae n· t iy / s eh / m aa ih t
+semite                             ae n / t iy / s eh / m aa ih t
 semitendinosus                     s eh / m iy / t eh n / d ih / n ow / s ax s
 semitic                            s ax / m ih / dx ih k
-semitism                           ae n· t iy / s eh / m ax / t ih / z ax m
+semitism                           ae n / t iy / s eh / m ax / t ih / z ax m
 semitone                           s eh / m iy / t ow n
 semitrailer                        s eh / m iy / t r ey / l er
 semivowel                          s eh / m iy / v aw / ax l
@@ -32146,7 +32146,7 @@ sentimental                        s eh n / dx ax / m eh n / dx ax l
 sentimentalise                     s eh n / dx ax / m eh n / dx ax / l ay z
 sentimentalism                     s eh n / dx ax / m eh n / dx ax / l ih / z ax m
 sentimentalist                     s eh n / dx ax / m eh n / dx ax / l ih s t
-sentimentality                     s eh n· t ax / m eh n / t ae / l ih· dx iy
+sentimentality                     s eh n / t ax / m eh n / t ae / l ih / dx iy
 sentimentalize                     s eh n / dx ax / m eh n / dx ax / l ay z
 sentimentalizes                    s eh n / dx ax / m eh n / dx ax / l ay z
 sentimentally                      s eh n / dx ax / m eh n / dx ax / l iy
@@ -32306,7 +32306,7 @@ sextet                             s eh k / s t eh t
 sexting                            s eh k s / t ih ng
 sexton                             s eh k / s t ax n
 sextuplet                          s eh k / s t ah p / l ax t
-sexual                             s eh k· sh uw· ax l
+sexual                             s eh k / sh uw / ax l
 sexualisation                      s eh k / s y uw / ax / l ax / z ey / sh ax n
 sexuality                          s eh k / s y uw / ae / l ax / dx iy
 sexualization                      s eh k / s y uw / ax / l ax / z ey / sh ax n
@@ -32603,7 +32603,7 @@ shortbread                         sh ao r t / b r eh d
 shortcake                          sh ao r t / k ey k
 shortchange                        sh ao r t / ch ey n jh
 shortcoming                        sh ao r t / k ah / m ih ng
-shortcut                           sh ao r t-
+shortcut                           sh ao r t
 shorten                            sh ao r / t ax n
 shortening                         sh ao r t / n ih ng
 shortfall                          sh ao r t / f ao l
@@ -32837,7 +32837,7 @@ similarly                          s ih / m ax / l er / l iy
 simile                             s ih / m ax / l iy
 similitude                         s ax / m ih / l ax / t uw d
 simmer                             s ih / m er
-simmering                          s ih / m er· ih ng
+simmering                          s ih / m er / ih ng
 simp                               s ih m p
 simper                             s ih m / p er
 simple                             s ih m / p ax l
@@ -32880,7 +32880,7 @@ singer                             s ih / ng er
 singing                            s ih / ng ih ng
 single                             s ih ng / g ax l
 singleness                         s ih ng / g ax l / n ax s
-singles                            s ih ng· g ax l z
+singles                            s ih ng / g ax l z
 singlet                            s ih ng / g l ax t
 singleton                          s ih ng / g ax l / t ax n
 singly                             s ih ng / g l iy
@@ -32892,10 +32892,10 @@ sinister                           s ih / n ax / s t er
 sink                               s ih ng k
 sinker                             s ih ng / k er
 sinkhole                           s ih ng k / hh ow l
-sinking                            s ih ng· k ih ng
+sinking                            s ih ng / k ih ng
 sinless                            s ih n / l ax s
 sinner                             s ih / n er
-sino                               s ay / n ow-
+sino                               s ay / n ow
 sinologist                         s ay / n aa / l ax / jh ih s t
 sinology                           s ay / n aa / l ax / jh iy
 sinophobia                         s ay / n ax / f ow / b iy / ax
@@ -33479,7 +33479,7 @@ socializing                        s ow / sh ax / l ay / z ih ng
 socially                           s ow / sh ax / l iy
 societal                           s ax / s ay / ax / dx ax l
 society                            s ax / s ay / ax / dx iy
-socio                              s ow / s iy / ow-
+socio                              s ow / s iy / ow
 sociocultural                      s ow / s iy / ow / k ah l / ch er / ax l
 socioeconomic                      s ow / s iy / ow / iy / k ax / n aa / m ih k
 socioeconomically                  s ow / s iy / ow / iy / k ax / n aa / m ih / k ax / l iy
@@ -33710,7 +33710,7 @@ soundproofing                      s aw n d / p r uw / f ih ng
 soundscape                         s aw n d / s k ey p
 soundtrack                         s aw n d / t r ae k
 soup                               s uw p
-soupcon                            s uw p / s aã
+soupcon                            s uw p / s aa n
 souper                             p iy / s uw / p er
 sour                               s aw r
 source                             s ao r s
@@ -33860,7 +33860,7 @@ speck                              s p eh k
 speckle                            s p eh / k ax l
 spect                              s p eh k t
 spectacle                          s p eh k / t ax / k ax l
-spectacles                         s p eh k· t ax· k ax l z
+spectacles                         s p eh k / t ax / k ax l z
 spectacular                        s p eh k / t ae k / y ax / l er
 spectacularly                      s p eh k / t ae k / y ax / l er / l iy
 spectate                           s p eh k / t ey t
@@ -34367,7 +34367,7 @@ statistic                          s t ax / t ih s / t ih k
 statistical                        s t ax / t ih s / t ih / k ax l
 statistically                      s t ax / t ih s / t ih / k ax / l iy
 statistician                       s t ae / dx ih / s t ih / sh ax n
-statistics                         s t ax / t ih· s t ih k s
+statistics                         s t ax / t ih / s t ih k s
 statuary                           s t ae / ch uw / eh / r iy
 statue                             s t ae / ch uw
 statuesque                         s t ae / ch uw / eh s k
@@ -35419,7 +35419,7 @@ surely                             sh uh r / l iy
 sureness                           sh uh r / n ax s
 surety                             sh uh / r ax / dx iy
 surf                               s er f
-surface                            s er-
+surface                            s er
 surfactant                         s er / f ae k / t ax n t
 surfboard                          s er f / b ao r d
 surfeit                            s er / f ih t
@@ -35429,7 +35429,7 @@ surge                              s er jh
 surgeon                            s er / jh ax n
 surgery                            s er / jh er / iy
 surgical                           s er / jh ih / k ax l
-surgically                         s er / ʤ ih / k ax / l iy
+surgically                         s er / jh ih / k ax / l iy
 suriname                           s uh / r ih / n aa m
 surliness                          s er / l iy / n ax s
 surly                              s er / l iy
@@ -35480,7 +35480,7 @@ sushi                              s uw / sh iy
 suspect                            s ax / s p eh k t
 suspend                            s ax / s p eh n d
 suspender                          s ax / s p eh n / d er
-suspenders                         s ax / s p eh n· d er z
+suspenders                         s ax / s p eh n / d er z
 suspense                           s ax / s p eh n s
 suspenseful                        s ax / s p eh n s / f ax l
 suspension                         s ax / s p eh n / sh ax n
@@ -35657,7 +35657,7 @@ symbolical                         s ih m / b aa / l ih k
 symbolically                       s ih m / b aa / l ih / k ax / l iy
 symbolise                          s ih m / b ax / l ay z
 symbolises                         s ih m / b ax / l ay z
-symbolism                          s ih m· b ax / l ih / z ax m
+symbolism                          s ih m / b ax / l ih / z ax m
 symbolist                          s ih m / b ax / l ih s t
 symbolize                          s ih m / b ax / l ay z
 symbolizes                         s ih m / b ax / l ay z
@@ -36042,7 +36042,7 @@ teacart                            t iy / w ae / g ax n
 teach                              t iy ch
 teachable                          t iy / ch ax / b ax l
 teacher                            t iy / ch er
-teachings                          t iy· ch ih ng z
+teachings                          t iy / ch ih ng z
 teacup                             t iy / k ah p
 teahouse                           t iy / hh aw s
 teahouses                          t iy / hh aw s
@@ -36116,7 +36116,7 @@ tef                                t eh f
 teff                               t eh f
 teflon                             t eh f / l aa n
 telaesthesia                       t eh / l ax s / th iy / zh ax
-tele                               t eh / l ax-
+tele                               t eh / l ax
 telecast                           t eh l ih k ae s t
 telecom                            t eh / l ih / k aa m
 telecommunications                 t eh / l ax / k ax / m y uw / n ax / k ey / sh ax n z
@@ -36265,7 +36265,7 @@ tenure                             t eh n / y er
 tepee                              t iy / p iy
 tepid                              t eh / p ih d
 tequila                            t ax / k iy / l ax
-tera                               t eh / r ax-
+tera                               t eh / r ax
 terabyte                           t eh / r ax / b ay t
 teratoma                           t eh / r ax / t ow / m ax
 tercentenary                       t er / s eh n / t ax / n eh / r iy
@@ -36465,7 +36465,7 @@ therewith                          dh eh r / w ih dh
 thermal                            th er / m ax l
 thermally                          th er / m ax / l iy
 thermistor                         th er / m ih s / t er
-thermo                             th er / m ow-
+thermo                             th er / m ow
 thermodynamic                      th er / m ow / d ay / n ae / m ih k
 thermodynamics                     th er / m ow / d ay / n ae / m ih k s
 thermometer                        th er / m aa / m ax / dx er
@@ -36510,7 +36510,7 @@ thin                               th ih n
 thine                              dh ay n
 thing                              th ih ng
 thingamabob                        th ih / ng ax / m ax / b aa b
-thingamajig                        th ih / ng ax· m ax / jh ih g
+thingamajig                        th ih / ng ax / m ax / jh ih g
 thingummy                          th ih / ng ax / m ax / b aa b
 thingy                             th ih / ng iy
 think                              th ih ng k
@@ -36917,7 +36917,7 @@ tonnage                            t ah / n ih jh
 tonne                              t ah n
 tonsil                             t aa n / s ax l z
 tonsillitis                        t aa n / s ih / l ay / dx ax s
-tonsils                            t aa n· s ax l z
+tonsils                            t aa n / s ax l z
 tonsorial                          t aa n / s ao / r iy / ax l
 tonsure                            t aa n / sh er
 tony                               t ow / n iy
@@ -37363,7 +37363,7 @@ tress                              t r eh s
 tresses                            t r eh / s ih z
 trestle                            t r eh / s ax l
 trews                              t r uw z
-tri                                t r ay-
+tri                                t r ay
 triad                              t r ay / ae d
 triage                             t r iy / aa zh
 trial                              t r ay ax l
@@ -37645,7 +37645,7 @@ tunelessly                         t uw n / l ax s / l iy
 tuner                              t uw / n er
 tuneup                             t uw n / ah p
 tungsten                           t ah ng / s t ax n
-tunic                              t uw· n ih k
+tunic                              t uw / n ih k
 tunica                             t uw / n ih / k ax
 tuning                             t uw / n ih ng
 tunisia                            t uw / n iy / zh ax
@@ -37769,7 +37769,7 @@ twirly                             t w er / l iy
 twirp                              t w er p
 twist                              t w ih s t
 twister                            t w ih s / t er
-twisting                           t w ih· s t ih ng
+twisting                           t w ih / s t ih ng
 twisty                             t w ih s / t iy
 twit                               t w ih t
 twitch                             t w ih ch
@@ -37837,7 +37837,7 @@ udder                              ah / d er
 ufo                                y uw / eh / f ow
 uganda                             y uw / g ae n / d ax
 ugandan                            y uw / g ae n / d ax n
-ugh                                uhx
+ugh                                uh g
 ugliness                           ah g / l iy / n ax s
 ugly                               ah g / l iy
 ugric                              f ih / n ow / y uw / g r ih k
@@ -38237,7 +38237,7 @@ unfurl                             ah n / f er l
 ungainly                           ah n / g ey n / l iy
 ungenerous                         ah n / jh eh / n er / ax s
 ungenerously                       ah n / jh eh / n er / ax s / l iy
-ungentlemanly                      ah n / jh eh n / dx l̩ / m ax n / l iy
+ungentlemanly                      ah n / jh eh n / t ax l / m ax n / l iy
 unglamorous                        ah n / g l ae / m ax / ax s
 ungodly                            ah n / g aa d / l iy
 ungovernable                       ah n / g ah / v er / n ax / b ax l
@@ -38652,7 +38652,7 @@ upturn                             ah p / t er n
 upward                             ah p / w er d
 upwards                            ah p / w er d z
 upwind                             ah p / w ih n d
-ur                                 ao r-
+ur                                 ao r
 uranium                            y uh / r ey / n iy / ax m
 uranus                             y uh / r ax / n ax s
 urban                              er / b ax n
@@ -38830,7 +38830,7 @@ valuation                          v ae l / y uw / ey / sh ax n
 value                              v ae l / y uw
 valueless                          v ae l / y uw / l ax s
 valuer                             v ae l / y uw / er
-values                             v ae l· y uw z
+values                             v ae l / y uw z
 valve                              v ae l v
 valvula                            v ae l v / y ax / l ax
 valvular                           v ae l v / y ax / l er
@@ -38951,7 +38951,7 @@ velodrome                          v eh / l ax / d r ow m
 velour                             v ax / l uh r
 velum                              v iy / l ax m
 velvet                             v eh l / v ih t
-velvety                            v eh l· v ih· dx iy
+velvety                            v eh l / v ih / dx iy
 vena                               v iy / n ax
 venal                              v iy / n ax l
 venality                           v ih / n ae / l ax / dx iy
@@ -39272,7 +39272,7 @@ vital                              v ay / dx ax l
 vitality                           v ay / t ae / l ax / dx iy
 vitally                            v ay / dx ax / l iy
 vitals                             v ay / dx ax l z
-vitamin                            v ay / dx ax-
+vitamin                            v ay / dx ax
 vitiate                            v ih / sh iy / ey t
 viticulture                        v ih / dx ih / k ah l / ch er
 vitiligo                           v ih / dx ih / l ay / g ow
@@ -39420,7 +39420,7 @@ waft                               w aa f t
 wag                                w ae g
 wage                               w ey jh
 wager                              w ey / jh er
-wages                              w ey· jh ax z
+wages                              w ey / jh ax z
 waggish                            w ae / g ih sh
 waggle                             w ae / g ax l
 waggon                             w ae / g ax n
@@ -39543,7 +39543,7 @@ warship                            w ao r / sh ih p
 wart                               w ao r t
 warthog                            w ao r t / hh aa g
 wartime                            w ao r / t ay m
-warty                              w ao r / t iy̬
+warty                              w ao r / t iy
 warwick                            w ao / r ih k
 warwickshire                       w ao / r ih k / sh er
 wary                               w eh / r iy
@@ -39788,7 +39788,7 @@ westward                           w eh s t / w er d
 wet                                w eh t
 wether                             w eh / dh er
 wetland                            w eh t / l ax n d
-wetlands                           w eh t· l ax n d z
+wetlands                           w eh t / l ax n d z
 wetly                              w eh t / l iy
 wetness                            w eh t / n ax s
 wetsuit                            w eh t / s uw t
@@ -39887,7 +39887,7 @@ whirlybird                         w er / l iy / b er d
 whirr                              w er
 whisk                              w ih s k
 whisker                            w ih s / k er
-whiskers                           hh w ih s· k er z
+whiskers                           hh w ih s / k er z
 whiskey                            w ih s / k iy
 whisky                             w ih s / k iy
 whisper                            w ih s / p er
@@ -40375,7 +40375,7 @@ write                              r ay t
 writer                             r ay / dx er
 writhe                             r ay dh
 writing                            r ay / dx ih ng
-writings                           r aa ih· dx ih ng z
+writings                           r aa ih / dx ih ng z
 written                            r ih / dx ax n
 wrns                               d ah / b ax l / y uw / aa / r eh / n eh s
 wrong                              r aa ng
