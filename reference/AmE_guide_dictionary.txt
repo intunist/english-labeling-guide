@@ -3714,7 +3714,7 @@ bismuth                            b ih z / m ax th
 bison                              b ay / s ax n
 bisque                             b iy s k
 bissau                             b ih / s aw
-bissextile                         b ih / s eh k / s t ax l 
+bissextile                         b ih / s eh k / s t ax l
 bistro                             b iy / s t r ow
 bit                                b ih t
 bitch                              b ih ch
@@ -3870,7 +3870,7 @@ blockade                           b l aa / k ey d
 blockage                           b l aa / k ih jh
 blockbuster                        b l aa k / b ah s / t er
 blockbusting                       b l aa k / b ah s / t ih ng
-blockchain                         b l aa k / ch ey n 
+blockchain                         b l aa k / ch ey n
 blockhead                          b l aa k / hh eh d
 blog                               b l aa g
 blogger                            b l aa / g er
@@ -5059,7 +5059,7 @@ camerawoman                        k ae m / r ax / m ae n
 camerawork                         k ae m / r ax / w er k
 cameroon                           k ae / m ax / r uw n
 cameroonian                        k ae / m ax / r uw / n iy / ax n
-cami                               k ae / m iy 
+cami                               k ae / m iy
 camiknickers                       k ae / m iy / n ih / k er z
 camisole                           k ae / m ih / s ow l
 camogie                            k ax / m ow / g iy
@@ -10579,7 +10579,7 @@ domination                         d aa / m ax / n ey / sh ax n
 dominatrix                         d aa / m ax / n ey / t r ih k s
 domineering                        d aa / m ax / n ih / r ih ng
 domini                             ae / n ow / d aa / m ax / n iy
-dominica                           d aa / m ih / n iy / k ax 
+dominica                           d aa / m ih / n iy / k ax
 dominican                          d aa / m ih / n iy / k ax n
 dominion                           d ax / m ih n / y ax n
 domino                             d aa / m ax / n ow
@@ -10794,7 +10794,7 @@ drapery                            d r ey / p er / iy
 drapes                             d r ey p s
 drastic                            d r ae s / t ih k
 drastically                        d r ae s / t ih / k ax / l iy
-drat                               d r ae t 
+drat                               d r ae t
 draught                            d r ae f t
 draughtsman                        d r ae f t s / m ax n
 draughtsmanship                    d r ae f t s / m ax n / sh ih p
@@ -13223,7 +13223,7 @@ fib                                f ih b
 fibber                             f ih / b er
 fiber                              f ay / b er
 fiberglass                         f ay / b er / g l ae s
-fibonacci                          f ih / b ax / n aa / ch iy 
+fibonacci                          f ih / b ax / n aa / ch iy
 fibre                              f ay / b er
 fibreglass                         f ay / b er / g l ae s
 fibrillation                       f ih b / r ax / l ey / sh ax n
@@ -22309,8 +22309,8 @@ mib                                m eh / b ih / b ay t
 mic                                m ay k
 mica                               m ay / k ax
 mice                               m ay s
-micellar                           m ay / s eh / l er 
-micelle                            m ay / s eh l 
+micellar                           m ay / s eh / l er
+micelle                            m ay / s eh l
 michigan                           m ih / sh ih / g ax n
 michigander                        m ih / sh ih / g ax n / d er
 michiganian                        m ih / sh ih / g ax n / d er
@@ -31238,7 +31238,7 @@ sagittal                           s ae / jh ax / dx ax l
 sagittarius                        s ae / jh ax / t eh / r iy / ax s
 sago                               s ey / g ow
 saguaro                            s ax / g w aa / r ow
-sahara                             s ax / hh eh / r ax 
+sahara                             s ax / hh eh / r ax
 saharan                            s ah b / s ax / hh eh / r ax n
 said                               s eh d
 sail                               s ey l
@@ -36038,7 +36038,7 @@ te                                 t iy
 tea                                t iy
 teabag                             t iy / b ae g
 teacake                            t iy / k ey k
-teacart                            t iy / w ae / g ax n 
+teacart                            t iy / w ae / g ax n
 teach                              t iy ch
 teachable                          t iy / ch ax / b ax l
 teacher                            t iy / ch er
