@@ -19263,7 +19263,6 @@ isthmi                             ih s th / m ax s
 isthmus                            ih s th / m ax s
 isthmuses                          ih s th / m ax s
 it                                 ih t
-it&t                               l aa k
 it'd                               ih / dx ax d
 it'll                              ih / dx ax l
 it's                               ih t s

@@ -5652,7 +5652,7 @@ asbill  ax s b ih l
 asbridge  ax s b r ih jh
 asbury  ae z b eh r iy
 asby  ae s b iy
-asbÁE  ae s b eh k
+asbae  ae s b eh k
 ascap  ae s k ae p
 ascencio  aa s ch eh n ch iy ow
 ascend  ax s eh n d
@@ -11425,7 +11425,7 @@ bjorkman  b y ao r k m ax n
 bjorn  b y ao r n
 bjornsson  b y ao r n s ax n
 bjornstad  b y ao r n s t ax d
-bjÖRnsson  b y ao r n s ax n
+bjornsson  b y ao r n s ax n
 blab  b l ae b
 blabbed  b l ae b d
 blabber  b l ae b er
@@ -16636,7 +16636,7 @@ caissons(2)  k eh s ax n z
 caitlin  k ae t l ih n
 caito  k ey t ow
 caitriona  k ae t r iy n ax
-caitrÍOna  k ae t r iy n ax
+caitriona  k ae t r iy n ax
 cajole  k ax jh ow l
 cajoled  k ax jh ow l d
 cajoling  k ax jh ow l ih ng
@@ -20189,7 +20189,7 @@ chlorophyll  k l ao r ax f ih l
 chloroplast  k l ao r ax p l ae s t
 chloroplasts  k l ao r ax p l ae s t s
 chloroprene  k l ao r ax p r iy n
-chloÁE k l ow iy
+chloae k l ow iy
 chmiel  ch ax m iy l
 chmielewski  ch ax m ax l eh f s k iy
 chmielewski(2)  ch ax m ax l uw s k iy
@@ -20551,7 +20551,7 @@ ciaramitaro  ch iy aa r ax m ih t aa r ow
 ciaravino  ch iy aa r ax v iy n ow
 ciardi  ch iy aa r d iy
 ciarlo  ch iy aa r l ow
-ciarÁN  k ih r ao n
+ciaran  k ih r ao n
 ciavarella  ch iy ax v er eh l ax
 ciba  s iy b ax
 ciba(2)  s ay b ax
@@ -21526,7 +21526,7 @@ clyne  k l ay n
 clyte  k l ay t
 clytie  k l ih t iy
 clyve  k l ay v
-clÉMence  k l eh m ax n s
+clemence  k l eh m ax n s
 cmos  s iy m ow s
 cmos(2)  s iy eh m ow eh s
 co  k ow
@@ -32618,7 +32618,7 @@ dorwart  d ao r w ao r t
 dory  d ao r iy
 dos  d uw z
 dos(2)  d ow z
-dos(num)  d ao s
+dos(3)  d ao s
 dosage  d ow s ih jh
 dosages  d ow s ih jh ih z
 dosch  d ao sh
@@ -37214,7 +37214,7 @@ esme  eh z m ey
 esmerelda  eh s m er eh l d ax
 esmine  eh z m ax n
 esmond  eh z m ax n d
-esmÁE eh z m ey
+esmae eh z m ey
 esophageal  ih s aa f ax jh iy ax l
 esophagus  ih s aa f ax g ax s
 esoteric  eh s ow t eh r ih k
@@ -59686,7 +59686,7 @@ jostle  jh aa s ax l
 jostled  jh aa s ax l d
 jostling  jh aa s ax l ih ng
 joswick  jh aa s w ih k
-josÁE hh ow z ey
+josae hh ow z ey
 jot  jh aa t
 jotted  jh aa t ih d
 joubert  y aw b er t
@@ -60083,7 +60083,7 @@ juxtapositions  jh ah k s t ax p ax z ih sh ax n z
 jwan  jh w aa n
 jyishane  jh iy sh ey n
 jynx  jh ih ng k s
-jÚLÍUs  jh uw l iy ax s
+julius  jh uw l iy ax s
 k  k ey
 k's  k ey z
 ka  k aa
@@ -81762,7 +81762,7 @@ nyquist  n ay k w ih s t
 nyssa  n ih s ax
 nystrom  n ay s t r ax m
 nyx  n ih k s
-nÁE n iy
+nae n iy
 o  ow
 o'banion  ow b ae n y ax n
 o'bannon  ow b ae n ax n
@@ -90302,7 +90302,7 @@ poznikov  p aa z n ih k aa v
 pozo  p ow z ow
 pozos  p ow z ow s
 pozzi  p ao z iy
-poÉSy  p ow z iy
+poesy  p ow z iy
 prab  p r ae b
 pracht  p r ae k t
 practicable  p r ae k t ih k ax b ax l
@@ -100034,7 +100034,7 @@ ryuzo  r ay uw z ow
 ryzhkov  r ay z k aa v
 rzasa  er z aa s ax
 rzepka  er z eh p k ax
-rÓIsÍN  r ow sh iy n
+roisin  r ow sh iy n
 s  eh s
 s's  eh s ih z
 sa  s aa
@@ -104229,7 +104229,7 @@ seyller  s ey l er
 seymore  s iy m ao r
 seymour  s iy m ao r
 seymour's  s iy m ao r z
-seÁN  sh ao n
+sean  sh ao n
 sfernice  s f er n ih s
 sfernice(2)  s ax f er n ih s
 sferra  s f eh r ax
@@ -106278,7 +106278,7 @@ sinusoidal  s ay n ax s oy d ax l
 sinusoidally  s ay n ax s oy d ax l iy
 sinyard  s ih n y aa r d
 siobhan  sh ih v ao n
-siobhÁN  sh ih v ao n
+siobhan  sh ih v ao n
 sioux  s uw
 sip  s ih p
 sipa  s iy p ax
@@ -106470,7 +106470,7 @@ sizzlers  s ih z l er z
 sizzlin  s ih z l ih n
 sizzling  s ih z ax l ih ng
 sizzling(2)  s ih z l ih ng
-siÁE  sh aa n
+siae  sh aa n
 sjoberg  sh ow b er g
 sjoblom  sh ow b l aa m
 sjodin  sh ow d ih n
@@ -106478,7 +106478,7 @@ sjogren  sh ow g r ax n
 sjolander  sh ow l ae n d er
 sjoquist  sh ow k w ih s t
 sjostrom  sh ow s t r ax m
-sjÖStrÖM  sh ow s t r ax m
+sjostrom  sh ow s t r ax m
 ska  s k aa
 skaar  s k aa r
 skadden  s k ae d ih n
@@ -113556,8 +113556,8 @@ szymanowski  sh ih m ax n ao f s k iy
 szymanski  sh ih m ae n s k iy
 szymborski  sh ih m b ao r s k iy
 szymczak  sh ih m ch ae k
-sÍLe  sh iy l ax
-sØRensen  s ao r ih n s ax n
+sile  sh iy l ax
+sorensen  s ao r ih n s ax n
 t  t iy
 t'ang  t ae ng
 t's  t iy z
@@ -114323,7 +114323,7 @@ tav  t ae v
 tavano  t aa v aa n ow
 tavares  t aa v aa r eh s
 tavarez  t aa v aa r eh z
-tavarÁE t ae v er ey
+tavarae t ae v er ey
 tavel  t aa v eh l
 tavenner  t ae v ih n er
 tavera  t aa v eh r ax
@@ -128590,7 +128590,7 @@ zoucha  z uw hh ax
 zounds  z aw n d z
 zovirax  z ow v ih r ae k s
 zovut  z ow v ax t
-zoÁE z ow iy
+zoae z ow iy
 zsa  zh aa
 zsazsa  zh aa zh aa
 zschau  zh aw
