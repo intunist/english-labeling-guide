@@ -17358,7 +17358,7 @@ iberian                            ay / b ih / r iy / ax n
 ibex                               ay / b eh k s
 ibid                               ih / b ih d
 ibidem                             ih / b ih / d eh m
-ibility                            ih / b ih/ l ax / dx iy
+ibility                            ih / b ih / l ax / dx iy
 ibis                               ay / b ih s
 ibiza                              iy / v iy / th ax
 ible                               ax / b ax l
@@ -17378,7 +17378,6 @@ icily                              ay / s ax / l iy
 icing                              ay / s ih ng
 ick                                ih k
 icky                               ih / k iy
-icloud                             k iy / ch ey n
 icon                               ay / k aa n
 iconic                             ay / k aa / n ih k
 iconicity                          ay / k ax / n ih / s ax / dx iy
@@ -23358,7 +23357,7 @@ multicandidate                     m ah l / t iy / k ae n / d ih / d ey t
 multicar                           m ah l / t iy / k aa r
 multicellular                      m ah l / t iy / s eh l / y ax / l er
 multicenter                        m ah l / t iy / s eh n / dx er
-multichannel                       m ah l / t iy / ch ae / n al x
+multichannel                       m ah l / t iy / ch ae / n ax l
 multicolor                         m ah l / t iy / k ah / l er
 multicomponent                     m ah l / t iy / k ax m / p ow / n ax n t
 multiconductor                     m ah l / t iy / k ax n / d ah k / t er
