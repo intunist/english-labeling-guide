@@ -672,7 +672,7 @@ aflutter                           ax / f l ah / dx er
 afoot                              ax / f uh t
 afore                              ax / f ao r
 aforesaid                          ax / f ao r / m eh n / sh ax n d
-aforethought                       m ae / l ih s
+aforethought                       ax / f ao r / th aa t
 afoul                              ax / f aw l
 afraid                             ax / f r ey d
 afresh                             ax / f r eh sh
@@ -2655,7 +2655,7 @@ ay                                 ay
 ayatollah                          ay / ax / t ow / l ax
 aye                                ay
 ayrshire                           eh r / sh er
-ayurvedic                          a / y uh r / v ey / d ih k
+ayurvedic                          ax / y uh r / v ey / d ih k
 azalea                             ax / z ey / l iy / ax
 azerbaijan                         aa / z er / b ay / jh aa n
 azerbaijani                        aa / z er / b ay / jh aa / n iy
@@ -11719,7 +11719,7 @@ endogamy                           eh n / d aa / g ax / m iy
 endogenous                         eh n / d aa / jh ax / n ax s
 endometria                         eh n / d ow / m iy / t r iy / ax m
 endometrial                        eh n / d ow / m iy / t r iy / ax l
-endometriosis                      eh n / d ow / m iy / t r iy / o uw / s ih s
+endometriosis                      eh n / d ow / m iy / t r iy / ow / s ih s
 endometrium                        eh n / d ow / m iy / t r iy / ax m
 endomorph                          eh n / d ow / m ao r f
 endonuclease                       eh n / d ow / n uw / k l iy / ey z
@@ -15231,7 +15231,7 @@ godspeed                           g aa d / s p iy d
 goer                               g ow / er
 goes                               g ow z
 gofer                              g ow / f er
-gogga                              x aa / x ax
+gogga                              g ow / g ax
 goggle                             g aa / g ax l
 goggles                            g aa / g ax l z
 going                              g ow / ih ng
@@ -29387,7 +29387,7 @@ razor                              r ey / z er
 razzamatazz                        r ae z / m ax / t ae z
 razzle                             r ae / z ax l
 razzmatazz                         r ae z / m ax / t ae z
-rbc                                a r / b iy / s iy
+rbc                                aa r / b iy / s iy
 rbt                                aa r / b iy / t iy
 rc                                 aa r / s iy
 rcmp                               aa r / s iy / eh m / p iy
@@ -37083,7 +37083,7 @@ towpath                            t ow / p ae th
 toxaemia                           t aa k / s iy / m iy / ax
 toxemia                            t aa k / s iy / m iy / ax
 toxic                              t aa k / s ih k
-toxicity                           ta k / s iy / s ax / dx iy
+toxicity                           t aa k / s iy / s ax / dx iy
 toxicologist                       t aa k / s ih / k aa / l ax / jh ih s t
 toxicology                         t aa k / s ih / k aa / l ax / jh iy
 toxin                              t aa k / s ih n
