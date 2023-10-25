@@ -16107,8 +16107,7 @@ businessland  b ih z n ih s l ae n d
 businesslike  b ih z n ih s l ay k
 businessman  b ih z n ih s m ae n
 businessman's  b ih z n ih s m ae n z
-businessmen  b ih z n ih s m eh n
-businesspeople  b ih z n ih s p iy p elbusinesspeople(2)  b ih z n ih s p iy p ax l
+businessmen  b ih z n ih s m eh nbusinesspeople  b ih z n ih s p iy p ax l
 businessperson  b ih z n ih s p er s ax n
 businessphone  b ih z n ih s f ow n
 businessphones  b ih z n ih s f ow n z
@@ -79881,7 +79880,7 @@ nested  n eh s t ih d
 nester  n eh s t er
 nesters  n eh s t er z
 nesting  n eh s t ih ng
-nestle(2)  n eh s ax lnestle n eh s el
+nestle(2)  n eh s ax lnestle n eh s ax l
 nestle(3)  n eh s l ey
 nestle's  n eh s l ey z
 nestled  n eh s ax l d
@@ -86801,10 +86800,9 @@ peon  p iy ax n
 peonies  p iy ax n iy z
 peons  p iy ax n z
 peony  p iy ax n iy
-people  p iy p elpeople(2)  p iy p ax l
-people's  p iy p el zpeople's(2)  p iy p ax l z
-peopled  p iy p el dpeopled(2)  p iy p ax l d
-peoples  p iy p el zpeoples(2)  p iy p ax l z
+people  p iy p ax l
+people's  p iy p ax l z
+peopled  p iy p ax l dpeoples  p iy p ax l z
 peoria  p iy ao r iy ax
 peoria's  p iy ao r iy ax z
 pep  p eh p
