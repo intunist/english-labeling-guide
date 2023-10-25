@@ -23359,7 +23359,7 @@ multicandidate                     m ah l / t iy / k ae n / d ih / d ey t
 multicar                           m ah l / t iy / k aa r
 multicellular                      m ah l / t iy / s eh l / y ax / l er
 multicenter                        m ah l / t iy / s eh n / dx er
-multichannel                       m ah l / t iy / ch ae n / s p ax/ s p l
+multichannel                       m ah l / t iy / ch ae / n al x
 multicolor                         m ah l / t iy / k ah / l er
 multicomponent                     m ah l / t iy / k ax m / p ow / n ax n t
 multiconductor                     m ah l / t iy / k ax n / d ah k / t er
