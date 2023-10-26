@@ -26,7 +26,7 @@ Bare in mind we want to mostly label English **PHONEMICALLY NOT phonetically**.
 <br>We are labeling based on the intention not the exact phoneme used in most cases.
 <br>Most speakers cannot distinguish fine phonetic differences accurately and handling it broadly allows us to rely on the model to handle these differences naturally.
 <br>Exceptions are/can be [dx] and [ax] where one may prefer having more control of these sounds.
-BARE IN MIND this mostly refers to consonants and common cases. If you, for example, randomly or stylistically pronounce "sleep" as [s l ey p] instead of [s l iy p] then it makes much more sense to label it as [ey]!
+<br>**BARE IN MIND this mostly refers to consonants and common cases. If you, for example, randomly or stylistically pronounce "sleep" as [s l ey p] instead of [s l iy p] then it makes much more sense to label it as [ey]!**
 <br> **STYLE OVERRIDES THE "CORRECT" PHONEME!**
 
 <sup>1</sup> Exceptions do occur, as we are inconsistent humans, however if you find you are making exceptions more often than not you should stop making that exception and allow the model to learn it as a default behavior.
