@@ -24,9 +24,10 @@ Intunist plans on releasing an 8hr singing dataset and models for pretraining.
 
 Bare in mind we want to mostly label English **PHONEMICALLY NOT phonetically**.
 <br>We are labeling based on the intention not the exact phoneme used in most cases.
+<br>While vowels are generally labeled stylistically/exactly as pronounced (can be personal preference), consonants are labeled based on their phonological grouping for compatilability.
 <br>Most speakers cannot distinguish fine phonetic differences accurately and handling it broadly allows us to rely on the model to handle these differences naturally.
 <br>Exceptions are/can be [dx] and [ax] where one may prefer having more control of these sounds.
-<br>**BARE IN MIND this mostly refers to consonants and common cases. If you, for example, randomly or stylistically pronounce "sleep" as [s l ey p] instead of [s l iy p] then it makes much more sense to label it as [ey]!**
+<br>**BARE IN MIND, if you, for example, randomly or stylistically pronounce "sleep" as [s l ey p] instead of [s l iy p] then it makes much more sense to label it as [ey]!**
 <br> **STYLE OVERRIDES THE "CORRECT" PHONEME!**
 
 <sup>1</sup> Exceptions do occur, as we are inconsistent humans, however if you find you are making exceptions more often than not you should stop making that exception and allow the model to learn it as a default behavior.
@@ -54,6 +55,35 @@ For compatibility with the most vocal synthesis systems possible, Intunist makes
 (refer UK until further notice as considerations are the same)
 
 ----------
+
+## Consonants
+Consonants are almost labeled exactly as you think.
+<br>However, keep in mind clusters at the START of words like "tree" and "dream".
+<br>Users from the UTAU community have a very bad habit of labeling these with [ch r] and [jh r] and this is WRONG.
+<br>AI handles phonetics contextually and the "t" and "d" in these examples aren't even the same sound as "ch" and "j".
+<br>Not to mention the average person will default to using [t] and [d] when typing phonetics and all existing pronunciation dictionaries do too.
+<br>For compatibility with 100% of the existing tools, models, etc, you should label as [t r] and [d r]
+<br>This method also perfectly represents and recreates the original pronunciation of the vocalist without the user having to think about it.
+<br>
+<br>Given that 100% of NNSVS and nearly all DiffSinger English models do this and word perfectly well, and all existing support is for it, it is HIGHLY ADVISABLE to continue doing the same to avoid complications.
+<br>
+<br>NOTE: Some DiffSinger users claim that "[ch r] and [jh r] is more accurate and provides better loss" but no proof has been provided for this. Perhaps only when data is below 15 minutes.
+<br>In Intunist's rigorous testing this has not been the case and has no real practical benefit outside of being more comfortable for a small subset of UTAU users.
+<br>Given that nothing is compatible with this and no one else (SynthV, Vocaloid, CMU, etc) does this, it is our recommendation to continue using [t r] and [d r]
+<br>If there is enough demand, Intunist could provide a version of our G2P model that supports this.
+<br>	However bare in mind that there is NO way to properly support it as it causes every user to label their models differently.
+
+# Vowels
+You can label vowels in two ways, perceptually or "correct/strict" to the dictionary,
+<br>This is up to personal preference and neither will make or break a model. It will remain compatible regardless.
+<br>Intunist recommends for new users to label vowels "perceptually".
+<br>As in, if the vowel in context of the phrase sounds correct, even if it's stylistically altered, to still label it as that vowel.
+<br>Of course, if a vowel is VERY obviously different, then you should change the label.
+<br>- For example, if "sleep" is pronounced as "sleyp" with a clear vowel replacement, label it as such.
+<br>
+<br>If you choose to label "correct/strict", you risk the model being awkward (less data) or unable to sing outside the genres of it's original data (more data, not necessarily bad).
+<br>Choose which you feel is more appropriate for your dataset.
+
 ## Syllabification:
 Words with multiple syllables can look challenging but are often fairly simple.
 A syllable is split into 3 sections. Onset, nucleus, coda.
