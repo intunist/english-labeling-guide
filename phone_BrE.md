@@ -1,7 +1,5 @@
 Phonemes for British English
 
-[note - cover ae aa merge.]
-
 ### Vowels - monophthongs:
 | Phoneme        | Word               | IPA       | X-SAMPA   | SynthV | Vocaloid (Modified Sampa) |
 | -------------- | ------------------ | --------- | --------- | ------ | ------------------------- |
@@ -19,8 +17,8 @@ Phonemes for British English
 
 <sup>1</sup> For BrE and AuE /æ/ and /ɑ/ are merged into the [ae] phoneme.
 > While incredibly weird looking, it works correctly and is fine.
-> <br>The only minor quirk is that the model may confuse northern and southern dialects with low amounts of data.
-> <br>However, note that most singers standardize to the southern dialect.
+> <br>The only minor quirk is that the model may swap northern and southern dialects with _tiny_ amounts of data.
+> <br>Note that most singers standardize to the southern dialect. Regardless the model will learn the original dialect.
 > <br>"I personally hate this but it works" - Heteric
 
 <sup>2</sup> Some phonetic systems will also include [axr] as a label. This is entirely unnecessary and the [er] phoneme works flawlessly.
