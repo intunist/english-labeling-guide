@@ -1,6 +1,6 @@
 Phonemes for British English
 
-BROKEN AS OF 11/1/23. [ae]  MERGER BREAKS WORDS LIKE "plot" WHICH ALSO USE THE /ɑ/ SOUND.
+BROKEN AS OF 1/11/23. [ae]  MERGER BREAKS WORDS LIKE "plot" WHICH ALSO USE THE /ɑ/ SOUND.
 <br>FIXING.
 
 ### Vowels - monophthongs:
