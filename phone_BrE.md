@@ -8,7 +8,7 @@ Phonemes for British English
 | ah             | hUt                | /ʌ/       | V         | ah     | V                         |
 | aa             | fAther, plOt       | /ɒ/       | A         | aa     | Q                         |
 | ao             | nAUght, cORe       | /ɔ/       | O         | ao     | O:                        |
-| ae<sup>1</sup> | bAth, bAt          | /æ/ /ɑ/   | {         | ae     | {                         |
+| ae<sup>1</sup> | bAth, bAt          | /æ/ /ɑ/   | ({) (A)   | ae     | ({) (e@0)                 |
 | ax             | commA              | ə         | @         | ax     | @                         |
 | iy             | bEAt               | i         | i         | iy     | i:                        |
 | ih             | sIt                | ɪ         | I         | ih     | I                         |
