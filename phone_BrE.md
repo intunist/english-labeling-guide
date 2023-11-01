@@ -54,12 +54,12 @@ Acknowledged but completely optional phonetics for particular cases.
 | en             |                    |           |           |        |                           |
 
 ### Utility phonemes:
-Phonemes that aren't strictly vocal sounds but are useful in one way of another
+OPTIONAL phonemes that aren't strictly vocal sounds but are useful in one way of another
 | phoneme | Example          | Description                                                                                                                          |
 |---------|------------------| -------------------------------------------------------------------------------------------------------------------------------------|
 | pau     | silence          | During unsung/silent periods.                                                                                                        |
 | br      | [breath]         |                                                                                                                                      |
-| exh     | [exhale]         | end breaths, end of phrase exhale. devoiced. Label consonant coda.                                                                   |
+| exh     | [exhale]         | end breaths, end of phrase exhale. devoiced. Label as consonant coda.                                                                |
 | axh     | [release]        | voiced variation of [exh]. voiced schwa exhale/release. Label as consonant coda.                                                     |
-| cl      | [held stop]      | **Almost completely useless** Held stop/plosive consonant. For when the silence is held and unreleased.                              |
+| cl      | [held stop]      | __**Almost completely useless.**__ Held stop/plosive consonant. For when held and unreleased. Handled contextually and best ignored. |
 | vf      | [vocal fry]      | vocal fry. Can be used as a consonant OR on it's own note.                                                                           |
