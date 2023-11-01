@@ -1,13 +1,13 @@
 Phonemes for British English
 
-BROKEN AS OF 1/11/23. [ae]  MERGER BREAKS WORDS LIKE "plot" WHICH ALSO USE THE /ɑ/ SOUND.
+BROKEN AS OF 1/11/23. [ae]  MERGE BREAKS WORDS LIKE "father" WHICH ALSO USE THE /ɑ/ SOUND.
 <br>FIXING.
 
 ### Vowels - monophthongs:
 | Phoneme        | Word               | IPA       | X-SAMPA   | SynthV | Vocaloid (Modified Sampa) |
 | -------------- | ------------------ | --------- | --------- | ------ | ------------------------- |
 | ah             | hUt                | /ʌ/       | V         | ah     | V                         |
-| aa             | fAther, ~~plOt~~   | /ɒ/       | A         | aa     | Q                         |
+| aa             | ~~fAther~~, plOt   | /ɒ/       | Q         | aa     | Q                         |
 | ao             | nAUght, cORe       | /ɔ/       | O         | ao     | O:                        |
 | ae<sup>1</sup> | bAth, bAt          | /æ/ /ɑ/   | ({) (A)   | ae     | ({) (e@0)                 |
 | ax             | commA              | ə         | @         | ax     | @                         |
