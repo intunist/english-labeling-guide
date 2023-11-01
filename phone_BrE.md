@@ -1,10 +1,13 @@
 Phonemes for British English
 
+BROKEN AS OF 11/1/23. [ae]  MERGER BREAKS WORDS LIKE "plot" WHICH ALSO USE THE /ɑ/ SOUND.
+<br>FIXING.
+
 ### Vowels - monophthongs:
 | Phoneme        | Word               | IPA       | X-SAMPA   | SynthV | Vocaloid (Modified Sampa) |
 | -------------- | ------------------ | --------- | --------- | ------ | ------------------------- |
 | ah             | hUt                | /ʌ/       | V         | ah     | V                         |
-| aa             | fAther, plOt       | /ɒ/       | A         | aa     | Q                         |
+| aa             | fAther, ~~plOt~~   | /ɒ/       | A         | aa     | Q                         |
 | ao             | nAUght, cORe       | /ɔ/       | O         | ao     | O:                        |
 | ae<sup>1</sup> | bAth, bAt          | /æ/ /ɑ/   | ({) (A)   | ae     | ({) (e@0)                 |
 | ax             | commA              | ə         | @         | ax     | @                         |
@@ -38,7 +41,7 @@ Voice and unvoiced equivalents are paired (ex: k/g, t/d)
 | -------------- | ------------------ | --------- | --------- | ------ | ------------------------- |
 |                |                    |           |           |        |                           |
 |                |                    |           |           |        |                           |
-| [t] [r]        |                    |           |           | tr     |                           |
+| [t] [r]        |                    |           |           | tr     | dh r                      |
 | [d] [r]        |                    |           |           | dr     |                           |
 
 ### Syllabic vowel-like-consonants:
