@@ -2,6 +2,7 @@ Phonemes for British English
 
 BROKEN AS OF 1/11/23. [ae]  MERGE BREAKS WORDS LIKE "father" WHICH ALSO USE THE /ɑ/ SOUND.
 <br>FIXING.
+<br> 2/11/23 investigating the feasability of merging the two phonetics into one symbol.
 
 Note that many BrE dialects use a reduced phoneme set.
 <br>The phoneme set provided is the full set to support southern dialects and Australian engish.
