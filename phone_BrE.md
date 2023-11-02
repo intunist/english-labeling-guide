@@ -3,6 +3,12 @@ Phonemes for British English
 BROKEN AS OF 1/11/23. [ae]  MERGE BREAKS WORDS LIKE "father" WHICH ALSO USE THE /ɑ/ SOUND.
 <br>FIXING.
 
+Note that many BrE dialects use a reduced phoneme set.
+<br>The phoneme set provided is the full set to support southern dialects and Australian engish.
+<br>If you have a reduced-set dialect you can choose to either
+1. label with the full set, as if the speaker did not have fewer phonemes (recommended for dict/G2P compatibility).
+2. label with a reduced set, choosing the closest provided phoneme. (ex: some northern speakers pronounce "hut" as [hh uh t] 
+
 ### Vowels - monophthongs:
 | Phoneme        | Word               | IPA       | X-SAMPA   | SynthV | Vocaloid (Modified Sampa) |
 | -------------- | ------------------ | --------- | --------- | ------ | ------------------------- |
