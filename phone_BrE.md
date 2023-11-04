@@ -23,7 +23,7 @@ When between two vowels the [r] phoneme triggers a rhotic. When the next phoneme
 | Phoneme        | Word               | IPA       | X-SAMPA   | SynthV | Vocaloid (Modified Sampa)<sup>1</sup> |
 | -------------- | ------------------ | --------- | --------- | ------ | ------------------------- |
 | ah             | hUt, hUndred       | /ʌ/       | V         | ah     | V                         |
-| aa             | cAlm,              | /ɑ/       | A         | aa     |                           |
+| aa             | cAlm,              | /ɑ/ /a/   | A         | aa     |                           |
 | aa??           | plOt,              | /ɒ/       | Q         | aa     | Q                         |
 | ao             | nAUght, cORe       | /ɔ/       | O         | ao     | O:                        |
 | ae<sup>2</sup> | bAth, bAt          | /æ/ /ɑ/   | ({) (A)   | ae     | ({) (e@0)                 |
@@ -33,7 +33,7 @@ When between two vowels the [r] phoneme triggers a rhotic. When the next phoneme
 | uh             | bOOk               | ʊ         | U         | uh     | U                         |
 | uw             | bOOt               | u         | u         | uw     | u:                        |
 | eh             | bEt                | ɛ         | E         | eh     | E                         |
-| er<sup>3</sup> | bIRd, pURse, colOR | /ɚ/ /ɜ/   | (@\`) (3) | er     | @r                        |
+| er<sup>3</sup> | bIRd, colOR, mothERship |/ɚ/ /ɜ/ /ə/| (@\`) (3) | er     | @r                        |
 
 <sup>1</sup> Vocaloid's implementation of SAMPA appears to be broken.
 It is not possible to approximate it to british phonetics due to it's lack of /A/ and incorrect use of /Q/ and /O/.
