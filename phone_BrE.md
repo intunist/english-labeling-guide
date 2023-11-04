@@ -11,10 +11,15 @@ Note that many BrE dialects use a reduced phoneme set.
 2. label with a reduced set, choosing the closest provided phoneme. (ex: some northern speakers pronounce "hut" as [hh uh t] 
 Bare in mind Northern dialects are a minefield of difficult to impossible to cover pronuncation exceptions, mutations, and so forth. It is generally understood that when 
 
+Note for most AuE (Australian) and some BrE speakers: Sometimes a vowel becomes [er] or adds an [r] for vowel linkages. This is referred to as the "intrusive R". It is recommended to still label these as their original vowel and allow the model to learn the contextual change.
+<br>"Idea of" may sound like "idear of" to split the vowels. But you would _never_ label the [r]
+The same relatively applies to the "linking r" but in reverse. Where a word with an expected r drops the r when another consonant is already in place to split the vowels.
+<br>For example, "four dogs" will not have an audible [r] and instead a softer schwa. However, "four otters" would have an audible linking r. In both cases you will want to include an [r] phoneme to provide context to the model.
+
 There are no symbols for r-colored vowels because the [r] phoneme handles this.
 When between two vowels the [r] phoneme triggers a rhotic. When the next phoneme is a consonant it will drop teh rhotic but make the prior vowel r-colored.
 
-### Vowels - monophthongs:
+### Vowels - monophthongs (Southern/Central/AuE/International):
 | Phoneme        | Word               | IPA       | X-SAMPA   | SynthV | Vocaloid (Modified Sampa)<sup>1</sup> |
 | -------------- | ------------------ | --------- | --------- | ------ | ------------------------- |
 | ah             | hUt, hUndred       | /ʌ/       | V         | ah     | V                         |
@@ -40,6 +45,11 @@ It is not possible to approximate it to british phonetics due to it's lack of /A
 > <br>"I personally hate this but it works" - Heteric
 
 <sup>3</sup> Some phonetic systems will also include [axr] as a label. This is entirely unnecessary and the [er] phoneme works flawlessly.
+
+### Vowels - monophthongs (Northern):
+| Phoneme        | Word               | IPA       | X-SAMPA   | SynthV | Vocaloid (Modified Sampa)<sup>1</sup> |
+| -------------- | ------------------ | --------- | --------- | ------ | ------------------------- |
+crying
 
 ### Vowels - diphthongs:
 | Phoneme        | Word               | IPA       | X-SAMPA   | SynthV | Vocaloid (Modified Sampa) |
