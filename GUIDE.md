@@ -133,6 +133,7 @@ Erase:	[**iy** - r ey s] (non-rhotic, r is part of a separate syllable and does 
     - Can be easily fixed in bulk using Notepad++ or other tool with text replace.
 - [ey r] is an invalid label for smooth monophthonic vowels, always label as [eh r]. This is due to the rhotic changing the shape of the vowel causing confusion.
 	- it may seem reasonable to use [ey] if it is pronounced as [eh - iy] but this is often two separate syllables. Of course exceptions do occur. As long as you do not label smooth vowels as [ey] and diphthonic vowels as [eh] it should be ok.
+- [uw r] is an invalid label. Label as [uh r].
 - LABEL DROPPED RHOTICS. Especially in BrE/AuE dialects. (example: car crash [k aa r - k r ae sh] NOT [k aa - k r ae sh]
     - This gives the model very important context. In BrE these dropped rhotics often exist as a very short schwa. Without this label the model will not produce the correct pronunciation.
     - Many American dialects also feature dropped rhotics.
