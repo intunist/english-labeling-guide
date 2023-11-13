@@ -8,8 +8,8 @@ Note that many BrE dialects use a reduced phoneme set.
 <br>If you have a reduced-set dialect you can choose to either
 1. label with the full set, as if the speaker did not have fewer phonemes (recommended for dict/G2P compatibility).
 2. label with the reduced set, choosing the closest provided phoneme. (ex: some northern speakers pronounce "hut" as [hh uh t]. 
-<br>A reduced set for Northern BrE is provided, with supporting G2P in the works. 
-<br>Bare in mind Northern dialects are a minefield of difficult to impossible to cover pronunciation exceptions, mutations, and so forth. It is generally understood that when 
+    - A reduced set for Northern BrE is provided, with supporting G2P in the works. 
+    - Bare in mind Northern dialects are a minefield of difficult to impossible to cover pronunciation exceptions, mutations, and so forth. It is generally understood that when 
 
 Note for most AuE (Australian) and some BrE speakers: Sometimes a vowel becomes [er] or adds an [r] for vowel linkages. This is referred to as the "intrusive R". It is recommended to still label these as their original vowel and allow the model to learn the contextual change.
 <br>"Idea of" may sound like "idear of" to split the vowels. But you would _never_ label the [r]
