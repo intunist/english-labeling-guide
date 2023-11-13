@@ -1,14 +1,15 @@
 Phonemes for British English
 
-Ambi provides it's own customized phoneme set for singing synthesis, based on Arpabet. It has been modified for singing in any english dialect.
+Ambi provides it's own customized phoneme set for singing synthesis, based on Arpabet. It has been modified for singing in any english dialect, unlike Arpabet which is specific to American English only.
 this phoneme set is the basis for nearly all NNSVS and most DiffSinger English models/datasets publicly available.
 
 Note that many BrE dialects use a reduced phoneme set.
 <br>The phoneme set provided is the full set to support southern dialects and Australian English.
 <br>If you have a reduced-set dialect you can choose to either
 1. label with the full set, as if the speaker did not have fewer phonemes (recommended for dict/G2P compatibility).
-2. label with the provided reduced set, choosing the closest provided phoneme. (ex: some northern speakers pronounce "hut" as [hh uh t] 
-Bare in mind Northern dialects are a minefield of difficult to impossible to cover pronunciation exceptions, mutations, and so forth. It is generally understood that when 
+2. label with the reduced set, choosing the closest provided phoneme. (ex: some northern speakers pronounce "hut" as [hh uh t]. 
+<br>A reduced set for Northern BrE is provided, with supporting G2P in the works. 
+<br>Bare in mind Northern dialects are a minefield of difficult to impossible to cover pronunciation exceptions, mutations, and so forth. It is generally understood that when 
 
 Note for most AuE (Australian) and some BrE speakers: Sometimes a vowel becomes [er] or adds an [r] for vowel linkages. This is referred to as the "intrusive R". It is recommended to still label these as their original vowel and allow the model to learn the contextual change.
 <br>"Idea of" may sound like "idear of" to split the vowels. But you would _never_ label the [r]
@@ -50,7 +51,7 @@ It is not possible to approximate it to British phonetics due to it's lack of /A
 <sup>4</sup> AuE is fully supported, however note there may be some confusion with multiple symbols covering the same phoneme. This is because many sounds in AuE are realized as "long/short" versions of the same exact phoneme. Such as /a/ for strut and /aː/ for palm.
 You could potentially merge down these sounds, however at the moment it is suggested to not do this. This is both a "just in case" due to dialect variation and to allow AuE datasets to be compatible with BrE dictionaries and G2P while retaining correct pronunciations.
 
-### Vowels - monophthongs (Northern):
+### Vowels - monophthongs (Northern - reduced):
 | Phoneme        | Common Name  | Word               | IPA       | X-SAMPA   | SynthV | Vocaloid (Modified Sampa)<sup>1</sup> |
 | -------------- | ------------ | ------------------ | --------- | --------- | ------ | ------------------------- |
 crying
