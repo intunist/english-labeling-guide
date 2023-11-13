@@ -1,5 +1,8 @@
 Phonemes for British English
 
+Ambi provides it's own customized phoneme set for singing synthesis, based on Arpabet. It has been modified for singing in any english dialect.
+this phoneme set is the basis for nearly all NNSVS and most DiffSinger English models/datasets publicly available.
+
 Note that many BrE dialects use a reduced phoneme set.
 <br>The phoneme set provided is the full set to support southern dialects and Australian English.
 <br>If you have a reduced-set dialect you can choose to either
@@ -31,7 +34,7 @@ When between two vowels the [r] phoneme triggers a rhotic. When the next phoneme
 | eh             | short e      | bEt                     | /ɛ/       | /e/                | E         | eh     | E                         |
 | er<sup>3</sup> | long         | bIRd, colOR, mothERship |/ɚ/ /ɜ/ /ə/|/ɚ/ /ɜ/ /ə/         | (@\`) (3) | er     | @r                        |
 
-*Note that short/long naming conventions are inaccurate. They are only provided for some reference. These are especially inaccurate for singing (and Australian English, which uses it's own short/long vowel names).
+*Note that short/long naming conventions are inaccurate. They are only provided for some reference. These are especially inaccurate for singing (and Australian English, which uses it's own short/long vowel designations).
 
 <sup>1</sup> Vocaloid's implementation of SAMPA appears to be broken.
 It is not possible to approximate it to British phonetics due to it's lack of /A/ and incorrect use of /Q/ and /O/.
