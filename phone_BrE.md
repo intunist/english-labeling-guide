@@ -31,7 +31,7 @@ When between two vowels the [r] phoneme triggers a rhotic. When the next phoneme
 | eh             | short e      | bEt                     | /ɛ/       | /e/                | E         | eh     | E                         |
 | er<sup>3</sup> | long         | bIRd, colOR, mothERship |/ɚ/ /ɜ/ /ə/|/ɚ/ /ɜ/ /ə/         | (@\`) (3) | er     | @r                        |
 
-*Note that short/long naming conventions are inaccurate. They are only provided for some reference. These are especially inaccurate for singing and Australian English.
+*Note that short/long naming conventions are inaccurate. They are only provided for some reference. These are especially inaccurate for singing (and Australian English, which uses it's own short/long vowel names).
 
 <sup>1</sup> Vocaloid's implementation of SAMPA appears to be broken.
 It is not possible to approximate it to British phonetics due to it's lack of /A/ and incorrect use of /Q/ and /O/.
