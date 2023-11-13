@@ -4,7 +4,7 @@ Note that many BrE dialects use a reduced phoneme set.
 <br>The phoneme set provided is the full set to support southern dialects and Australian English.
 <br>If you have a reduced-set dialect you can choose to either
 1. label with the full set, as if the speaker did not have fewer phonemes (recommended for dict/G2P compatibility).
-2. label with a reduced set, choosing the closest provided phoneme. (ex: some northern speakers pronounce "hut" as [hh uh t] 
+2. label with the provided reduced set, choosing the closest provided phoneme. (ex: some northern speakers pronounce "hut" as [hh uh t] 
 Bare in mind Northern dialects are a minefield of difficult to impossible to cover pronunciation exceptions, mutations, and so forth. It is generally understood that when 
 
 Note for most AuE (Australian) and some BrE speakers: Sometimes a vowel becomes [er] or adds an [r] for vowel linkages. This is referred to as the "intrusive R". It is recommended to still label these as their original vowel and allow the model to learn the contextual change.
@@ -20,7 +20,7 @@ When between two vowels the [r] phoneme triggers a rhotic. When the next phoneme
 | -------------- | ------------ | ----------------------- | --------- | ------------------ | --------- | ------ | ------------------------- |
 | ah             | short u      | hUt, hUndred            | /ʌ/       | /a/                | V         | ah     | V                         |
 | aa             | broad/long a | cAlm,                   | /ɑ/ /a/   | /a/                | A         | aa     |                           |
-| oh             | short o      | plOt, blonde            | /ɒ/       | /ɔ/                | Q         | aa     | Q                         |
+| oh             | short o      | plOt, blonde            | /ɒ/       | /ɔ/                | Q         |        | Q                         |
 | ao             | long         | nAUght, cORe, all       | /ɔ/       | /o/                | O         | ao     | O:                        |
 | ae<sup>2</sup> | short a      | bAth, bAt               | /æ/ /ɑ/   | /æ/                | ({) (A)   | ae     | ({) (e@0)                 |
 | ax             | short        | commA                   | /ə/       | /ə/                | @         | ax     | @                         |
@@ -31,9 +31,7 @@ When between two vowels the [r] phoneme triggers a rhotic. When the next phoneme
 | eh             | short e      | bEt                     | /ɛ/       | /e/                | E         | eh     | E                         |
 | er<sup>3</sup> | long         | bIRd, colOR, mothERship |/ɚ/ /ɜ/ /ə/|/ɚ/ /ɜ/ /ə/         | (@\`) (3) | er     | @r                        |
 
-*Note that short/long naming conventions are inaccurate. They are only provided for some reference. These are especially inaccurate for singing and when considering different dialects, such as Australian English.
-
-
+*Note that short/long naming conventions are inaccurate. They are only provided for some reference. These are especially inaccurate for singing and Australian English.
 
 <sup>1</sup> Vocaloid's implementation of SAMPA appears to be broken.
 It is not possible to approximate it to British phonetics due to it's lack of /A/ and incorrect use of /Q/ and /O/.
