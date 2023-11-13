@@ -75,8 +75,8 @@ Voice and unvoiced equivalents are paired (ex: k/g, t/d)
 | -------------- | ------------------ | --------- | --------- | ------ | ------------------------- |
 |                |                    |           |           |        |                           |
 |                |                    |           |           |        |                           |
-| [t] [r]        |                    |           |           | tr     | dh r                      |
-| [d] [r]        |                    |           |           | dr     |                           |
+| [t] [r]        |                    |           |           | tr     | th r                      |
+| [d] [r]        |                    |           |           | dr     | dh r                      |
 
 ### Syllabic vowel-like-consonants:
 Acknowledged but completely optional phonetics for particular cases.
