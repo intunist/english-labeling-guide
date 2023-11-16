@@ -49,7 +49,7 @@ For compatibility with the most vocal synthesis systems possible, Intunist makes
 	- may remove el, em, en as these were always optional
 	- may remove [dx] and use [t] instead (with context).
 
-[UK/BrE PHONETICS LIST](phone_AmE.md)
+[UK/BrE PHONETICS LIST](phone_BrE.md)
 <br>[US/AmE PHONETICS LIST](phone_AmE.md)
 <br>AU/AuE PHONETICS LIST
 (refer UK until further notice as considerations are the same)
