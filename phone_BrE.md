@@ -26,7 +26,7 @@ When between two vowels the [r] phoneme triggers a rhotic. When the next phoneme
 | ah             | short u      | hUt, hUndred            | /ʌ/       | /a/                | V         | ah     | V                         |
 | aa             | broad/long a | cAlm,                   | /ɑ/ /a/   | /a/                | A         | aa     |                           |
 | oh             | short o      | plOt, blonde            | /ɒ/       | /ɔ/                | Q         |        | Q                         |
-| ao             | long         | nAUght, cORe, all       | /ɔ/       | /o/                | O         | ao     | O:                        |
+| ao             | long         | nAUght, cORe, All       | /ɔ/       | /o/                | O         | ao     | O:                        |
 | ae<sup>2</sup> | short a      | bAth, bAt               | /æ/ /ɑ/   | /æ/                | ({) (A)   | ae     | ({) (e@0)                 |
 | ax             | short        | commA                   | /ə/       | /ə/                | @         | ax     | @                         |
 | iy             | long e       | bEAt                    | /i/       | /i/                | i         | iy     | i:                        |
