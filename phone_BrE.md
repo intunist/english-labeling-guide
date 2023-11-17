@@ -21,7 +21,7 @@ There are no symbols for r-colored vowels because the [r] phoneme handles this.
 When between two vowels the [r] phoneme triggers a rhotic. When the next phoneme is a consonant it will drop the rhotic but make the prior vowel r-colored.
 
 ### Vowels - monophthongs (Southern/Central/AuE/International):
-| Phoneme        | Common Name  | Word                    | IPA       | AuE IPA<sup>4</sup>| X-SAMPA   | SynthV | Vocaloid (Modified Sampa)<sup>1</sup>|
+| Phoneme        | Common Name  | Word                    | IPA       | AuE IPA<sup>5</sup>| X-SAMPA   | SynthV | Vocaloid (Modified Sampa)<sup>1</sup>|
 | -------------- | ------------ | ----------------------- | --------- | ------------------ | --------- | ------ | ------------------------- |
 | ah             | short u      | hUt, hUndred            | /ʌ/       | /a/                | V         | ah     | V                         |
 | aa             | broad/long a | cAlm,                   | /ɑ/ /a/   | /a/                | A         | aa     |                           |
@@ -30,11 +30,11 @@ When between two vowels the [r] phoneme triggers a rhotic. When the next phoneme
 | ae<sup>2</sup> | short a      | bAth, bAt               | /æ/ /ɑ/   | /æ/                | ({) (A)   | ae     | ({) (e@0)                 |
 | ax             | short        | commA                   | /ə/       | /ə/                | @         | ax     | @                         |
 | iy             | long e       | bEAt                    | /i/       | /i/                | i         | iy     | i:                        |
-| ih             | short i      | sIt                     | /ɪ/       | /ɪ/                | I         | ih     | I                         |
+| ih<sup>3</sup> | short i      | sIt, Example<sup>3</sup>| /ɪ/ /ɨ/   | /ɪ/ /ɨ/            | I         | ih     | I                         |
 | uh             | short oo     | bOOk                    | /ʊ/       | /ʊ/                | U         | uh     | U                         |
 | uw             | long oo      | bOOt                    | /u/       | /ʉ/                | u         | uw     | u:                        |
 | eh             | short e      | bEt                     | /ɛ/       | /e/                | E         | eh     | E                         |
-| er<sup>3</sup> | long         | bIRd, colOR, mothERship |/ɚ/ /ɜ/ /ə/|/ɚ/ /ɜ/ /ə/         | (@\`) (3) | er     | @r                        |
+| er<sup>4</sup> | long         | bIRd, colOR, mothERship |/ɚ/ /ɜ/ /ə/|/ɚ/ /ɜ/ /ə/         | (@\`) (3) | er     | @r                        |
 
 *Note that short/long naming conventions are inaccurate. They are only provided for some reference. These are especially inaccurate for singing (and Australian English, which uses it's own short/long vowel designations).
 
@@ -47,9 +47,13 @@ It is not possible to approximate it to British phonetics due to it's lack of /A
 > <br>Note that most singers standardize to the southern dialect. Regardless the model will learn the original dialect.
 > <br>"I personally hate this but it works" - Heteric
 
-<sup>3</sup> Some phonetic systems will also include [axr] as a label. This is entirely unnecessary and the [er] phoneme works flawlessly.
+<sup>3</sup> Some Arpabet-based systems include [ix] to handle the i-shaped schwa. However it's common to use the [ih] symbol instead. 
+[ix] often replaces [ih] and [eh] in short duration syllables, so the word "example" is most often [**ih** g z  ae m p ax l] when short and/or lax and [**eh** g z  ae m p ax l] when the first syllable has more stress applied.
+[ih] works perfectly well for AI-based singing synthesis and simplifies the labeling process as the __**vast mahority**__ of speakers cannot reliably identify [ix] and will always confuse it for another phoneme.
 
-<sup>4</sup> AuE is fully supported, however note there may be some confusion with multiple symbols covering the same phoneme. This is because many sounds in AuE are realized as "long/short" versions of the same exact phoneme. Such as /a/ for strut and /aː/ for palm.
+<sup>4</sup> Some phonetic systems will also include [axr] as a label. This is entirely unnecessary and the [er] phoneme works flawlessly.
+
+<sup>5</sup> AuE is fully supported, however note there may be some confusion with multiple symbols covering the same phoneme. This is because many sounds in AuE are realized as "long/short" versions of the same exact phoneme. Such as /a/ for strut and /aː/ for palm.
 You could potentially merge down these sounds, however at the moment it is suggested to not do this. This is both a "just in case" due to dialect variation and to allow AuE datasets to be compatible with BrE dictionaries and G2P while retaining correct pronunciations.
 
 ### Vowels - monophthongs (Northern - reduced):
