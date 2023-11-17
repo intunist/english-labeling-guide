@@ -48,7 +48,7 @@ It is not possible to approximate it to British phonetics due to it's lack of /A
 > <br>"I personally hate this but it works" - Heteric
 
 <sup>3</sup> Some Arpabet-based systems include [ix] to handle the i-shaped schwa. However it's common to use the [ih] symbol instead. 
-[ix] often replaces [ih] and [eh] in short duration syllables, so the word "example" is most often [**ih** g z  ae m p ax l] when short and/or lax and [**eh** g z  ae m p ax l] when the first syllable has more stress applied.
+the "i-schwa" often replaces [ih] and [eh] in lax syllables, so the word "example" is most often [**ih** g z  ae m p ax l] when short and/or lax and [**eh** g z  ae m p ax l] when the first syllable has more stress applied, it's not necessarily related to length..
 [ih] works perfectly well for AI-based singing synthesis and simplifies the labeling process as the __**vast mahority**__ of speakers cannot reliably identify [ix] and will always confuse it for another phoneme.
 
 <sup>4</sup> Some phonetic systems will also include [axr] as a label. This is entirely unnecessary and the [er] phoneme works flawlessly.
