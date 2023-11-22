@@ -82,6 +82,10 @@ Voice and unvoiced equivalents are paired (ex: k/g, t/d)
 | [t] [r]        |                    |           |           | tr     | th r                      |
 | [d] [r]        |                    |           |           | dr     | dh r                      |
 
+* Vocaloid uses "_h" incorrectly to define initial plosive consonants.
+
+* SynthV includes unique [tr] and [dr] phonemes for handling the initial clusters. The reasoning is unknown as the engine seems fully capable of handling [t][r] [d][r]. Either way it's provided for reference.
+
 ### Syllabic vowel-like-consonants:
 Acknowledged but completely optional phonetics for particular cases.
 <br>Can be handled with the phonetics above without issue.
