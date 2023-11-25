@@ -68,6 +68,9 @@ Consonants are almost labeled exactly as you think.
 <br>
 <br>Given that 100% of NNSVS and nearly all DiffSinger English models do this and word perfectly well, and all existing support is for it, it is HIGHLY ADVISABLE to continue doing the same to avoid complications.
 <br>
+[tr] and [dr] are INVALID phonemes and only exist as an artifact in SynthV. These were introduced due to poor pronunciation in their Eleanor Forte product and isn't even consistent between other voices for SynthV.
+<br>For AI singing synthesis these phonemes are completely useless, serve no function, and introduce the complication of spreading your data thin. Label the phonemes individually.
+<br>
 <br>NOTE: Some DiffSinger users claim that "[ch r] and [jh r] is more accurate and provides better loss" but no proof has been provided for this. Perhaps only when data is below 15 minutes.
 <br>In Intunist's rigorous testing this has not been the case and has no real practical benefit outside of being more comfortable for a small subset of UTAU users.
 <br>Given that nothing is compatible with this and no one else (SynthV, Vocaloid, CMU, etc) does this, it is our recommendation to continue using [t r] and [d r]
