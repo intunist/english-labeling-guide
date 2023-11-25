@@ -8,26 +8,27 @@ Inconsistency in labels causes undesirable and unexpected results in trained mod
 This guide along with it's Github repo will provide examples on best practices for english labels.
 
 These label guidelines can be carried over to nearly all speech and singing vocal synthesis software.
-Some aspects may not be relevent for DiffSinger due to time/scoring method but may still be useful to understand. A future update will help distinguish specifics.
+
+Some aspects may not be specifically relevent for DiffSinger due to it's limited handling of time/scoring but are still useful concepts to understand.
 
 ---
 ### NOTE FOR UTAU USERS:
-please bare in mind concepts learned from the use of the UTAU software DO NOT carry over to ML/AI/DNN/HTS systems.
+please bare in mind concepts learned from the use of the UTAU software DO NOT carry over to ML/AI/DNN/HTS systems AT ALL.
 It is best to assume most of what you know may not be suitable for an easier experience.
 
 ---
 Guide is optimized for BrE as Intunist current production datasets focuses on this dialect.
-However this guide should be valid for any and all major dialects of english, including notes for particular broad dialects.
+However this guide is valid for any and all major dialects of english, including notes for particular broad dialects.
 
 Intunist plans on releasing an 8hr singing dataset and models for pretraining.
-<br>This model, when available, should help reduce the workload and allow more stable models with less data.
+<br>These models, when available, should help reduce the workload and allow more stable models with less data.
 
-Bare in mind we want to mostly label English **PHONEMICALLY NOT phonetically**.
-<br>We are labeling based on the intention not the exact phoneme used in most cases.
-<br>While vowels are generally labeled stylistically/exactly as pronounced (can be personal preference), consonants are labeled based on their phonological grouping for compatilability.
+Bear in mind we want to _mostly label_ English **PHONEMICALLY NOT phonetically**. Based on how it sounds in context and not being painfully accurate, to allow for natural reproduction of the singing voice.
+<br>Labeling based on the intention and not the exact phoneme used is idea in most cases.
+<br>While vowels are generally labeled stylistically/exactly as pronounced (can be personal preference), consonants are labeled based on their phonological grouping.
 <br>Most speakers cannot distinguish fine phonetic differences accurately and handling it broadly allows us to rely on the model to handle these differences naturally.
 <br>Exceptions are/can be [dx] and [ax] where one may prefer having more control of these sounds.
-<br>**BARE IN MIND, if you, for example, randomly or stylistically pronounce "sleep" as [s l ey p] instead of [s l iy p] then it makes much more sense to label it as [ey]!**
+<br>**HOWEVER, if you, for example, randomly/stylistically pronounce a word like "sleep" as [s l ey p] instead of [s l iy p] then it makes much more sense to label it as [ey]!**
 <br> **STYLE OVERRIDES THE "CORRECT" PHONEME!**
 
 <sup>1</sup> Exceptions do occur, as we are inconsistent humans, however if you find you are making exceptions more often than not you should stop making that exception and allow the model to learn it as a default behavior.
