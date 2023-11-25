@@ -63,13 +63,13 @@ Consonants are almost labeled exactly as you think.
 <br>Users from the UTAU community have a very bad habit of labeling these with [ch r] and [jh r] and this is WRONG.
 <br>AI handles phonetics contextually and the "t" and "d" in these examples aren't even the same sound as "ch" and "j".
 <br>Not to mention the average person will default to using [t] and [d] when typing phonetics and all existing pronunciation dictionaries do too.
-<br>For compatibility with 100% of the existing tools, models, etc, you should label as [t r] and [d r]
+<br>For compatibility with 100% of the existing tools, models, etc, you should label as [t r] and [d r].
 <br>This method also perfectly represents and recreates the original pronunciation of the vocalist without the user having to think about it.
 <br>
-<br>Given that 100% of NNSVS and nearly all DiffSinger English models do this and word perfectly well, and all existing support is for it, it is HIGHLY ADVISABLE to continue doing the same to avoid complications.
+<br>Given that 100% of NNSVS and nearly all DiffSinger English models do this and work perfectly well, and all existing support is for it, it is HIGHLY ADVISABLE to continue doing the same to avoid complications.
 <br>
-[tr] and [dr] are INVALID phonemes and only exist as an artifact in SynthV. These were introduced due to poor pronunciation in their Eleanor Forte product and isn't even consistent between other voices for SynthV.
-<br>For AI singing synthesis these phonemes are completely useless, serve no function, and introduce the complication of spreading your data thin. Label the phonemes individually.
+As a related note, [tr] and [dr] are INVALID phonemes and only exist as an artifact/bodge of SynthV's early development. These were introduced due to poor pronunciation in their Eleanor Forte product and isn't even consistent between other voices for SynthV.
+<br>For AI singing synthesis these phonemes are completely useless, serve no function, and introduce the complication of spreading your data thin. Label the phonemes individually. Effectively less than useless.
 <br>
 <br>NOTE: Some DiffSinger users claim that "[ch r] and [jh r] is more accurate and provides better loss" but no proof has been provided for this. Perhaps only when data is below 15 minutes.
 <br>In Intunist's rigorous testing this has not been the case and has no real practical benefit outside of being more comfortable for a small subset of UTAU users.
