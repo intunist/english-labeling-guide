@@ -9,7 +9,7 @@ Note that many BrE dialects use a reduced phoneme set.
 1. label with the full set, as if the speaker did not have fewer phonemes (recommended for dict/G2P compatibility).
 2. label with the reduced set, choosing the closest provided phoneme. (ex: some northern speakers pronounce "hut" as [hh uh t]. 
     - A reduced set for Northern BrE is provided, with supporting G2P in the works. 
-    - Bare in mind Northern dialects are a minefield of difficult to impossible to cover pronunciation exceptions, mutations, and so forth. It is generally understood to treat these execptions as if they aren't there.
+    - Bear in mind Northern dialects are a minefield of difficult to impossible to cover pronunciation exceptions, mutations, and so forth. It is generally understood to treat these execptions as if they aren't there.
 	- Scottish speakers are more likely to use to full phoneme set, not the northerner set.
 
 Note for most AuE (Australian) and some BrE speakers: Sometimes a vowel becomes [er] or adds an [r] for vowel linkages. This is referred to as the "intrusive R". It is recommended to still label these as their original vowel and allow the model to learn the contextual change.
@@ -81,6 +81,10 @@ Voice and unvoiced equivalents are paired (ex: k/g, t/d)
 |                |                    |           |           |        |                           |
 | [t] [r]        |                    |           |           | tr     | th r                      |
 | [d] [r]        |                    |           |           | dr     | dh r                      |
+
+* Vocaloid uses "_h" incorrectly to define initial plosive consonants.
+
+* SynthV includes unique [tr] and [dr] phonemes for handling the initial clusters. The reasoning is unknown as the engine seems fully capable of handling [t][r] [d][r]. Either way it's provided for reference.
 
 ### Syllabic vowel-like-consonants:
 Acknowledged but completely optional phonetics for particular cases.
