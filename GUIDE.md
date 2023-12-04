@@ -111,9 +111,8 @@ In multi-syllable words:
 	- FOR THE PREVIOUS it may help to conceptualize these consonant combinations as requiring a "pause" to transition.
 	- whisper is [w ih - s p er] NOT [w ih s - p er]
 	    - [s p] is a common starting cluster and part of the same root word.
-- Rhotics are NOT transferred to the next syllable. IN A PRIOR VERSION they were carried for "international consistency" but doing so is incredibly broken.
-    - sorrow is [s aa r - ow] NOT [s aa - r ow]
-	- clearly is [k l ih r - l iy] NOT [k l ih - r l iy]
+- Rhotics paired with another consonant are NOT transferred to the next syllable. IN A PRIOR VERSION they were carried for "international consistency" but doing so is incredibly broken.
+    - clearly is [k l ih r - l iy] NOT [k l ih - r l iy]
 - Sometimes an [r] can be pronounced as either a rhotic or a starting r. This changes the syllabification.
 	- when an [r] is surrounded by two vowels, even if it is technically a rhotic it is often functionally a starting [r] for the next syllable.
 	- Most dictionaries will transcibe "carry" as [k ae r - iy] but most speakers in a singing context (ESPECIALLY NON-AMERICAN) will actually pronounce [k ae - r iy].
