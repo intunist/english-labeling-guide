@@ -95,7 +95,7 @@ A syllable is split into 3 sections. Onset, nucleus, coda.
 Think of onset and coda as the regions where consonants reside and the nucleus is the vowel sound.
 Most existing methods of syllibification are created around the idea of arbitrary concepts created by linguists.
 In general, these methods are based around conceptual units of speech or person-preference of the person who devised it.
-<br>Ambi has devised a new way of dividing syllables SPECIFICALLY for _singing_ synthesis. Based around actual physical articulation and ease.
+<br>Ambi has devised a way of dividing syllables SPECIFICALLY for _singing_ synthesis. Based around actual physical articulation and ease.
 In multi-syllable words:
 - Most coda consonants become onset consonants for the next syllable in the same word.
 	- "except" is [ eh - k s eh p t] NOT [eh k - s eh p t]
@@ -146,6 +146,7 @@ Erase:	[**iy** - r ey s] (non-rhotic, r is part of a separate syllable and does 
     - Many American dialects also feature dropped rhotics.
 - DO NOT label linking [r] in ANY dialect. This is a specific dialect trait, let model handle it as part of vowel contextually.
     - "I saw a" [ay - s aa - ah] NOT [ay - s aa r - ah]
+- Almost NEVER label an r-r transition UNLESS it involves two word ending and starting with an [r]. For example "here is" should ONLY have one [r] even if the attack is strong.
 
 ## Diphthongs:
 - Runs with diphthongs should use repeated phonemes.
