@@ -60,8 +60,8 @@ For compatibility with the most vocal synthesis systems possible, Intunist makes
 ## Consonants
 Consonants are almost labeled exactly as you think.
 <br>However, keep in mind clusters at the START of words like "tree" and "dream".
-<br>Users from the UTAU community have a very bad habit of labeling these with [ch r] and [jh r] and this is WRONG.
-<br>AI handles phonetics contextually and the "t" and "d" in these examples aren't even the same sound as "ch" and "j".
+<br>Users from the UTAU community have a very bad habit of labeling these with [ch r] and [jh r] and this is INCORRECT.
+<br>AI handles phonetics contextually and the "t" and "d" in these examples aren't even the same sound as "ch" and "j". They are unique sounds.
 <br>Not to mention the average person will default to using [t] and [d] when typing phonetics and all existing pronunciation dictionaries do too.
 <br>For compatibility with 100% of the existing tools, models, etc, you should label as [t r] and [d r].
 <br>This method also perfectly represents and recreates the original pronunciation of the vocalist without the user having to think about it.
