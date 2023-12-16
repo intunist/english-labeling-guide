@@ -84,7 +84,7 @@ Voice and unvoiced equivalents are paired (ex: k/g, t/d)
 
 * Vocaloid uses "_h" incorrectly to define initial plosive consonants.
 
-* SynthV includes unique [tr] and [dr] phonemes for handling the initial clusters. The reasoning is unknown as the engine seems fully capable of handling [t][r] [d][r]. Either way it's provided for reference.
+* SynthV includes unique [tr] and [dr] phonemes for handling the initial clusters. This is an artifact of incorrect pronunciation in the old Elenaor Forte Standard (non-AI) voice, the engine seems fully capable of handling [t][r] [d][r] without it. Either way it's provided for reference.
 
 ### Syllabic vowel-like-consonants:
 Acknowledged but completely optional phonetics for particular cases.
