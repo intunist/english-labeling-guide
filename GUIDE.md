@@ -125,7 +125,7 @@ In multi-syllable words:
 	- NOTE THAT EVEN IF [r] IS MOVED TO THE NEXT SYLLABLE, THE VOWEL NOTES FOR THE [RHOTICS](#Rhotics) SECTION ARE STILL VALID. This is due to these [r] technically still being rhotic.
 ### FOR DIFFSINGER:
 DiffSinger has a limited syllable system where note start is defined by phoneme placement.
-- In the  most general sense place **ALL* consonants at the end of the note/split.
+- In the  most general sense place **ALL** consonants at the end of the note/split.
 - The [r] within a start cluster (like **cr**ow) will actually go at the **START** of the next split as the [r] in these cases is after the note-start/attack.
 - For example, "The crow squawks" would be [ dh | ax k | **r** ow s k w | aa k s ]
 
