@@ -7,9 +7,12 @@ This is a guide to assist with consistent, easier, and stable labeling.
 Inconsistency in labels causes undesirable and unexpected results in trained models, which can be an incredible headache. (ex: a model being unusable to all but who labeled it).
 This guide along with it's Github repo will provide examples on best practices for english labels.
 
+All information and methods in this guide has been tested heavily for accuracy and compatibility with synthesis systems.
+
 These label guidelines can be carried over to nearly all speech and singing vocal synthesis software.
 
-Some aspects may not be specifically relevent for DiffSinger due to it's limited handling of time/scoring but are still useful concepts to understand.
+Some aspects regarding syllabification may not be specifically relevent for DiffSinger due to it's limited handling of phoneme placement, but are still useful concepts to understand. Notes are provided where applicable.
+All other information is validated for DiffSinger.
 
 ---
 ### NOTE FOR UTAU USERS:
@@ -123,7 +126,7 @@ In multi-syllable words:
 ### FOR DIFFSINGER:
 DiffSinger has a limited syllable system where note start is defined by phoneme placement.
 - In the  most general sense place **ALL* consonants at the end of the note/split.
-- The [r] withing a start cluster (like crow) will actually go at the **START** of the next split as the [r] in these cases is after the note-start/attack.
+- The [r] within a start cluster (like **cr**ow) will actually go at the **START** of the next split as the [r] in these cases is after the note-start/attack.
 - For example, "The crow squawks" would be [ dh | ax k | **r** ow s k w | aa k s ]
 
 
