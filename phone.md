@@ -50,7 +50,7 @@ This is the primary phoneme set, designed for most speakers with a British-leani
 | ae          | bAth, bAt, nAsty         | /æ/ /ɑ/     | /æ/         | ({) (A)     | ae         | ({) (e@0)             | For BrE and AuE /æ/ and /ɑ/ are merged into the [ae] phoneme. (refer to [#Q&A](#Q&A)                          |
 | ax          | commA                    | /ə/         | /ə/         | @           | ax         | @                     | Is merged with [uh] in some forms of APRAbet. While ok for speech,  merging causes issues for singing.        |
 | iy          | bEAt                     | /i/         | /i/         | i           | iy         | i:                    |                                                                                                               |
-| ih          | sIt, demOn, Example      | /ɪ/ /ɨ/     | /ɪ/ /ɨ/     | I           | ih         | I                     | Merged with [ix] with no reprecussions. (refer to #Q&A(#Q&A)                                                  |
+| ih          | sIt, demOn, Example      | /ɪ/ /ɨ/     | /ɪ/ /ɨ/     | I           | ih         | I                     | Merged with [ix] with no reprecussions. (refer to [#Q&A](#Q&A)                                                  |
 | uh          | bOOk                     | /ʊ/         | /ʊ/         | U           | uh         | U                     |                                                                                                               |
 | uw          | bOOt                     | /u/         | /ʉ/         | u           | uw         | u:                    |                                                                                                               |
 | eh          | bEt                      | /ɛ/         | /e/         | E           | eh         | E                     |                                                                                                               |
@@ -61,6 +61,23 @@ This is the primary phoneme set, designed for most speakers with a British-leani
 
 # BrE Phoneme set - Northern Variant
 The Northern variant has several adjustments made to accomodate the unique challenges of Northern BrE dialects.
+It should be noted this specifically refers to dialects found in the northern region of _the island of Great Britain_. If the speaker is off-island it is more likely you want the Southern Variant of the phoneme set.
+| **Phoneme** | **Word**                 | **IPA**    | **X-SAMPA** | **SynthV** | **Vocaloid (Broken)** |                                                                                                    |
+| ----------- | ------------------------ | ---------- | ----------- | ---------- | --------------------- | -------------------------------------------------------------------------------------------------- |
+| aa          | cAlm                     | /ɑ/ /a/    | A           | aa         |                       |                                                                                                    |
+| oh          | plOt, blOnde, nOt        | /ɒ/        | Q           |            | Q                     |                                                                                                    |
+| ao          | nAUght, cORe, All, yAWn  | /o/ /ɔ/    | o           | ao         | O:                    | Some northern BrE goes from /ɔ/ to strict /o/ for “or”. But symbol assignment is unchanged         |
+| ae          | bAth, bAt, gAs, glAss    | /æ/        | ({) (A)     | ae         | ({) (e@0)             | Northern dialects only have a single “ae” vowel. So the note for Southern dialects can be ignored. |
+| ax          | commA                    | /ə/        | @           | ax         | @                     |                                                                                                    |
+| iy          | bEAt                     | /i/        | i           | iy         | i:                    |                                                                                                    |
+| ih          | sIt, demOn, Example      | /ɪ/ /ɨ/    | I           | ih         | I                     | Merged with [ix] with no reprecussions. (refer to [#Q&A](#Q&A)                                     |
+| uh          | bOOk, hUt, hUndred       | /ʊ/ /ʌ/    | U           | uh         | U                     | Northern BrE speakers merge /ʊ/ /ʌ/ into one sound. Therefore, [ah] is excluded entirely.          |
+| uw          | bOOt                     | /u/        | u           | uw         | u:                    |                                                                                                    |
+| eh          | bEt                      | /ɛ/        | E           | eh         | E                     |                                                                                                    |
+| er          | bIRd, colOR, mothERship, | /ɜ/ /ɚ/ /ə/| (@\`) (3)   | er         | @r                    | Loose use of er, and ax. Dilution while singing means [er] is often optional for many speakers.    |
+
+- The Manchester dialect has an interesting quirk where [aa](/ɑ/) becomes /ɔ/ when r-colored. And example of this would be the word "car". Thankfully context handles this, so it can be ignored and labeled with [aa] as per usual ([k aa r]).
+
 
 # AmE Phoneme set
 This set is the closest to standard Arpabet, _however_ it does have several extras that many find invaluable and have worked their way into common use for both English and Japanese datasets. For cleanliness most of those phonemes now reside in #Utility-Phonemes
