@@ -90,7 +90,7 @@ These are phonemes that have special purposes outside simply labeling speech sou
 # Q&A
 ### Why is the Vocaloid reference labeled "broken"?
 >Vocaloid's implementation of SAMPA appears to be broken. It is not possible to approximate it to British phonetics due to it's lack of /A/ and incorrect use of /Q/ and /O/. Several phonemes have odd/non-standard mappings that don't function or exist at all outside of Voclaoid.
-### Why doesn't the phoneme set include [ix]?
+### Why is [ix] excluded from the phoneme set?
 >For context, [ix] refers to the i-shaped schwa. The [ix] phoneme was deemed useless after much testing and merging it into [ih] is both standard practice and works flawlessly thanks it to it largely being length contextual.
 Unforuntely it's also too difficult for most speakers to accurately identify [ix] so it's best to exclude it as a unique phoneme.
 >
