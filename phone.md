@@ -76,7 +76,7 @@ It should be noted this specifically refers to dialects found in the northern re
 | eh          | bEt                      | /ɛ/        | E           | eh         | E                     |                                                                                                    |
 | er          | bIRd, colOR, mothERship, | /ɜ/ /⁠ɚ/ /⁠ə/| (@\`) (3)   | er         | @r                    | Loose use of er, and ax. Dilution while singing means [er] is often optional for many speakers.    |
 
-- The Manchester dialect has an interesting quirk where [aa]⁠(/ɑ/) becomes /ɔ/ when r-colored. And example of this would be the word "car". Thankfully context handles this, so it can be ignored and labeled with [aa] as per usual ([k aa r]).
+- The Manchester dialect has an interesting quirk where [aa] (/ɑ/) becomes /ɔ/ when r-colored. And example of this would be the word "car". Thankfully context handles this, so it can be ignored and labeled with [aa] as per usual ([k aa r]).
 
 
 # AmE Phoneme set
