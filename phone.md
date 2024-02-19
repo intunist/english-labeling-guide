@@ -58,6 +58,7 @@ This is the primary phoneme set, designed for most speakers with a British-leani
 
  - [axr] is ommitted as it's handled contextually by [er]
  - [ix] is ommitted as it's handled contextuall by [ih] (refer to [#Q&A](#Q&A))
+ - AuE is fully supported, however note there may be some confusion with multiple symbols covering the same phoneme. This is because many sounds in AuE are realized as "long/short" versions of the same exact phoneme. Such as /a/ for strut and /aː/ for palm. You could potentially merge down these sounds, however at the moment it is suggested to not do this. This is both a "just in case" due to dialect variation and to allow AuE datasets to be compatible with BrE dictionaries and G2P while retaining correct pronunciations.
 
 # BrE Phoneme set - Northern Variant
 The Northern variant has several adjustments made to accomodate the unique challenges of Northern BrE dialects.
@@ -87,6 +88,8 @@ This set is the closest to standard Arpabet, _however_ it does have several extr
 These are phonemes that have special purposes outside simply labeling speech sounds.
 
 # Q&A
+### Why is the Vocaloid reference labeled "broken"?
+>Vocaloid's implementation of SAMPA appears to be broken. It is not possible to approximate it to British phonetics due to it's lack of /A/ and incorrect use of /Q/ and /O/. Several phonemes have odd/non-standard mappings that don't function or exist at all outside of Voclaoid.
 ### Why doesn't the phoneme set include [ix]?
 >For context, [ix] refers to the i-shaped schwa. The [ix] phoneme was deemed useless after much testing and merging it into [ih] is both standard practice and works flawlessly thanks it to it largely being length contextual.
 Unforuntely it's also too difficult for most speakers to accurately identify [ix] so it's best to exclude it as a unique phoneme.
