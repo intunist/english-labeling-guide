@@ -1,11 +1,14 @@
 # Table of contents
-- Introduction
+- [Introduction](#Introduction)
 - PHoneme sets
   - BrE Phoneme set - Southern/AuE/International
   - BrE Phoneme set - Northern
   - AmE Phoneme set
-  - Consonants - gneeral
+  - Consonants - general
+  - Utility Phonemes
+- Q&A
 
+(editing note, QA section may be removed and each phoneme section may have it's own instead)
 
 # Introduction
 The system we use for English labeling is called **AMBIbet**.
@@ -45,4 +48,15 @@ This is the primary phoneme set, designed for most speakers with a British-leani
 The Northern variant has several adjustments made to accomodate the unique challenges of Northern BrE dialects.
 
 # AmE Phoneme set
-This set is the closest to standard Arpabet, _however_ it does have several extras that many find invaluable and have worked their way into common use for both English and Japanese datasets.
+This set is the closest to standard Arpabet, _however_ it does have several extras that many find invaluable and have worked their way into common use for both English and Japanese datasets. For cleanliness most of those phonemes now reside in #Utility-Phonemes
+
+# Utility Phonemes
+These are phonemes that have special purposes outside simply labeling speech sounds.
+
+# Q&A
+> Why doesn't the phoneme set include [ix]?
+
+For reader context, [ix] refers to the i-shaped schwa. The [ix] phoneme was deemed useless after much testing and merging it into [ih] is both standard practice and works flawlessly thanks it to it largely being length contextual.
+Unforuntely it's also too difficult for most speakers to accurately identify [ix] so it's best to exclude it as a unique phoneme.
+
+> tr dr nonsense
