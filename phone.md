@@ -70,13 +70,19 @@ These are phonemes that have special purposes outside simply labeling speech sou
 
 # Q&A
 ### Why doesn't the phoneme set include [ix]?
->For reader context, [ix] refers to the i-shaped schwa. The [ix] phoneme was deemed useless after much testing and merging it into [ih] is both standard practice and works flawlessly thanks it to it largely being length contextual.
+>For context, [ix] refers to the i-shaped schwa. The [ix] phoneme was deemed useless after much testing and merging it into [ih] is both standard practice and works flawlessly thanks it to it largely being length contextual.
 Unforuntely it's also too difficult for most speakers to accurately identify [ix] so it's best to exclude it as a unique phoneme.
+>
+>**Long answer:**
+>Some Arpabet-based systems include [ix] to handle the i-shaped schwa. However it's common to use the [ih] symbol instead. the "i-schwa" often replaces [ih] and [eh] in lax syllables, so the word "example" is most often [ih g z ae m p ax l] when short and/or lax and [eh g z ae m p ax l] when the first syllable has more stress applied, it's not necessarily related to length.. [ih] works perfectly well for AI-based singing synthesis and simplifies the labeling process as the vast majority of speakers cannot reliably identify [ix] and will always confuse it for another phoneme.
+### Why is [axr] excluded from the phoneme set?
+>While some arpabet-derivatives choose to include [axr] as a symbol, the model is fully capable of learning the correct context with the [er] symbol alone. No need to copmlicate things!
+>On top of this, the sound(s) [axr] would represent on it's own are fairly rare or non-existant for **Northern BrE** dialects.
 ### Why are /æ/ and /ɑ/ merged?
-> While incredibly weird looking, it works correctly and is fine.
->The only minor quirk is that the model may swap northern and southern dialects with tiny amounts of data.
->Note that most singers standardize to the southern dialect. Regardless the model will learn the original dialect.
->One can still choose to label these phonemes separetely by utilizing both [ae] and [aa], however note this will increase user-error when using a model with an unfamiliar dialect.
+While incredibly weird looking, it works correctly and is fine.
+>The only minor quirk is that the model may confuse northern and southern dialects with _tiny_ amounts of data.
+>Note that most singers standardize to the southern dialect. Regardless, the model will learn the original dialect in our testing.
+>One can still choose to label these phonemes separetely by utilizing both [ae] and [aa], however note this will increase user-error when using a model with an unfamiliar dialect. This should be supported in the final phonemizer.
 >"I personally hate this but it works" - Soup
 ### tr dr nonsense
 >(to add) Please don't use [tr] and [dr] phonemes. Something artifact of old Elenor version for SynthV with broken pronuncation.
