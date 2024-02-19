@@ -21,20 +21,21 @@ There are no symbols for r-colored vowels because the [r] phoneme handles this.
 When between two vowels the [r] phoneme triggers a rhotic. When the next phoneme is a consonant it will drop the rhotic but make the prior vowel r-colored.
 
 ### Vowels - monophthongs (Southern/Central/AuE/International):
-| Phoneme        | Common Name  | Word                    | IPA       | AuE IPA<sup>5</sup>| X-SAMPA   | SynthV | Vocaloid (Modified Sampa)<sup>1</sup>|
-| -------------- | ------------ | ----------------------- | --------- | ------------------ | --------- | ------ | ------------------------- |
-| ah             | short u      | hUt, hUndred            | /ʌ/       | /a/                | V         | ah     | V                         |
-| aa             | broad/long a | cAlm, cAr               | /ɑ/ /a/   | /a/                | A         | aa     |                           |
-| oh             | short o      | plOt, blonde            | /ɒ/       | /ɔ/                | Q         |        | Q                         |
-| ao             | long         | nAUght, cORe, All       | /ɔ/       | /o/                | O         | ao     | O:                        |
-| ae<sup>2</sup> | short a      | bAth, bAt, nAsty        | /æ/ /ɑ/   | /æ/                | ({) (A)   | ae     | ({) (e@0)                 |
-| ax             | short        | commA                   | /ə/       | /ə/                | @         | ax     | @                         |
-| iy             | long e       | bEAt                    | /i/       | /i/                | i         | iy     | i:                        |
-| ih<sup>3</sup> | short i      | sIt, Example<sup>3</sup>| /ɪ/ /ɨ/   | /ɪ/ /ɨ/            | I         | ih     | I                         |
-| uh             | short oo     | bOOk                    | /ʊ/       | /ʊ/                | U         | uh     | U                         |
-| uw             | long oo      | bOOt                    | /u/       | /ʉ/                | u         | uw     | u:                        |
-| eh             | short e      | bEt                     | /ɛ/       | /e/                | E         | eh     | E                         |
-| er<sup>4</sup> | long         | bIRd, colOR, mothERship |/ɚ/ /ɜ/ /ə/|/ɚ/ /ɜ/ /ə/         | (@\`) (3) | er     | @r                        |
+| **Phoneme** | **Word**                 | **IPA**     | **AuE IPA** | **X-SAMPA** | **SynthV** | **Vocaloid (Broken)** |                                                                                                               |
+| ----------- | ------------------------ | ----------- | ----------- | ----------- | ---------- | --------------------- | ------------------------------------------------------------------------------------------------------------- |
+| ah          | hUt, hUndred             | /ʌ/         | /a/         | V           | ah         | V                     |                                                                                                               |
+| aa          | cAlm, cAr                | /ɑ/ /a/     | /a/         | A           | aa         |                       | /a/ is included for reference but uncommon/merged with /ɑ/. If desired it can be added as [au] (a-unrounded). |
+| oh          | plOt, blOnde, nOt        | /ɒ/         | /ɔ/         | Q           |            | Q                     |
+| ao          | nAUght, cORe, All        | /ɔ/ /o/     | /o/         | O           | ao         | O:                    |
+| ae          | bAth, bAt, nAsty         | /æ/ /ɑ/     | /æ/         | ({) (A)     | ae         | ({) (e@0)             |                                                                                                               |
+| ax          | commA                    | /ə/         | /ə/         | @           | ax         | @                     | Is merged with [uh] in some forms of APRAbet. While ok for speech,  merging causes issues for singing.        |
+| iy          | bEAt                     | /i/         | /i/         | i           | iy         | i:                    |                                                                                                               |
+| ih          | sIt                      | /ɪ/ /ɨ/     | /ɪ/ /ɨ/     | I           | ih         | I                     | Merged with [ix] with no reprecussions. (refer to #Q&A(#Q&A)                                                  |
+| uh          | bOOk                     | /ʊ/         | /ʊ/         | U           | uh         | U                     |                                                                                                               |
+| uw          | bOOt                     | /u/         | /ʉ/         | u           | uw         | u:                    |                                                                                                               |
+| eh          | bEt                      | /ɛ/         | /e/         | E           | eh         | E                     |                                                                                                               |
+| er          | bIRd, sIR, colOR, mothER | /ɜ/ /ɚ/ /ə/ | /ɚ/ /ɜ/ /ə/ | (@\`) (3)   | er         | @r                    | Merged with [axr] with no reprecussions. (refer to #Q&A(#Q&A)                                                                                                                                                                                                                                                 |
+
 
 *Note that short/long naming conventions are inaccurate. They are only provided for some reference. These are especially inaccurate for singing (and Australian English, which uses it's own short/long vowel designations).
 
