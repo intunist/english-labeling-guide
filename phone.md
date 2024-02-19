@@ -67,18 +67,15 @@ This set is the closest to standard Arpabet, _however_ it does have several extr
 These are phonemes that have special purposes outside simply labeling speech sounds.
 
 # Q&A
-> Why doesn't the phoneme set include [ix]?
-
-For reader context, [ix] refers to the i-shaped schwa. The [ix] phoneme was deemed useless after much testing and merging it into [ih] is both standard practice and works flawlessly thanks it to it largely being length contextual.
+### Why doesn't the phoneme set include [ix]?
+>For reader context, [ix] refers to the i-shaped schwa. The [ix] phoneme was deemed useless after much testing and merging it into [ih] is both standard practice and works flawlessly thanks it to it largely being length contextual.
 Unforuntely it's also too difficult for most speakers to accurately identify [ix] so it's best to exclude it as a unique phoneme.
-
-> tr dr nonsense
-
-(to add) Please don't use [tr] and [dr] phonemes. Something artifact of old Elenor version for SynthV with broken pronuncation.
-
-> How do I handle linking and intrusive r sounds?
-
-Sometimes a vowel becomes [er] or adds an [r] for vowel linkages. This is referred to as the "intrusive R". It is recommended to still label these as their original vowel and allow the model to learn the contextual change.
-"Idea of" may sound like "idear of" to split the vowels. But you would never label the [r].
-The same relatively applies to the "linking r" but in reverse. Where a word with an expected r drops the r when another consonant is already in place to split the vowels.
-For example, "four dogs" will not have an audible [r] and instead would have a softer schwa. However, "four otters" would have an audible linking r. In both cases you will want to include an [r] phoneme to provide context to the model.
+### tr dr nonsense
+>(to add) Please don't use [tr] and [dr] phonemes. Something artifact of old Elenor version for SynthV with broken pronuncation.
+### How do I handle linking and intrusive r sounds?
+>Sometimes a vowel becomes [er] or adds an [r] for vowel linkages. This is referred to as the "intrusive R". It is recommended to still label these as their original vowel and allow the model to learn the contextual change.
+>"Idea of" may sound like "idear of" to split the vowels. But you would never label the [r].
+>The same relatively applies to the "linking r" but in reverse. Where a word with an expected r drops the r when another consonant is already in place to split the vowels.
+>For example, "four dogs" will not have an audible [r] and instead would have a softer schwa. However, "four otters" would have an audible linking r. In both cases you will want to include an [r] phoneme to provide context to the model.
+### How do I handle r-colored vowels?
+>There are no symbols for r-colored vowels because the [r] phoneme handles this. When between two vowels the [r] phoneme triggers a rhotic. When the next phoneme is a consonant it will drop the rhotic but make the prior vowel r-colored.
