@@ -78,9 +78,10 @@ It should be noted this specifically refers to dialects found in the northern re
 
 - The Manchester dialect has an interesting quirk where [aa] (/ɑ/) becomes /ɔ/ when r-colored. And example of this would be the word "car". Thankfully context handles this, so it can be ignored and labeled with [aa] as per usual ([k aa r]).
 
-
 # AmE Phoneme set
 This set is the closest to standard Arpabet, _however_ it does have several extras that many find invaluable and have worked their way into common use for both English and Japanese datasets. For cleanliness most of those phonemes now reside in #Utility-Phonemes
+
+# Consonants - General
 
 # Utility Phonemes
 These are phonemes that have special purposes outside simply labeling speech sounds.
