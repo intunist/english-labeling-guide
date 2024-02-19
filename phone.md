@@ -74,6 +74,8 @@ Unforuntely it's also too difficult for most speakers to accurately identify [ix
 
 > tr dr nonsense
 
+(to add) Please don't use [tr] and [dr] phonemes. Something artifact of old Elenor version for SynthV with broken pronuncation.
+
 > How do I handle linking and intrusive r sounds?
 
 Sometimes a vowel becomes [er] or adds an [r] for vowel linkages. This is referred to as the "intrusive R". It is recommended to still label these as their original vowel and allow the model to learn the contextual change.
