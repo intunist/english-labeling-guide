@@ -30,7 +30,7 @@ Here we provide three base vowel systems.
 The most common, the Southern BrE vowel set, is for nearly all non-American English speakers including Australian. Southern BrE is the primary accent most British-leaning accents aim for and is the best option for most speakers targeting a British dialect.
 Separate reference IPA phonetics are provided for AuE (Australian English) speakers to clear any confusion. Generally speaking, AuE and Northern BrE speakers will most often use the same AMBIbet symbols for the same words.
 
-The second option is Northern BrE. Northern speakers have a unique set of dialectal quirks that make it unique enough to need its own special vowel set to accurately portray them!
+The second option is Northern BrE. Northern speakers have their own set of dialectal quirks that make it unique enough to require its own special vowel set to accurately portray them!
 This includes a lot of vowel dropping and special considerations for small local dialects.
 
 Then the third set, for Americans and what nearly everyone uses in the NNSVS space, is also provided.
