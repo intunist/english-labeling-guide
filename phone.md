@@ -44,17 +44,17 @@ This is the primary phoneme set, designed for most speakers with a British-leani
 | **Phoneme** | **Word**                 | **IPA**     | **AuE IPA** | **X-SAMPA** | **SynthV** | **Vocaloid (Broken)** |                                                                                                               |
 | ----------- | ------------------------ | ----------- | ----------- | ----------- | ---------- | --------------------- | ------------------------------------------------------------------------------------------------------------- |
 | ah          | hUt, hUndred             | /ʌ/         | /a/         | V           | ah         | V                     |                                                                                                               |
-| aa          | cAlm, cAr                | /ɑ/ /a/     | /a/         | A           | aa         |                       | /a/ is included for reference but uncommon/merged with /ɑ/. If desired it can be added as [au] (a-unrounded). |
+| aa          | cAlm, cAr                | /ɑ/ /&#8288;a/     | /a/         | A           | aa         |                       | /a/ is included for reference but uncommon/merged with /ɑ/. If desired it can be added as [au] (a-unrounded). |
 | oh          | plOt, blOnde, nOt        | /ɒ/         | /ɔ/         | Q           |            | Q                     |
-| ao          | nAUght, cORe, All        | /ɔ/ /o/     | /o/         | O           | ao         | O:                    |
-| ae          | bAth, bAt, nAsty         | /æ/ /ɑ/     | /æ/         | ({) (A)     | ae         | ({) (e@0)             | For BrE and AuE /æ/ and /ɑ/ are merged into the [ae] phoneme. (refer to [#Q&A](#Q&A)                          |
+| ao          | nAUght, cORe, All        | /ɔ/ /&#8288;o/     | /o/         | O           | ao         | O:                    |
+| ae          | bAth, bAt, nAsty         | /æ/ /&#8288;ɑ/     | /æ/         | ({) (A)     | ae         | ({) (e@0)             | For BrE and AuE /æ/ and /ɑ/ are merged into the [ae] phoneme. (refer to [#Q&A](#Q&A)                          |
 | ax          | commA                    | /ə/         | /ə/         | @           | ax         | @                     | Is merged with [uh] in some forms of APRAbet. While ok for speech,  merging causes issues for singing.        |
 | iy          | bEAt                     | /i/         | /i/         | i           | iy         | i:                    |                                                                                                               |
-| ih          | sIt, demOn, Example      | /ɪ/ /ɨ/     | /ɪ/ /ɨ/     | I           | ih         | I                     | Merged with [ix] with no reprecussions. (refer to [#Q&A](#Q&A)                                                  |
+| ih          | sIt, demOn, Example      | /ɪ/ /&#8288;ɨ/     | /ɪ/ /ɨ/     | I           | ih         | I                     | Merged with [ix] with no reprecussions. (refer to [#Q&A](#Q&A)                                                  |
 | uh          | bOOk                     | /ʊ/         | /ʊ/         | U           | uh         | U                     |                                                                                                               |
 | uw          | bOOt                     | /u/         | /ʉ/         | u           | uw         | u:                    |                                                                                                               |
 | eh          | bEt                      | /ɛ/         | /e/         | E           | eh         | E                     |                                                                                                               |
-| er          | bIRd, sIR, colOR, mothER | /ɜ/ /ɚ/ /ə/ | /ɚ/ /ɜ/ /ə/ | (@\`) (3)   | er         | @r                    | Merged with [axr] with no reprecussions. (refer to #Q&A(#Q&A)                                                 |
+| er          | bIRd, sIR, colOR, mothER | /ɜ/ /&#8288;ɚ/ /&#8288;ə/ | /ɚ/ /ɜ/ /ə/ | (@\`) (3)   | er         | @r                    | Merged with [axr] with no reprecussions. (refer to #Q&A(#Q&A)                                                 |
 
  - [axr] is ommitted as it's handled contextually by [er]
  - [ix] is ommitted as it's handled contextuall by [ih] (refer to [#Q&A](#Q&A))
