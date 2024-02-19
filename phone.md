@@ -96,10 +96,12 @@ Unforuntely it's also too difficult for most speakers to accurately identify [ix
 >While some arpabet-derivatives choose to include [axr] as a symbol, the model is fully capable of learning the correct context with the [er] symbol alone. No need to copmlicate things!
 >On top of this, the sound(s) [axr] would represent on it's own are fairly rare or non-existant for **Northern BrE** dialects.
 ### Why are /æ/ and /ɑ/ merged?
-While incredibly weird looking, it works correctly and is fine.
+>While incredibly weird looking, it works correctly and is fine.
+>
 >The only minor quirk is that the model may confuse northern and southern dialects with _tiny_ amounts of data.
 >Note that most singers standardize to the southern dialect. Regardless, the model will learn the original dialect in our testing.
 >One can still choose to label these phonemes separetely by utilizing both [ae] and [aa], however note this will increase user-error when using a model with an unfamiliar dialect. This should be supported in the final phonemizer.
+>
 >"I personally hate this but it works" - Soup
 ### tr dr nonsense
 >(to add) Please don't use [tr] and [dr] phonemes. Something artifact of old Elenor version for SynthV with broken pronuncation.
