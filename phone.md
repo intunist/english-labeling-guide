@@ -41,21 +41,22 @@ Along with this, we are working on 3 pronunciation dictionaries (AmE, N.Bre, S.B
 # BrE Phoneme set - Southern and International Variant
 This is the primary phoneme set, designed for most speakers with a British-leaning accent. It also accomodates Australian English.
 
-| **Phoneme** | **Word**                 | **IPA**     | **AuE IPA** | **X-SAMPA** | **SynthV** | **Vocaloid (Broken)** |                                                                                                               |
-| ----------- | ------------------------ | ----------- | ----------- | ----------- | ---------- | --------------------- | ------------------------------------------------------------------------------------------------------------- |
-| ah          | hUt, hUndred             | /ʌ/         | /a/         | V           | ah         | V                     |                                                                                                               |
-| aa          | cAlm, cAr                | /ɑ/ /⁠a/     | /a/         | A           | aa         |                       | /a/ is included for reference but uncommon/merged with /ɑ/. If desired it can be added as [au] (a-unrounded). |
-| oh          | plOt, blOnde, nOt        | /ɒ/         | /ɔ/         | Q           |            | Q                     |
-| ao          | nAUght, cORe, All        | /ɔ/ /⁠o/     | /o/         | O           | ao         | O:                    |
-| ae          | bAth, bAt, nAsty         | /æ/ /⁠ɑ/     | /æ/         | ({) (A)     | ae         | ({) (e@0)             | For BrE and AuE /æ/ and /ɑ/ are merged into the [ae] phoneme. (refer to [#Q&A](#qa))                          |
-| ax          | commA                    | /ə/         | /ə/         | @           | ax         | @                     | Is merged with [uh] in some forms of APRAbet. While ok for speech,  merging causes issues for singing.        |
-| iy          | bEAt                     | /i/         | /i/         | i           | iy         | i:                    |                                                                                                               |
-| ih          | sIt, demOn, Example      | /ɪ/ /⁠ɨ/     | /ɪ/ /ɨ/     | I           | ih         | I                     | Merged with [ix] with no reprecussions. (refer to [#Q&A](#a))                                                  |
-| uh          | bOOk                     | /ʊ/         | /ʊ/         | U           | uh         | U                     |                                                                                                               |
-| uw          | bOOt                     | /u/         | /ʉ/         | u           | uw         | u:                    |                                                                                                               |
-| eh          | bEt                      | /ɛ/         | /e/         | E           | eh         | E                     |                                                                                                               |
-| er          | bIRd, sIR, colOR, mothER | /ɜ/ /⁠ɚ/ /⁠ə/ | /ɚ/ /ɜ/ /ə/ | (@\`) (3)   | er         | @r                    | Merged with [axr] with no reprecussions. (refer to #Q&A(#Q&A)                                                 |
+| **Phoneme** | **Common Name**  | **Word**                 | **IPA**     | **AuE IPA** | **X-SAMPA** | **SynthV** | **Vocaloid (Broken)** |                                                                                                               |
+| ----------- | ---------------- | ------------------------ | ----------- | ----------- | ----------- | ---------- | --------------------- | ------------------------------------------------------------------------------------------------------------- |
+| ah          | short u          | hUt, hUndred             | /ʌ/         | /a/         | V           | ah         | V                     |                                                                                                               |
+| aa          | broad/long a     | cAlm, cAr                | /ɑ/ /⁠a/     | /a/         | A           | aa         |                       | /a/ is included for reference but uncommon/merged with /ɑ/. If desired it can be added as [au] (a-unrounded). |
+| oh          | short o          | plOt, blOnde, nOt        | /ɒ/         | /ɔ/         | Q           |            | Q                     |
+| ao          | long             | nAUght, cORe, All        | /ɔ/ /⁠o/     | /o/         | O           | ao         | O:                    |
+| ae          | short a          | bAth, bAt, nAsty         | /æ/ /⁠ɑ/     | /æ/         | ({) (A)     | ae         | ({) (e@0)             | For BrE and AuE /æ/ and /ɑ/ are merged into the [ae] phoneme. (refer to [#Q&A](#qa))                          |
+| ax          | short            | commA                    | /ə/         | /ə/         | @           | ax         | @                     | Is merged with [uh] in some forms of APRAbet. While ok for speech,  merging causes issues for singing.        |
+| iy          | long e           | bEAt                     | /i/         | /i/         | i           | iy         | i:                    |                                                                                                               |
+| ih          | short i          | sIt, demOn, Example      | /ɪ/ /⁠ɨ/     | /ɪ/ /ɨ/     | I           | ih         | I                     | Merged with [ix] with no reprecussions. (refer to [#Q&A](#a))                                                  |
+| uh          | short oo         | bOOk                     | /ʊ/         | /ʊ/         | U           | uh         | U                     |                                                                                                               |
+| uw          | long oo          | bOOt                     | /u/         | /ʉ/         | u           | uw         | u:                    |                                                                                                               |
+| eh          | short e          | bEt                      | /ɛ/         | /e/         | E           | eh         | E                     |                                                                                                               |
+| er          | long             | bIRd, sIR, colOR, mothER | /ɜ/ /⁠ɚ/ /⁠ə/ | /ɚ/ /ɜ/ /ə/ | (@\`) (3)   | er         | @r                    | Merged with [axr] with no reprecussions. (refer to #Q&A(#Q&A)                                                 |
 
+Note that short/long naming conventions are antiquated and inaccurate. They are only provided for reference and understanding. These are especially inaccurate for singing (and Australian English, which uses it's own short/long vowel designations).
  - [axr] is ommitted as it's handled contextually by [er]
  - [ix] is ommitted as it's handled contextuall by [ih] (refer to [#Q&A](#qa))
  - AuE is fully supported, however note there may be some confusion with multiple symbols covering the same phoneme. This is because many sounds in AuE are realized as "long/short" versions of the same exact phoneme. Such as /a/ for strut and /aː/ for palm. You could potentially merge down these sounds, however at the moment it is suggested to not do this. This is both a "just in case" due to dialect variation and to allow AuE datasets to be compatible with BrE dictionaries and G2P while retaining correct pronunciations.
@@ -63,20 +64,21 @@ This is the primary phoneme set, designed for most speakers with a British-leani
 # BrE Phoneme set - Northern Variant
 The Northern variant has several adjustments made to accomodate the unique challenges of Northern BrE dialects.
 It should be noted this specifically refers to dialects found in the northern region of _the island of Great Britain_. If the speaker is off-island it is more likely you want the Southern Variant of the phoneme set.
-| **Phoneme** | **Word**                 | **IPA**    | **X-SAMPA** | **SynthV** | **Vocaloid (Broken)** |                                                                                                    |
-| ----------- | ------------------------ | ---------- | ----------- | ---------- | --------------------- | -------------------------------------------------------------------------------------------------- |
-| aa          | cAlm                     | /ɑ/ /⁠a/    | A           | aa         |                       |                                                                                                    |
-| oh          | plOt, blOnde, nOt        | /ɒ/        | Q           |            | Q                     |                                                                                                    |
-| ao          | nAUght, cORe, All, yAWn  | /o/ /⁠ɔ/    | o           | ao         | O:                    | Some northern BrE goes from /ɔ/ to strict /o/ for “or”. But symbol assignment is unchanged         |
-| ae          | bAth, bAt, gAs, glAss    | /æ/        | ({) (A)     | ae         | ({) (e@0)             | Northern dialects only have a single “ae” vowel. So the note for Southern dialects can be ignored. |
-| ax          | commA                    | /ə/        | @           | ax         | @                     |                                                                                                    |
-| iy          | bEAt                     | /i/        | i           | iy         | i:                    |                                                                                                    |
-| ih          | sIt, demOn, Example      | /ɪ/ /⁠ɨ/    | I           | ih         | I                     | Merged with [ix] with no reprecussions. (refer to [#Q&A](#qa)                                      |
-| uh          | bOOk, hUt, hUndred       | /ʊ/ /⁠ʌ/    | U           | uh         | U                     | Northern BrE speakers merge /ʊ/ /ʌ/ into one sound. Therefore, [ah] is excluded entirely.          |
-| uw          | bOOt                     | /u/        | u           | uw         | u:                    |                                                                                                    |
-| eh          | bEt                      | /ɛ/        | E           | eh         | E                     |                                                                                                    |
-| er          | bIRd, colOR, mothERship, | /ɜ/ /⁠ɚ/ /⁠ə/| (@\`) (3)   | er         | @r                    | Loose use of er, and ax. Dilution while singing means [er] is often optional for many speakers.    |
+| **Phoneme** | **Common Name**  | **Word**                 | **IPA**    | **X-SAMPA** | **SynthV** | **Vocaloid (Broken)** |                                                                                                    |
+| ----------- | ---------------- | ------------------------ | ---------- | ----------- | ---------- | --------------------- | -------------------------------------------------------------------------------------------------- |
+| aa          | broad/long a     | cAlm                     | /ɑ/ /⁠a/    | A           | aa         |                       |                                                                                                    |
+| oh          | short o          | plOt, blOnde, nOt        | /ɒ/        | Q           |            | Q                     |                                                                                                    |
+| ao          | long             | nAUght, cORe, All, yAWn  | /o/ /⁠ɔ/    | o           | ao         | O:                    | Some northern BrE goes from /ɔ/ to strict /o/ for “or”. But symbol assignment is unchanged         |
+| ae          | short a          | bAth, bAt, gAs, glAss    | /æ/        | ({) (A)     | ae         | ({) (e@0)             | Northern dialects only have a single “ae” vowel. So the note for Southern dialects can be ignored. |
+| ax          | short            | commA                    | /ə/        | @           | ax         | @                     |                                                                                                    |
+| iy          | long e           | bEAt                     | /i/        | i           | iy         | i:                    |                                                                                                    |
+| ih          | short i          | sIt, demOn, Example      | /ɪ/ /⁠ɨ/    | I           | ih         | I                     | Merged with [ix] with no reprecussions. (refer to [#Q&A](#qa)                                      |
+| uh          | short oo         | bOOk, hUt, hUndred       | /ʊ/ /⁠ʌ/    | U           | uh         | U                     | Northern BrE speakers merge /ʊ/ /ʌ/ into one sound. Therefore, [ah] is excluded entirely.          |
+| uw          | long oo          | bOOt                     | /u/        | u           | uw         | u:                    |                                                                                                    |
+| eh          | short e          | bEt                      | /ɛ/        | E           | eh         | E                     |                                                                                                    |
+| er          | long             | bIRd, colOR, mothERship, | /ɜ/ /⁠ɚ/ /⁠ə/| (@\`) (3)   | er         | @r                    | Loose use of er, and ax. Dilution while singing means [er] is often optional for many speakers.    |
 
+Note that short/long naming conventions are antiquated and inaccurate. They are only provided for reference and understanding. These are especially inaccurate for singing.
 - The Manchester dialect has an interesting quirk where [aa] (/ɑ/) becomes /ɔ/ when r-colored. And example of this would be the word "car". Thankfully context handles this, so it can be ignored and labeled with [aa] as per usual ([k aa r]).
 
 # AmE Phoneme set
