@@ -117,8 +117,8 @@ This set is the closest to standard Arpabet, _however_ it does have several extr
 | ----------- | ------------------------------------- | -------- | -------------------------------------------------------------------------- |
 | p           | PoP                                   |          |                                                                            |
 | b           | BoB                                   |          |                                                                            |
-| t           | TaT                                   |          |                                                                            |
-| d           | DaD                                   |          |                                                                            |
+| t           | TaT, Tree                             |          | Phoneme contex handling.                                                   |
+| d           | DaD, Drink                            |          | Phoneme contex handling.                                                   |
 | k           | CaKE                                  | /k/ /kʰ/ |                                                                            |
 | g           | GaG                                   |          |                                                                            |
 | s           | SaS                                   |          |                                                                            |
@@ -144,6 +144,8 @@ This set is the closest to standard Arpabet, _however_ it does have several extr
 | rr          | peRRo                                 |          | Trilled r (like in spanish)                                                |
 | rx          | fuRet, bRechen                        |          | Fricative r (like in german or french)                                     |
 | x           | loCH                                  |          | Voiceless velar fricative. Scottish/Welsh specific.                        |
+
+ - Note that combinations such as [tr] and [dr] do not exist. Some users have referenced an early version of Eleanor Forte for SynthV R1(?) which only had these phonemes due to mispronunciations in this early voice. It is a bodge to fix a quirk, not something that should be replicated. Not even SynthV makes much use of this in it's current state.
 
 # Utility Phonemes
 These are phonemes that have special purposes outside simply labeling speech sounds.
