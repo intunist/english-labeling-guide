@@ -1,12 +1,12 @@
 # Table of contents
 - [Introduction](#Introduction)
 - Phoneme sets
-  - BrE Phoneme set - Southern/AuE/International
-  - BrE Phoneme set - Northern
-  - AmE Phoneme set
-  - Consonants - general
-  - Utility Phonemes
-- Q&A
+  - [BrE Phoneme set - Southern/AuE/International](#bre-phoneme-set---southern-and-international-variant)
+  - [BrE Phoneme set - Northern](#bre-phoneme-set---northern-variant)
+  - [AmE Phoneme set](#ame-phoneme-set)
+  - [Consonants - general](#ame-phoneme-set)
+  - [Utility Phonemes](#utility-phonemes)
+- [Q&A](#qa)
 
 (editing note, QA section may be removed and each phoneme section may have it's own instead)
 
