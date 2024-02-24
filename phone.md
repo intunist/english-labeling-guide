@@ -145,6 +145,14 @@ This set is the closest to standard Arpabet, _however_ it does have several extr
 | rx          | fuRet, bRechen                        |          | Fricative r (like in german or french)                                     |
 | x           | loCH                                  |          | Voiceless velar fricative. Scottish/Welsh specific.                        |
 
+Consonants that have a vowel-like quality in terms of sustain.
+These are entirely optional as no G2P will EVER support these due to them being incredibly situational (you CANNOT replace every instance).
+| **phoneme** | **Example**    |                                                                     |
+| ----------- | -------------- | ------------------------------------------------------------------- |
+| el          | peopLE, doubLE | USE [ax l] INSTEAD, vowellike l, where l makes most of the syllable |
+| em          | bottOM         | USE [ax m] INSTEAD, vowellike m, where m makes most of the syllable |
+| en          | buttON         | USE [ax n] INSTEAD, vowellike n, where n makes most of the syllable |
+
  - Note that combinations such as [tr] and [dr] do not exist. Some users have referenced an early version of Eleanor Forte for SynthV R1(?) which only had these phonemes due to mispronunciations in this early voice. It is a bodge to fix a quirk, not something that should be replicated. Not even SynthV makes much use of this in it's current state.
    - In addition to this, the difference between the [t] in "take" and "tree" (and [d] in "day" and "drink") are handled contextually. DO NOT supplement these with [ch] and [jh] as that is incorrect and unsupported everywhere. It bares no functional improvement either and [t][r] and [d][r] has been proven time and time again to work without issue. It only serves to make your resulting model incompatible with everything else as it’s non-standard.
  - Differences in aspiration and voicing are handled contextually. No additional symbols are required to handle these cases (such as [k], [t], [d], or [hh]).
