@@ -196,7 +196,7 @@ Unfortunately it's also too difficult for most speakers to accurately identify [
 >One can still choose to label these phonemes separately by utilizing both [ae] and [aa], however note this will increase user-error when using a model with an unfamiliar dialect. This should be supported in the final phonemizer.
 >
 >"I personally hate this but it works" - Soup
-### What is [tr] and [dr]?
+### What is [tr] and [dr]? (Why you SHOULDN'T do this)
 > 𝒫𝓁𝑒𝒶𝓈𝑒 DO NOT use [tr] and [dr] when labeling your dataset.
 > SynthV included these as an artifact of **incorrect/broken pronunciation** in the **old Elenaor Forte Standard (non-AI) voice**. Not even SynthV makes much use of this anymore and the current voices handle [t][r] and [d][r] without it.
 > Some users have claimed that using [tr] and [dr] may provide "lower loss" without any evidence supporting this (and much existing evidence that _does not_ support it). Even if it did result in a _slightly_ lower loss in _a single_ use-case, that is not how loss metrics should be used as any change can have small affects on the loss value. For speech synthesis tasks, human-perception is more important and this would be teeth pulling...
