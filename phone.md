@@ -199,8 +199,8 @@ Unfortunately it's also too difficult for most speakers to accurately identify [
 ### What is [tr] and [dr]?
 > 𝒫𝓁𝑒𝒶𝓈𝑒 DO NOT use [tr] and [dr] when labeling your dataset.
 > SynthV included these as an artifact of **incorrect/broken pronunciation** in the **old Elenaor Forte Standard (non-AI) voice**. Not even SynthV makes much use of this anymore and the current voices handle [t][r] and [d][r] without it.
-> Some users have noted that using [tr] and [dr] may provide "lower loss" without any evidence supporting this (and much evidence existing that _does not_ support it). Even if it did that is not how loss metrics should be used..
-> Given that [t][r] and [d][r] is common in ALL existing English datasets and models with absolutely no issue with it, it's in your best interest to not break from this.
+> Some users have claimed that using [tr] and [dr] may provide "lower loss" without any evidence supporting this (and much existing evidence that _does not_ support it). Even if it did that is not how loss metrics should be used...
+> Given that [t][r] and [d][r] is common in ALL existing English datasets and models with absolutely no issue with it, it is STRONGLY RECOMMENDED to not break from this.
 ### How do I handle linking and intrusive r sounds?
 >Sometimes a vowel becomes [er] or adds an [r] for vowel linkages. This is referred to as the "intrusive R". It is recommended to still label these as their original vowel and allow the model to learn the contextual change.
 >"Idea of" may sound like "idear of" to split the vowels. But you would never label the [r].
