@@ -113,9 +113,54 @@ This set is the closest to standard Arpabet, _however_ it does have several extr
 | ow          | long o           | bOAt                     | /əʊ/ /oʊ/   | (@U) (oU)   | ow         | @U                    |                                                                                                                                                                                                                 |
 
 # Consonants - General
+| **phoneme** | **Example**                           | **IPA**  | **Description**                                                            |
+| ----------- | ------------------------------------- | -------- | -------------------------------------------------------------------------- |
+| p           | PoP                                   |          |                                                                            |
+| b           | BoB                                   |          |                                                                            |
+| t           | TaT                                   |          |                                                                            |
+| d           | DaD                                   |          |                                                                            |
+| k           | CaKE                                  | /k/ /kʰ/ |                                                                            |
+| g           | GaG                                   |          |                                                                            |
+| s           | SaS                                   |          |                                                                            |
+| z           | ZooS                                  |          |                                                                            |
+| ch          | CHurCH                                |          |                                                                            |
+| jh          | JuDGE                                 |          | Makes 'dg' sound for end of words. like [d][zh] or /dZ/ in xsampa.         |
+| sh          | Ship, puSH                            |          |                                                                            |
+| zh          | pleaSure                              |          | The 'judge' example is [j ah d zh], not [j ah zh]. To avoid any confusion. |
+| f           | FlooF                                 |          |                                                                            |
+| v           | Verge, nerVe                          |          |                                                                            |
+| hh          | Herb(BrE), Happy(AmE)                 |          | syllable onset only. Use [exh] for end-of-note exhales.                    |
+| th          | THin, myTH                            |          |                                                                            |
+| dh          | THis, widTH                           |          |                                                                            |
+| n           | NaNNy, paN                            |          |                                                                            |
+| m           | MoM, MoMent                           |          |                                                                            |
+| ng          | baNG, suNG                            |          |                                                                            |
+| w           | Wisp                                  |          | syllable onset only.                                                       |
+| y           | Yes                                   |          | syllable onset only.                                                       |
+| r           | Road, caR                             |          | rhotic shares same phoneme. It's fine. UK dropped r as well.               |
+| l           | List, caLL                            |          | dark L shares same phoneme. It's fine.                                     |
+| q           | boTTom(BrE), we-eat(AmE), batten(AmE) |          | glottal stop and vowel separator. NOT vocal fry.                           |
+| dx          | shuTup(BrE), buTTer(AmE)              |          | tapped/flapped d/tt. Use in UK English is spotty.                          |
+| rr          | peRRo                                 |          | Trilled r (like in spanish)                                                |
+| rx          | fuRet, bRechen                        |          | Fricative r (like in german or french)                                     |
+| x           | loCH                                  |          | Voiceless velar fricative. Scottish/Welsh specific.                        |
 
 # Utility Phonemes
 These are phonemes that have special purposes outside simply labeling speech sounds.
+Note that [exh], [axh], and [vf] were introduced by Ambision/Intunist and are custom to AMBIbet. You will not find these in any common/normal ARPAbet dataset.
+| phoneme | Example          | Description                                                                                            |
+|---------|------------------| -------------------------------------------------------------------------------------------------------|
+| pau     | silence          | During unsung/silent periods.                                                                          |
+| br      | [breath]         | **NOT TO BE USED FOR NNSVS. ALSO NOTE DIFFSINGER HAS IT'S OWN AP/SP SYSTEM**                           |
+| exh     | [exhale]         | end breaths, end of phrase exhale. devoiced. Label consonant coda.                                     |
+| axh     | [release]        | voiced variation of [exh]. voiced schwa exhale/release. Label as consonant coda.                       |
+| vf      | [vocal fry]      | vocal fry. Can be used as a consonant OR on it's own note.                                             |
+
+THESE ARE NONSTANDARD and have almost no applicable use-case. They are best avoided wherever possible. They are provided as they are custom additonal phonemes in Ambision's (Intunist's) NNSVS english support.
+| phoneme | Example          | Description                                                                                            |
+|---------|------------------| -------------------------------------------------------------------------------------------------------|
+| ct      | [closure-toggle] | override the default state of a consonant's closure. Entirely optional.                                |
+| cl      | [held stop]      | Held stop/plosive consonant. For when the silence is held. Similar to Japanese usage but not syllabic. |
 
 # Q&A
 ### Why is the Vocaloid reference labeled "broken"?
