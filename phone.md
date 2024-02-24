@@ -201,10 +201,10 @@ Unfortunately it's also too difficult for most speakers to accurately identify [
 > SynthV included these as an artifact of **incorrect/broken pronunciation** in the **old Elenaor Forte Standard (non-AI) voice**. Not even SynthV makes much use of this anymore and the current voices handle [t][r] and [d][r] without it.
 >
 > Some users have claimed that using [tr] and [dr] may provide "lower loss" without any evidence supporting this (and much existing evidence _against it_).
-> Even if it did result in a _slightly_ lower loss in _a single_ use-case, that is not how loss metrics should be used as _any_ change can have small effects on the loss value.
+> Even if it did result in a _slightly_ lower loss in _a single_ use-case, that is not how loss metrics should be used as _any_ change can have small, random, effects on the loss value (in both directions).
 > For speech synthesis tasks, human-perception is more important and this would be teeth pulling...
 >
-> Given that [t][r] and [d][r] is common in ALL existing English datasets and models with absolutely no issue with it, it is STRONGLY RECOMMENDED to not break from this.
+> Given that [t][r] and [d][r] is common in ALL existing English datasets and models with absolutely no issue, AND all existing software (open, commerical, or otherwise) also doing the same, it is STRONGLY RECOMMENDED to not break from this.
 ### How do I handle linking and intrusive r sounds?
 >Sometimes a vowel becomes [er] or adds an [r] for vowel linkages. This is referred to as the "intrusive R". It is recommended to still label these as their original vowel and allow the model to learn the contextual change.
 >"Idea of" may sound like "idear of" to split the vowels. But you would never label the [r].
