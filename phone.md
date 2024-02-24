@@ -4,7 +4,7 @@
   - [BrE Phoneme set - Southern/AuE/International](#bre-phoneme-set---southern-and-international-variant)
   - [BrE Phoneme set - Northern](#bre-phoneme-set---northern-variant)
   - [AmE Phoneme set](#ame-phoneme-set)
-  - [Consonants - general](#ame-phoneme-set)
+  - [Consonants - general](#consonants---general)
   - [Utility Phonemes](#utility-phonemes)
 - [Q&A](#qa)
 
