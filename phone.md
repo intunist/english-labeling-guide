@@ -137,7 +137,7 @@ This set is the closest to standard Arpabet, _however_ it does have several extr
 | ng          | baNG, suNG                            |              |                                                                            |
 | w           | Wisp                                  |              | syllable onset only.                                                       |
 | y           | Yes                                   |              | syllable onset only.                                                       |
-| r           | Road, caR                             | /ɹ/ /ɻ/ /ʁ/  | rhotic shares same phoneme. It's fine. UK dropped r as well.               |
+| r           | Road, caR                             | /ɹ/ /ɻ/ /⁠ʁ/  | rhotic shares same phoneme. It's fine. UK dropped r as well.               |
 | l           | List, caLL                            |              | dark L shares same phoneme. It's fine.                                     |
 | q           | boTTom(BrE), we-eat(AmE), batten(AmE) |              | glottal stop and vowel separator. NOT vocal fry.                           |
 | dx          | shuTup(BrE), buTTer(AmE)              |              | tapped/flapped d/tt. Use in UK English is spotty.                          |
