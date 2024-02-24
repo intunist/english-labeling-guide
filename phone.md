@@ -162,7 +162,7 @@ Note that [exh], [axh], and [vf] were introduced by Ambision/Intunist and are cu
 | axh     | [release]        | voiced variation of [exh]. voiced schwa exhale/release. Label as consonant coda.                       |
 | vf      | [vocal fry]      | vocal fry. Can be used as a consonant OR on it's own note.                                             |
 
-THESE ARE NONSTANDARD and have almost no applicable use-case. They are best avoided wherever possible. They are provided as they are custom additonal phonemes in Ambision's (Intunist's) NNSVS english support.
+**THESE ARE NONSTANDARD and have almost no applicable use-case**. They are best avoided wherever possible. They are provided as they are custom additonal phonemes in Ambision's (Intunist's) NNSVS english support.
 | phoneme | Example          | Description                                                                                            |
 |---------|------------------| -------------------------------------------------------------------------------------------------------|
 | ct      | [closure-toggle] | override the default state of a consonant's closure. Entirely optional.                                |
