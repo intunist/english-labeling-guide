@@ -188,7 +188,7 @@ Unfortunately it's also too difficult for most speakers to accurately identify [
 ### Why is [axr] excluded from the phoneme set?
 >While some arpabet-derivatives choose to include [axr] as a symbol, the model is fully capable of learning the correct context with the [er] symbol alone. No need to complicate things!
 >On top of this, the sound(s) [axr] would represent on it's own are fairly rare or non-existent for **Northern BrE** dialects.
-### Why are /æ/ and /ɑ/ merged?
+### Why are /æ/ and /ɑ/ merged? (BrE/AuE specific)
 >While incredibly weird looking, it works correctly and is fine.
 >
 >The only minor quirk is that the model may confuse the correct sound with _tiny_ amounts of data.
