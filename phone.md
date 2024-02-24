@@ -146,6 +146,10 @@ This set is the closest to standard Arpabet, _however_ it does have several extr
 | x           | loCH                                  |          | Voiceless velar fricative. Scottish/Welsh specific.                        |
 
  - Note that combinations such as [tr] and [dr] do not exist. Some users have referenced an early version of Eleanor Forte for SynthV R1(?) which only had these phonemes due to mispronunciations in this early voice. It is a bodge to fix a quirk, not something that should be replicated. Not even SynthV makes much use of this in it's current state.
+   - In addition to this, the difference between the [t] in "take" and "tree" (and [d] in "day" and "drink") are handled contextually. DO NOT supplement these with [ch] and [jh] as that is incorrect and unsupported everywhere. It bares no functional improvement either and [t][r] and [d][r] has been proven time and time again to work without issue. It only serves to make your resulting model incompatible with everything else as it’s non-standard.
+ - Differences in aspiration and voicing are handled contextually. No additional symbols are required to handle these cases (such as [k], [t], [d], or [hh]).
+ - Phonemes such as [ty], [ky], etc are JAPANESE ONLY and should not be done at all for English labeling. Not even for borrowed words.
+   - For example "kyoku" would be [k y ow][k uw] NOT [ky ow][k uw].
 
 # Utility Phonemes
 These are phonemes that have special purposes outside simply labeling speech sounds.
