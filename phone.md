@@ -113,37 +113,37 @@ This set is the closest to standard Arpabet, _however_ it does have several extr
 | ow          | long o           | bOAt                     | /əʊ/ /oʊ/   | (@U) (oU)   | ow         | @U                    |                                                                                                                                                                                                                 |
 
 # Consonants - General
-| **phoneme** | **Example**                           | **IPA**  | **Description**                                                            |
-| ----------- | ------------------------------------- | -------- | -------------------------------------------------------------------------- |
-| p           | PoP                                   | /p/ [pʰ] |                                                                            |
-| b           | BoB                                   |          |                                                                            |
-| t           | TaT, Tree                             | /t/ [tʰ] | Phoneme contex handling.                                                   |
-| d           | DaD, Drink                            |          | Phoneme contex handling.                                                   |
-| k           | CaKE                                  | /k/ [kʰ] |                                                                            |
-| g           | GaG                                   |          |                                                                            |
-| s           | SaS                                   |          |                                                                            |
-| z           | ZooS                                  |          |                                                                            |
+| **phoneme** | **Example**                           | **IPA**      | **Description**                                                            |
+| ----------- | ------------------------------------- | ------------ | -------------------------------------------------------------------------- |
+| p           | PoP                                   | /p/ [pʰ]     |                                                                            |
+| b           | BoB                                   |              |                                                                            |
+| t           | TaT, Tree                             | /t/ [tʰ]     | Phoneme context handling of "tr".                                          |
+| d           | DaD, Drink                            |              | Phoneme context handling or "dr".                                          |
+| k           | CaKE                                  | /k/ [kʰ]     |                                                                            |
+| g           | GaG                                   |              |                                                                            |
+| s           | SaS                                   |              |                                                                            |
+| z           | ZooS                                  |              |                                                                            |
 | ch          | CHurCH                                | /t͡ʃ/ [t͡ʃʰ] |                                                                            |
-| jh          | JuDGE                                 |          | Makes 'dg' sound for end of words. like [d][zh] or /dZ/ in xsampa.         |
-| sh          | Ship, puSH                            |          |                                                                            |
-| zh          | pleaSure                              |          | The 'judge' example is [j ah d zh], not [j ah zh]. To avoid any confusion. |
-| f           | FlooF                                 |          |                                                                            |
-| v           | Verge, nerVe                          |          |                                                                            |
-| hh          | Herb(BrE), Happy(AmE)                 |          | syllable onset only. Use [exh] for end-of-note exhales.                    |
-| th          | THin, myTH                            |          |                                                                            |
-| dh          | THis, widTH                           |          |                                                                            |
-| n           | NaNNy, paN                            |          |                                                                            |
-| m           | MoM, MoMent                           |          |                                                                            |
-| ng          | baNG, suNG                            |          |                                                                            |
-| w           | Wisp                                  |          | syllable onset only.                                                       |
-| y           | Yes                                   |          | syllable onset only.                                                       |
-| r           | Road, caR                             |          | rhotic shares same phoneme. It's fine. UK dropped r as well.               |
-| l           | List, caLL                            |          | dark L shares same phoneme. It's fine.                                     |
-| q           | boTTom(BrE), we-eat(AmE), batten(AmE) |          | glottal stop and vowel separator. NOT vocal fry.                           |
-| dx          | shuTup(BrE), buTTer(AmE)              |          | tapped/flapped d/tt. Use in UK English is spotty.                          |
-| rr          | peRRo                                 |          | Trilled r (like in spanish)                                                |
-| rx          | fuRet, bRechen                        |          | Fricative r (like in german or french)                                     |
-| x           | loCH                                  |          | Voiceless velar fricative. Scottish/Welsh specific.                        |
+| jh          | JuDGE                                 |              | Makes 'dg' sound for end of words. like [d][zh] or /dZ/ in xsampa.         |
+| sh          | Ship, puSH                            |              |                                                                            |
+| zh          | pleaSure                              |              | The 'judge' example is [j ah d zh], not [j ah zh]. To avoid any confusion. |
+| f           | FlooF                                 |              |                                                                            |
+| v           | Verge, nerVe                          |              |                                                                            |
+| hh          | Herb(BrE), Happy(AmE)                 |              | syllable onset only. Use [exh] for end-of-note exhales.                    |
+| th          | THin, myTH                            |              |                                                                            |
+| dh          | THis, widTH                           |              |                                                                            |
+| n           | NaNNy, paN                            |              |                                                                            |
+| m           | MoM, MoMent                           |              |                                                                            |
+| ng          | baNG, suNG                            |              |                                                                            |
+| w           | Wisp                                  |              | syllable onset only.                                                       |
+| y           | Yes                                   |              | syllable onset only.                                                       |
+| r           | Road, caR                             |              | rhotic shares same phoneme. It's fine. UK dropped r as well.               |
+| l           | List, caLL                            |              | dark L shares same phoneme. It's fine.                                     |
+| q           | boTTom(BrE), we-eat(AmE), batten(AmE) |              | glottal stop and vowel separator. NOT vocal fry.                           |
+| dx          | shuTup(BrE), buTTer(AmE)              |              | tapped/flapped d/tt. Use in UK English is spotty.                          |
+| rr          | peRRo                                 |              | Trilled r (like in spanish)                                                |
+| rx          | fuRet, bRechen                        |              | Fricative r (like in german or french)                                     |
+| x           | loCH                                  |              | Voiceless velar fricative. Scottish/Welsh specific.                        |
 
 Consonants that have a vowel-like quality in terms of sustain.
 These are entirely optional as no G2P will EVER support these due to them being incredibly situational (you CANNOT replace every instance).
