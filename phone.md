@@ -115,15 +115,15 @@ This set is the closest to standard Arpabet, _however_ it does have several extr
 # Consonants - General
 | **phoneme** | **Example**                           | **IPA**  | **Description**                                                            |
 | ----------- | ------------------------------------- | -------- | -------------------------------------------------------------------------- |
-| p           | PoP                                   |          |                                                                            |
+| p           | PoP                                   | /p/ [pʰ] |                                                                            |
 | b           | BoB                                   |          |                                                                            |
-| t           | TaT, Tree                             |          | Phoneme contex handling.                                                   |
+| t           | TaT, Tree                             | /t/ [tʰ] | Phoneme contex handling.                                                   |
 | d           | DaD, Drink                            |          | Phoneme contex handling.                                                   |
-| k           | CaKE                                  | /k/ /kʰ/ |                                                                            |
+| k           | CaKE                                  | /k/ [kʰ] |                                                                            |
 | g           | GaG                                   |          |                                                                            |
 | s           | SaS                                   |          |                                                                            |
 | z           | ZooS                                  |          |                                                                            |
-| ch          | CHurCH                                |          |                                                                            |
+| ch          | CHurCH                                | /t͡ʃ/ [t͡ʃʰ] |                                                                            |
 | jh          | JuDGE                                 |          | Makes 'dg' sound for end of words. like [d][zh] or /dZ/ in xsampa.         |
 | sh          | Ship, puSH                            |          |                                                                            |
 | zh          | pleaSure                              |          | The 'judge' example is [j ah d zh], not [j ah zh]. To avoid any confusion. |
