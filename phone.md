@@ -13,7 +13,7 @@
 # Introduction
 The system we use for English labeling is called **AMBIbet**.
 
-AMBIbet is a phonetic system based on ARPAbet with alterations made to make it more universally compatible with non-American dialects.
+AMBIbet is a ~~phonetic~~ phonemic system based on ARPAbet with alterations made to make it more universally compatible with non-American dialects.
 It is extended from our previous work standardizing English for NNSVS!
 
 _Why base it on ARPAbet?_
