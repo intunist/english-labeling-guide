@@ -54,7 +54,7 @@ For compatibility with the most vocal synthesis systems possible, Intunist makes
 	- may remove [dx] and use [t] instead (with context).
 
 
-(NEW PHONEME DOCUMENT)[phone.md]
+[NEW PHONEME DOCUMENT](phone.md)
 The new phone.md contains all information at once, rather than separate files for various dialects.
 
 ----------
