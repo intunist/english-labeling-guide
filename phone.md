@@ -8,8 +8,6 @@
   - [Utility Phonemes](#utility-phonemes)
 - [Q&A](#qa)
 
-(editing note, QA section may be removed and each phoneme section may have it's own instead)
-
 # Introduction
 The system we use for English labeling is called **AMBIbet**.
 
