@@ -169,10 +169,11 @@ Note that [exh], [axh], and [vf] were introduced by Ambision/Intunist and are cu
 | vf      | [vocal fry]      | vocal fry. Can be used as a consonant OR on it's own note.                                             |
 
 **THESE ARE NONSTANDARD and have almost no applicable use-case**. They are best avoided wherever possible. They are provided as they are custom additonal phonemes in Ambision's (Intunist's) NNSVS english support.
-| phoneme | Example          | Description                                                                                            |
-|---------|------------------| -------------------------------------------------------------------------------------------------------|
-| ct      | [closure-toggle] | override the default state of a consonant's closure. Entirely optional.                                |
-| cl      | [held stop]      | Held stop/plosive consonant. For when the silence is held. Similar to Japanese usage but not syllabic. |
+| phoneme | Example          | Description                                                                                                                           |
+|---------|------------------| --------------------------------------------------------------------------------------------------------------------------------------|
+| ct      | [closure-toggle] | override the default state of a consonant's closure. Entirely optional.                                                               |
+| cl      | [held stop]      | Held stop/plosive consonant. **For when the silence is held before a consonant release**. Similar to Japanese usage but not syllabic. |
+| cr      | [vocal break]    | Optional label for when the singer experiences a vocal break/crack. Labeled as a consonant.                                           |
 
 # Q&A
 ### Why is the Vocaloid reference labeled "broken"?
