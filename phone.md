@@ -113,10 +113,10 @@ This set is the closest to standard Arpabet, _however_ it does have several extr
 | ey          | long             | bAIt                     | /eɪ/        | eI          | ey         | eI                    |                                                                                                                                                                                                                 |
 | oy          | long             | bOY                      | /ɔɪ/        | OI          | oy         | OI                    |                                                                                                                                                                                                                 |
 | ow          | long o           | bOAt                     | /əʊ/ /oʊ/   | (@U) (oU)   | ow         | @U                    |                                                                                                                                                                                                                 |
-#CanE Phoneme Set
-This set is incredibly close to Ame.
+
+# CanE Phoneme Set
+This set is incredibly close to AmE.
 As Canadian English has many similarities to American English phonetically, most of the differences come down to which phones you use with which words.
-<br>
 | **Phoneme** | **Common Name**  | **Word**                 | **IPA**      | **SynthV** |                                                                                                                                                              |
 | ----------- | ---------------- | ------------------------ | -----------  | ---------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 | ah          | short u          | hUt, hUndred             | /ʌ/          | ah         |                                                                                                                                                              |
@@ -147,12 +147,12 @@ As Canadian English has many similarities to American English phonetically, most
 | p           | PoP                                   | /p/ [pʰ]     |                                                                            |
 | b           | BoB                                   |              |                                                                            |
 | t           | TaT, Tree                             | /t/ [tʰ]     | Phoneme context handling of "tr".                                          |
-| d           | DaD, Drink                            |              | Phoneme context handling or "dr".                                          |
+| d           | DaD, Drink, batheD                    |              | Phoneme context handling or "dr". Also handles "tapping" at end of words   |
 | k           | CaKE                                  | /k/ [kʰ]     |                                                                            |
 | g           | GaG                                   |              |                                                                            |
 | s           | SaS                                   |              |                                                                            |
 | z           | ZooS                                  |              |                                                                            |
-| ch          | CHurCH                                | /t͡ʃ/ [t͡ʃʰ] |                                                                            |
+| ch          | CHurCH                                | /t͡ʃ/ [t͡ʃʰ]   |                                                                            |
 | jh          | JuDGE                                 |              | Makes 'dg' sound for end of words. like [d][zh] or /dZ/ in xsampa.         |
 | sh          | Ship, puSH                            |              |                                                                            |
 | zh          | pleaSure                              |              | The 'judge' example is [j ah d zh], not [j ah zh]. To avoid any confusion. |
