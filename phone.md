@@ -136,7 +136,7 @@ As Canadian English has many similarities to American English phonetically, most
 | oy          | long             | bOY                      | /ɔɪ/         | oy         |                                                                                                                                                              |
 | ow          | long o           | bOAt                     | /o/ /⁠oʊ/     | ow         | Most rural/western CanE dialects treat the diphthong /oʊ/ as monophthong  /o/. Still label as [ow].                                                          |
 
- - While Canadian English is phonetically similar to American English (at least in quantal phonemes tends to vary. This would need to be handled as part of the dictionary.
+ - While Canadian English is phonetically similar to American English (at least in quantity, exact phonemes tends to vary. This would need to be handled as part of the dictionary.
  - CanE doesn't have any additional vowels compared to AmE, however it has changes that can be confusing.
    - The easier example is "about". Depending on the dialects is can be [ax - b aw t], [ax - b ow t], or [ax - b uw t].
    - Because of the vowel position changes in CanE, many confuse some of these sounds for unique/additional sounds but they thankfully are not,
