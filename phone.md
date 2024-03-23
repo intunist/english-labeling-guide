@@ -4,6 +4,7 @@
   - [BrE Phoneme set - Southern/AuE/International](#bre-phoneme-set---southern-and-international-variant)
   - [BrE Phoneme set - Northern](#bre-phoneme-set---northern-variant)
   - [AmE Phoneme set](#ame-phoneme-set)
+  - [CanE Phoneme set](#cane-phoneme-set)
   - [Consonants - general](#consonants---general)
   - [Utility Phonemes](#utility-phonemes)
 - [Q&A](#qa)
@@ -35,6 +36,9 @@ Then the third set, for Americans and what nearly everyone uses in the NNSVS spa
 
 Our system is designed for compatibility _and_ interoperability between dialects with minimal effort. American, British, Australian, etc.
 Along with this, we are working on 3 pronunciation dictionaries (AmE, N.Bre, S.BrE) that will extend to a **per-dialect selectable G2P system for OpenUTAU**.
+
+### Canadian English speakers:
+When writing this we forgot to include CanE. We have included preliminary info below AmE. If you find an issue please contact us.
 
 # BrE Phoneme set - Southern and International Variant
 This is the primary phoneme set, designed for most speakers with a British-leaning accent. It also accommodates Australian English.
@@ -94,7 +98,7 @@ This set is the closest to standard Arpabet, _however_ it does have several extr
 | **Phoneme** | **Common Name**  | **Word**                 | **IPA**     | **X-SAMPA** | **SynthV** | **Vocaloid (Broken)** |                                                                                                                                                                                                                 |
 | ----------- | ---------------- | ------------------------ | ----------- | ----------- | ---------- | --------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | ah          | short u          | hUt, hUndred             | /ʌ/         | V           | ah         | V                     |                                                                                                                                                                                                                 |
-| aa          | long a          | cAlm, cAr, plOt          | /ɑ/ /⁠ɒ/      | A           | aa         | Q                     | The merging of these two vowels has worked flawlessly in all public and private datasets thus far. There is no reason to change that. Most Americans cannot reliably identify/differentiate these vowels either. |
+| aa          | long a           | cAlm, cAr, plOt          | /ɑ/ /⁠ɒ/      | A           | aa         | Q                     | The merging of these two vowels has worked flawlessly in all public and private datasets thus far. There is no reason to change that. Most Americans cannot reliably identify/differentiate these vowels either. |
 | ao          | long o           | cORe, All                | /ɔ/         | O           | ao         | O:                    |                                                                                                                                                                                                                 |
 | ae          | short a          | bAth, bAt, nAsty         | /æ/          | ({)         | ae         | ({) (e@0)             |                                                                                                                                                                                                                 |
 | ax          | short            | commA                    | /ə/         | @           | ax         | @                     |                                                                                                                                                                                                                 |
@@ -104,11 +108,38 @@ This set is the closest to standard Arpabet, _however_ it does have several extr
 | uw          | long oo/u        | bOOt                     | /u/         | u           | uw         | u:                    |                                                                                                                                                                                                                 |
 | eh          | short e          | bEt                      | /ɛ/         | E           | eh         | E                     |                                                                                                                                                                                                                 |
 | er          | long             | bIRd, sIR, colOR, mothER | /ɜ/ /⁠ɚ/ /⁠ɝ/   | (@\`) (3)   | er         | @r                    |                                                                                                                                                                                                                 |
-| ay          | long i           | bIte                     | /aɪ/        | aI          | ay         | aI                    |                                                                                                                                                                                                                 |
-| aw          | long             | abOUt                    | /aʊ/        | aU          | aw         | aU                    |                                                                                                                                                                                                                 |
+| ay          | long i           | bIte                     | /aɪ/ /ʌɪ/   | aI          | ay         | aI                    |                                                                                                                                                                                                                 |
+| aw          | long             | abOUt                    | /aʊ/ /ʌʊ/    | aU          | aw         | aU                    |                                                                                                                                                                                                                 |
 | ey          | long             | bAIt                     | /eɪ/        | eI          | ey         | eI                    |                                                                                                                                                                                                                 |
 | oy          | long             | bOY                      | /ɔɪ/        | OI          | oy         | OI                    |                                                                                                                                                                                                                 |
 | ow          | long o           | bOAt                     | /əʊ/ /oʊ/   | (@U) (oU)   | ow         | @U                    |                                                                                                                                                                                                                 |
+#CanE Phoneme Set
+This set is incredibly close to Ame.
+As Canadian English has many similarities to American English phonetically, most of the differences come down to which phones you use with which words.
+<br>
+| **Phoneme** | **Common Name**  | **Word**                 | **IPA**      | **SynthV** |                                                                                                                                                              |
+| ----------- | ---------------- | ------------------------ | -----------  | ---------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| ah          | short u          | hUt, hUndred             | /ʌ/          | ah         |                                                                                                                                                              |
+| aa          | long a           | cAlm, cAr, plOt          | /ɑ/ /⁠ɒ/       | aa         | CanE merges these even moreso than AmE.                                                                                                                      |
+| ao          | long o           | cORe, All, sOrry, bOrrow | /ɔ/          | ao         |                                                                                                                                                              |
+| ae          | short a          | bAth, bAt, nAsty         | /æ/          | ae         | CanE tends to use /ɛ/ ([eh]) for words like "bag", HOWEVER because it is strictly contextual with the following consonant it should still be labeled as [ae] |
+| ax          | short            | commA                    | /ə/          | ax         |                                                                                                                                                              |
+| iy          | long e           | bEAt                     | /i/          | iy         |                                                                                                                                                              |
+| ih          | short i          | sIt, demOn, Example      | /ɪ/          | ih         |                                                                                                                                                              |
+| uh          | short oo         | bOOk                     | /ʊ/          | uh         |                                                                                                                                                              |
+| uw          | long oo/u        | bOOt                     | /u/          | uw         | The placement of the /u/ in CanE is more frontal than in other dialects. The French has invaded.                                                             |
+| eh          | short e          | bEt                      | /ɛ/          | eh         |                                                                                                                                                              |
+| er          | long             | bIRd, sIR, colOR, mothER | /ɜ/ /⁠ɚ/ /⁠ɝ/    | er         |                                                                                                                                                              |
+| ay          | long i           | bIte                     | /aɪ/ /ʌɪ/    | ay         |                                                                                                                                                              |
+| aw          | long             | abOUt                    | /aʊ/ /ʌʊ/    | aw         |                                                                                                                                                              |
+| ey          | long             | bAIt                     | /eɪ/ /e/     | ey         | Many rural/western CanE dialects treat the dipthong /eɪ/ to a monophthong /e/. Still label as [ey].                                                          |
+| oy          | long             | bOY                      | /ɔɪ/         | oy         |                                                                                                                                                              |
+| ow          | long o           | bOAt                     | /o/ /oʊ/     | ow         | Most rural/western CanE dialects treat the diphthong /oʊ/ as monophthong  /o/. Still label as [ow].                                                          |
+
+ - While Canadian English is phonetically similar to American English (at least in quantal phonemes tends to vary. This would need to be handled as part of the dictionary.
+ - CanE doesn't have any additional vowels compared to AmE, however it has changes that can be confusing.
+   - The easier example is "about". Depending on the dialects is can be [ax - b aw t], [ax - b ow t], or [ax - b uw t].
+   - Because of the vowel position changes in CanE, many confuse some of these sounds for unique/additional sounds but they thankfully are not,
 
 # Consonants - General
 | **phoneme** | **Example**                           | **IPA**      | **Description**                                                            |
