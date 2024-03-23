@@ -138,8 +138,8 @@ As Canadian English has many similarities to American English phonetically, most
 
  - While Canadian English is phonetically similar to American English (at least in quantity, exact phonemes tends to vary. This would need to be handled as part of the dictionary.
  - CanE doesn't have any additional vowels compared to AmE, however it has changes that can be confusing.
-   - The easier example is "about". Depending on the dialects is can be [ax - b aw t], [ax - b ow t], or [ax - b uw t].
-   - Because of the vowel position changes in CanE, many confuse some of these sounds for unique/additional sounds but they thankfully are not,
+   - An easier example is "about". Depending on the dialect this can be [ax - b aw t], [ax - b ow t], or [ax - b uw t].
+   - Because of the vowel positions change in CanE, many confuse some of these vowel sounds for unique/additional ones but they thankfully are not.
 
 # Consonants - General
 | **phoneme** | **Example**                           | **IPA**      | **Description**                                                            |
