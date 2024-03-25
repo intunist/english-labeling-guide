@@ -140,6 +140,7 @@ As Canadian English has many similarities to American English phonetically, most
  - CanE doesn't have any additional vowels compared to AmE, however it has changes that can be confusing.
    - An easier example is "about". Depending on the dialect this can be [ax - b aw t], [ax - b ow t], or [ax - b uw t].
    - Because of the vowel positions change in CanE, many confuse some of these vowel sounds for unique/additional ones but they thankfully are not.
+- Some CanE dialects pronounce "can" with a VERY diluted [ae] sound that sounds more like [eh] (but is still different). While we suggest still labeling it as [ae] as it has worked in prior cases you are welcome to experiment with labeling is [ee]\(?) and converting to [ae] to compare. We will look into this once more community testing is available.
 
 # Consonants - General
 | **phoneme** | **Example**                           | **IPA**      | **Description**                                                            |
