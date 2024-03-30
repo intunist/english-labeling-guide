@@ -197,8 +197,8 @@ Note that [exh], [axh], and [vf] were introduced by Ambision/Intunist and are cu
 |---------|------------------| -------------------------------------------------------------------------------------------------------|
 | pau     | silence          | During unsung/silent periods.                                                                          |
 | br      | [breath]         | **NOT TO BE USED FOR NNSVS. ALSO NOTE DIFFSINGER HAS IT'S OWN AP/SP SYSTEM**                           |
-| exh     | [exhale]         | end breaths, end of phrase exhale. devoiced. Label consonant coda.                                     |
-| axh     | [release]        | voiced variation of [exh]. voiced schwa exhale/release. Label as consonant coda.                       |
+| exh     | [exhale]         | end breaths, end of phrase exhale. devoiced. Label consonant coda. Can be between notes.               |
+| axh     | [release]        | voiced variation of [exh]. voiced schwa exhale/release. Can be between notes.                          |
 | vf      | [vocal fry]      | vocal fry. Can be used as a consonant OR on it's own note.                                             |
 
 **THESE ARE NONSTANDARD and have almost no applicable use-case**. They are best avoided wherever possible. They are provided as they are custom additonal phonemes in Ambision's (Intunist's) NNSVS english support.
