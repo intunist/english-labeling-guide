@@ -32,7 +32,8 @@ Separate reference IPA phonetics are provided for AuE (Australian English) speak
 The second option is Northern BrE. Northern speakers have their own set of dialectal quirks that make it unique enough to require its own special vowel set to accurately portray them!
 This includes a lot of vowel dropping and special considerations for small local dialects.
 
-Then the third set, for Americans and what nearly everyone uses in the NNSVS space, is also provided.
+Then a third set, for Americans and what nearly everyone uses in the NNSVS space, is also provided.
+Canadian English is provided as well but due to phonetic similarities to American English it's mostly notes and reference material rather than a unique phoneme set.
 
 Our system is designed for compatibility _and_ interoperability between dialects with minimal effort. American, British, Australian, etc.
 Along with this, we are working on 3 pronunciation dictionaries (AmE, N.Bre, S.BrE) that will extend to a **per-dialect selectable G2P system for OpenUTAU**.
