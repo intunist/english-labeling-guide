@@ -20,14 +20,14 @@ please bare in mind concepts learned from the use of the UTAU software DO NOT ca
 It is best to assume most of what you know may not be suitable for an easier experience.
 
 ---
-Guide is optimized for BrE as Intunist current production datasets focuses on this dialect.
+Guide is optimized for BrE as Intunist current production datasets focus on this dialect set.
 However this guide is valid for any and all major dialects of english, including notes for particular broad dialects.
 
 Intunist plans on releasing an 8hr singing dataset and models for pretraining.
 <br>These models, when available, should help reduce the workload and allow more stable models with less data.
 
-Bear in mind we want to _mostly label_ English **PHONEMICALLY NOT phonetically**. Based on how it sounds in context and not being painfully accurate, to allow for natural reproduction of the singing voice.
-<br>Labeling based on the intention and not the exact phoneme used is idea in most cases.
+Bear in mind we want to _mostly label_ English **PHONEMICALLY not phonetically**. Based on how it sounds in context and not being painfully accurate, to allow for natural reproduction of the singing voice.
+<br>Labeling based on the intention and not the exact phoneme used is idea in most cases. **BUT THERE IS LEEWAY** and you **can** be more strict if it suites you.
 <br>While vowels are generally labeled stylistically/exactly as pronounced (can be personal preference), consonants are labeled based on their phonological grouping.
 <br>Most speakers cannot distinguish fine phonetic differences accurately and handling it broadly allows us to rely on the model to handle these differences naturally.
 <br>Exceptions are/can be [dx] and [ax] where one may prefer having more control of these sounds.
