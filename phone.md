@@ -37,8 +37,7 @@ Then the third set, for Americans and what nearly everyone uses in the NNSVS spa
 Our system is designed for compatibility _and_ interoperability between dialects with minimal effort. American, British, Australian, etc.
 Along with this, we are working on 3 pronunciation dictionaries (AmE, N.Bre, S.BrE) that will extend to a **per-dialect selectable G2P system for OpenUTAU**.
 
-### Canadian English speakers:
-When writing this we forgot to include CanE. We have included preliminary info below AmE. If you find an issue please contact us.
+ALONG WITH THIS PHONEME DOC, PLEASE REFER TO [GUIDE.MD](GUIDE.md)
 
 # BrE Phoneme set - Southern and International Variant
 This is the primary phoneme set, designed for most speakers with a British-leaning accent. It also accommodates Australian English.
