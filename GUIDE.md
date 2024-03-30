@@ -1,4 +1,4 @@
-NOTE: THIS IS A DRAFT. Please open an issue or contact for questions, concerns, etc
+NOTE: THIS IS A DRAFT based on internal documentation. Some language may be unclear or overly-terse. Please open an issue or contact for questions, concerns, etc
 
 # Intunist Guide to English labeling very rough draft
 ### For DiffSinger and NNSVS
