@@ -51,7 +51,7 @@ For compatibility with the most vocal synthesis systems possible, Intunist makes
   Note that a simplified phoneme set may have issues with context and sound a tad awkward in some situations.
     - remove ax (may break schwa in long note context)
 	- may remove el, em, en as these were always optional
-	- may remove [dx] and use [t] instead (with context).
+	- you may remove [q]\(BrE) and [dx]\(AmE) and use [t] instead (context handles these very well).
 
 
 [NEW PHONEME DOCUMENT](phone.md)
