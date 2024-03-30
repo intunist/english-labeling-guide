@@ -94,7 +94,7 @@ Note that short/long naming conventions are antiquated and inaccurate. They are 
 - The Manchester dialect has an interesting quirk where [aa] (/ɑ/) becomes /ɔ/ when r-colored. And example of this would be the word "car". Thankfully context handles this, so it can be ignored and labeled with [aa] as per usual ([k aa r]).
 
 # AmE Phoneme set
-This set is the closest to standard Arpabet, _however_ it does have several extras that many find invaluable and have worked their way into common use for both English and Japanese datasets. For cleanliness most of those phonemes now reside in #Utility-Phonemes
+This set is the closest to standard Arpabet, _however_ it does have several extras that many find invaluable and have worked their way into common use for both English and Japanese datasets. For cleanliness most of those phonemes now reside in [#Utility-Phonemes](#utility-phonemes)
 | **Phoneme** | **Common Name**  | **Word**                 | **IPA**     | **X-SAMPA** | **SynthV** | **Vocaloid (Broken)** |                                                                                                                                                                                                                 |
 | ----------- | ---------------- | ------------------------ | ----------- | ----------- | ---------- | --------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | ah          | short u          | hUt, hUndred             | /ʌ/         | V           | ah         | V                     |                                                                                                                                                                                                                 |
@@ -204,7 +204,7 @@ Note that [exh], [axh], and [vf] were introduced by Ambision/Intunist and are cu
 **THESE ARE NONSTANDARD and have almost no applicable use-case**. They are best avoided wherever possible. They are provided as they are custom additonal phonemes in Ambision's (Intunist's) NNSVS english support.
 | phoneme | Example          | Description                                                                                                                           |
 |---------|------------------| --------------------------------------------------------------------------------------------------------------------------------------|
-| ct      | [closure-toggle] | override the default state of a consonant's closure. Entirely optional.                                                               |
+| ct      | [closure-toggle] | override the default state of a consonant's closure. Completely defunct and useless.                                                  |
 | cl      | [held stop]      | Held stop/plosive consonant. **For when the silence is held before a consonant release**. Similar to Japanese usage but not syllabic. |
 | cr      | [vocal break]    | Optional label for when the singer experiences a vocal break/crack. Labeled as a consonant.                                           |
 
