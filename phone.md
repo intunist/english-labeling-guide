@@ -41,6 +41,7 @@ ALONG WITH THIS PHONEME DOC, PLEASE REFER TO [GUIDE.MD](GUIDE.md)
 
 # BrE Phoneme set - Southern and International Variant
 This is the primary phoneme set, designed for most speakers with a British-leaning accent. It also accommodates Australian English.
+<br>**You cannot label British, Australian, or related dialects with the American English set. It will NOT function.** It won't even Americanize the voice, it'll simply have broken pronuncation with no control to adjust it.
 
 | **Phoneme** | **Common Name**  | **Word**                 | **IPA**     | **AuE IPA** | **X-SAMPA** | **SynthV** | **Vocaloid (Broken)** |                                                                                                               |
 | ----------- | ---------------- | ------------------------ | ----------- | ----------- | ----------- | ---------- | --------------------- | ------------------------------------------------------------------------------------------------------------- |
