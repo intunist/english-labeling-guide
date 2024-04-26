@@ -3,7 +3,7 @@
 - Phoneme sets
   - [BrE Phoneme set - Southern/AuE/International](#bre-phoneme-set---southern-and-international-variant)
   - [BrE Phoneme set - Northern](#bre-phoneme-set---northern-variant)
-  - [SSE Phoneme set](sse-phoneme-set---scottish-english)
+  - [SSE Phoneme set](#sse-phoneme-set---scottish-english)
   - [AmE Phoneme set](#ame-phoneme-set)
   - [CanE Phoneme set](#cane-phoneme-set)
   - [Consonants - general](#consonants---general)
