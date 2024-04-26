@@ -3,6 +3,7 @@
 - Phoneme sets
   - [BrE Phoneme set - Southern/AuE/International](#bre-phoneme-set---southern-and-international-variant)
   - [BrE Phoneme set - Northern](#bre-phoneme-set---northern-variant)
+  - [SSE Phoneme set](sse-phoneme-set---scottish-english)
   - [AmE Phoneme set](#ame-phoneme-set)
   - [CanE Phoneme set](#cane-phoneme-set)
   - [Consonants - general](#consonants---general)
@@ -84,7 +85,7 @@ It should be noted this specifically refers to dialects found in the northern re
 | uh          | short oo         | bOOk, hUt, hUndred       | /ʊ/ /⁠ʌ/    | U           | uh         | U                     | Northern BrE speakers merge /ʊ/ /ʌ/ into one sound. Therefore, [ah] is excluded entirely.          |
 | uw          | long oo          | bOOt                     | /u/        | u           | uw         | u:                    |                                                                                                    |
 | eh          | short e          | bEt                      | /ɛ/        | E           | eh         | E                     |                                                                                                    |
-| er          | long             | bIRd, colOR, mothERship, | /ɜ/ /⁠ɚ/ /⁠ə/| (@\`) (3)   | er         | @r                    | Loose use of er, and ax. Dilution while singing means [er] is often optional for many speakers.    |
+| er          | long             | bIRd, colOR, mothERship  | /ɜ/ /⁠ɚ/ /⁠ə/| (@\`) (3)   | er         | @r                    | Loose use of er, and ax. Dilution while singing means [er] is often optional for many speakers.    |
 | ay          | long i           | bIte                     | /aɪ/       | aI          | ay         | aI                    |                                                                                                    |
 | aw          | long             | abOUt                    | /aʊ/       | aU          | aw         | aU                    |                                                                                                    |
 | ey          | long             | bAIt                     | /eɪ/       | eI          | ey         | eI                    |                                                                                                    |
@@ -93,6 +94,57 @@ It should be noted this specifically refers to dialects found in the northern re
 
 Note that short/long naming conventions are antiquated and inaccurate. They are only provided for reference and understanding. These are especially inaccurate for singing.
 - The Manchester dialect has an interesting quirk where [aa] (/ɑ/) becomes /ɔ/ when r-colored. And example of this would be the word "car". Thankfully context handles this, so it can be ignored and labeled with [aa] as per usual ([k aa r]).
+
+# SSE Phoneme set - Scottish English
+This is the phoneme set for Scottish English. It's not vastly different from the other variants but helps to explain some dialect changes.
+Scottish english has heavy influence from Scots, so many of the phonemes are vastly different from what one would expect.
+Technically one can reference the sBre or nBrE symbols and infer the changes but this will help with consistency.
+
+| **Phoneme** | **Word**                  | **IPA**     | **X-SAMPA** |                                                                                                               |
+| ----------- | ------------------------- | ----------- | ----------- | ------------------------------------------------------------------------------------------------------------- |
+| ah          | hUt, hUndred, strUt       | /ʌ/ /ɐ/     | V           |                                                                                                               |
+| aa          | cAlm, cAr, trAp, bAth     | /ɑ/ /⁠a/      | A           |                                                                                                               |
+| ao          | nAUght, cORe, All, plOt   | /ɔ/         | O           | note: "a" before coda [l] is standardized to [ao] for all dialects.                                           |
+| ax          | commA                     | /ə/         | @           | Is merged with [uh] in some forms of APRAbet. While ok for speech,  merging causes issues for singing.        |
+| iy          | bEAt                      | /i/         | i           |                                                                                                               |
+| ih          | sIt, demOn, Example, citY | /ɪ/ /⁠ɨ/       | I           | Merged with [ix] with no repercussions. (refer to [#Q&A](#qa))                                                |
+| uh          | bOOk, bOOT, gOOse, cUre   | /ʉ/         | }           |                                                                                                               |
+| uw          | hOUse                     | /u/         | u           |                                                                                                               |
+| eh          | bEt                       | /ɛ/         | E           |                                                                                                               |
+| <s>er</s>   | mothER (**REFER BELOW**)  | /ər/ /⁠ɚ/ /⁠ə/  | @\`         | SSE lacks the fern–fir–fur merger. Use below examples for non-"er" cases. Still exists as a reduced form.     |
+| [ah r]      | fUR, tURn                 | /ʌ r/       | V\`         |                                                                                                               |
+| [eh r]      | fERn, pERson              | /ɛ r/       | E\`         |                                                                                                               |
+| [ih r]      | fIR, fIRst                | /ɪ r/       | I\`         |                                                                                                               |
+| ay          | bIte, nIce                | /əɪ/ /aɪ/   | @I          | [ay] is more centralized in SSE. But the label is the same.                                                   |
+| aw          | abOUt, hOW, mOUth         | /əʉ/ /aʉ/   | @}          | [aw] is more centralized in SSE. But the label is the same.                                                   |
+| ey          | bAIt, wAit                | /e/ /eɪ/    | eI          |                                                                                                               |
+| oy          | bOY                       | /ɔɪ/ /ɔe/   | (OI) (Oe)   |                                                                                                               |
+| ow          | bOAt, fOUr, mOre          | /o/         | o           |                                                                                                               |
+
+- SSE has no [ae] sound, it is merged into [aa]. If the speaker has a dialect that _does_ introduce it then feel free to add [ae] back.
+- [ow] in SSE lost it's glide. So it is /o/ rather than /oʊ/.
+- [ey] in SSE lost it's glide. So it is /e/ rather than /eɪ/.
+- [aw] in SSE doesn't exist in many common words. Rather it is replaced with [uw].
+- SSE lacks the foot-goose ([uw] [uh]) split. Use the [uh] sound for this.
+- SSE has the horse–hoarse/North-force split.
+  - Instead of "or" always using [ao r], as with most other dialects, it is sometimes [ow r]. 
+  - "more" is [m ow r] and for is [f ow r]
+- SSE has a _very_ strict cot–caught/lot-thought merger. So SSE only needs the [ao] sound, similar to AmE.
+
+- SSE **does not** merge [er] (the fern–fir–fur merger), these situations will need to be handled with two phonemes.
+  - Can identify lexically. Words with "i" often use [ih], "er" [eh r], "ur" [ah r]. (ex: "turn" is [t ah r n]
+  - If lazy, you can still use [er] and bare the inaccuracies.
+- Annoyingly, SSE does still have [er] in the form of a reduced schwa. Such as with "mother" and "runner".
+  - Similar to BrE, there is no [axr] and it is handled by [er].
+
+- [ih] may sound like an e-shaped schwa for some. Still use [ih].
+
+- SSE often uses a "tap" consonant for rhotics. Given it's commonality one should still label these as [r] and not [dx]. 
+- SSE is most often rhoticised. However some non-rhotic dialects do exist. Similar to BrE you would still label the missing [r] for context (heart: [h aa r t] not [h aa t]).
+- Some SSE dialects include [x] for words like "loch" [l ao x].
+- "-y" suffix in some dialects use [ih] instead of [iy] for some cases.
+  - Similar to BrE we still label it as [iy] as it seems to be handled well enough contextually.
+- SSE doesn't drop [h] in words like "where". Use [hw] ([hw eh r]).
 
 # AmE Phoneme set
 This set is the closest to standard Arpabet, _however_ it does have several extras that many find invaluable and have worked their way into common use for both English and Japanese datasets. For cleanliness most of those phonemes now reside in [#Utility-Phonemes](#utility-phonemes)
