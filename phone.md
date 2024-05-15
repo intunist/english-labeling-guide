@@ -259,7 +259,7 @@ Note that [exh], [axh], and [vf] were introduced by Ambision/Intunist and are cu
 |---------|------------------| --------------------------------------------------------------------------------------------------------------------------------------|
 | ct      | [closure-toggle] | override the default state of a consonant's closure. Completely defunct and useless.                                                  |
 | cl      | [held stop]      | Held stop/plosive consonant. **For when the silence is held before a consonant release**. Similar to Japanese usage but not syllabic. |
-| cr      | [vocal break]    | Optional label for when the singer experiences a vocal break/crack. Labeled as a consonant.                                           |
+| crk     | [vocal break]    | Optional label for when the singer experiences a vocal break/crack. Labeled as a consonant.                                           |
 
 # Q&A
 ### Why is the Vocaloid reference labeled "broken"?
