@@ -18,7 +18,7 @@ It is extended from our previous work standardizing English for NNSVS!
 
 _Why base it on ARPAbet?_
 ARPAbet is a widely known and accepted standard for inputting English phonetics. It has wide availability and compatibility.
-We chose it especially to be more readily accessible and inclusive to users without requiring users to learn an entirely new phonetic system or struggle with more complex or incompatible systems such as IPA-derived X-SAMPA!
+We chose it especially to be more readily accessible and inclusive to users without requiring users to learn an entirely new phonetic system or struggle with more complex or incompatible systems such as IPA-derived X-SAMPA.
 
 While we chose to re-purpose ARPAbet for the BrE extension of AMBIbet, months of careful considerations were still taken to ensure wide support for international English.
 
