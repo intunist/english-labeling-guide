@@ -89,12 +89,11 @@ As a related note, [tr] and [dr] are INVALID phonemes and only exist as an artif
 <br>	However keep in mind that there is NO way to properly support it as it causes every user to label their models differently.
 
 # Vowels
-You can label vowels in two ways, perceptually or "correct/strict" to the dictionary,
-<br>This is up to personal preference and neither will make or break a model. It will remain compatible regardless.
-<br>Intunist recommends for new users to label vowels "perceptually".
-<br>As in, if the vowel in context of the phrase sounds correct, even if it's stylistically altered, to still label it as that vowel.
-<br>Of course, if a vowel is VERY obviously different, then you should change the label.
-<br>- For example, if "sleep" is pronounced as "sleyp" with a clear vowel replacement, label it as such.
+As stated earlier, you can label vowels in two ways, perceptually or "strictly".
+<br>This is somewhat up to personal preference and neither will make or break a model.
+<br>However, it is recommended for nearly all users to label vowels "perceptually" as it will be more natural by default and require less effort from the end-user.
+<br>To reiterate, if the vowel in context of the phrase sounds correct, even if it's stylistically altered, you would continue to label it as that vowel.
+<br>And if a vowel is VERY obviously different, then you should change the label. Such as with the "sleep" example above.
 <br>
 <br>If you choose to label "correct/strict", you risk the model being awkward (less data) or unable to sing outside the genres of it's original data (more data, not necessarily bad).
 <br>Choose which you feel is more appropriate for your dataset.
