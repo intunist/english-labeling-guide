@@ -33,7 +33,8 @@ Bear in mind we want to _mostly label_ English **PHONEMICALLY not phonetically**
 <br>Most speakers cannot distinguish fine phonetic differences accurately and handling it broadly allows us to rely on the model to handle these differences naturally.
 <br>Exceptions are/can be [dx] and [ax] where one may prefer having more control of these sounds.
 <br>**HOWEVER, if you, for example, randomly/stylistically pronounce a word like "sleep" as [s l ey p] instead of [s l iy p] then it makes much more sense to label it as [ey]!**
-<br> **STYLE OVERRIDES THE "CORRECT" PHONEME!**
+<br> **THE ABOVE MEANS STYLE OVERRIDES THE "CORRECT" PHONEME!**
+<br> ...which means you can sometimes label [ah] as [aa] (etc) if appropriate for the singing style, especially across the singing range.
 
 <sup>1</sup> Exceptions do occur, as we are inconsistent humans, however if you find you are making exceptions more often than not you should stop making that exception and allow the model to learn it as a default behavior.
 
