@@ -33,16 +33,13 @@ Keep in mind, we aim to _mostly label_ English **PHONEMICALLY not phonetically**
 
 Labeling should be based on the intention and not the exact phoneme used in most cases. **However, there is flexibility**, and you **can** be more precise if it suits your needs.
 
-
 Vowels are generally labeled to follow the singer stylistically rather than exactly as pronounced. This means the vowel phonemes may not be "technically correct" but are perceptually appropriate.
 <br>Consonants are labeled based on their phonological grouping. Most speakers cannot distinguish fine phonetic differences accurately, and handling it broadly allows the model to manage these differences naturally.
 
 A notable exception would be including [dx]/[q], where more control is often be preferred over automatic tapping/glottalization.
 <br>**However, if you stylistically pronounce a word like "sleep" as [s l ey p] instead of [s l iy p], then it makes more sense to label it as [ey]!**
 
-
-In essence, **style overrides the "correct" phoneme.** This applies to both labeling vowels based on perception and distinguishing an extreme or notable change in pronunciation from a consistent and natural style.
-
+In essence, **style overrides the "correct" phoneme.** This applies to both labeling vowels based on perception and distinguishing an extreme or notable change in pronunciation from the consistent and natural style.
 
 This means you may often label a pronounced [ah] as [aa] (or similar) if it is appropriate for the singing style, especially across the sung range as the vocalist adjusts their vowel shape for an ideal tone.
 
