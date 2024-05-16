@@ -22,16 +22,15 @@ It is best to assume most of what you know will not be suitable for an easier ex
 While many users may say things such as "you can do it however you want," "have fun and experiment," or offer various other suggestions, the fact remains that only a small range of acceptable methods and techniques produce adequate results. While there is some room for adaptability, deviating too far from established methods can significantly impair the model's performance. These guidelines are provided to help avoid bad habits and pitfalls, ensuring a smoother and more effective process.
 
 ---
-Guide is optimized for BrE and International (European, BrE leaning) dialects of English as Intunist current production datasets focus on this dialect set.
-However this guide is valid for any and all major dialects of english, including notes for particular broad dialects.
+This guide is optimized for British English (BrE) and International (European, BrE-leaning) English dialects, aligning with Intunist's current production datasets. However, the principles outlined here are applicable to all major English dialects, with specific notes provided for broader dialects.
 
-Intunist plans on releasing an 8hr singing dataset and models for pretraining.
-<br>These models, when available, should help reduce the workload and allow more stable models with less data.
+Intunist plans to release an 8-hour singing dataset and pretraining models, which will significantly reduce workload and enhance model stability with less data.
 
 ---
-Keep in mind, we aim to _mostly label_ English **PHONEMICALLY not phonetically**. This means labeling based on how it sounds in context rather than being meticulously accurate, allowing for the natural reproduction of the singing voice.
+Keep in mind, we aim to _mostly label_ English **PHONEMICALLY, not phonetically**. This means labeling based on how it sounds in context rather than being meticulously accurate, allowing for the singing voice to be natually reproduced.
+<br>Labeling should be based on the intention and not the exact phoneme used in most cases. **However, there is flexibility**, and you **can** be more precise if it suits your needs.
 
-Labeling should be based on the intention and not the exact phoneme used in most cases. **However, there is flexibility**, and you **can** be more precise if it suits your needs.
+(note, try to move the below to the consonant and vowel sections to improve document flow)
 
 Vowels are generally labeled to follow the singer stylistically rather than exactly as pronounced. This means the vowel phonemes may not be "technically correct" but are perceptually appropriate.
 <br>Consonants are labeled based on their phonological grouping. Most speakers cannot distinguish fine phonetic differences accurately, and handling it broadly allows the model to manage these differences naturally.
