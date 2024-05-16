@@ -20,6 +20,7 @@ It is imperative to understand that concepts learned from the use of the UTAU so
 It is best to assume most of what you know will not be suitable for an easier experience.
 
 While many users may say things such as "you can do it however you want," "have fun and experiment," or offer various other suggestions, the fact remains that only a small range of acceptable methods and techniques produce adequate results. While there is some room for adaptability, deviating too far from established methods can significantly impair the model's performance. These guidelines are provided to help avoid bad habits and pitfalls, ensuring a smoother and more effective process.
+
 ---
 Guide is optimized for BrE as Intunist current production datasets focus on this dialect set.
 However this guide is valid for any and all major dialects of english, including notes for particular broad dialects.
