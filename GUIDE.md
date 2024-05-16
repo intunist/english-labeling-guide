@@ -16,9 +16,10 @@ All other information is validated for DiffSinger.
 
 ---
 ### NOTE FOR UTAU USERS:
-please bare in mind concepts learned from the use of the UTAU software DO NOT carry over to ML/AI/DNN/HTS systems AT ALL.
-It is best to assume most of what you know may not be suitable for an easier experience.
+It is imperative to understand that concepts learned from the use of the UTAU software DO NOT carry over to ML/AI/DNN/HTS systems AT ALL.
+It is best to assume most of what you know will not be suitable for an easier experience.
 
+While many users may say things such as "you can do it however you want," "have fun and experiment," or offer various other suggestions, the fact remains that only a small range of acceptable methods and techniques produce adequate results. While there is some room for adaptability, deviating too far from established methods can significantly impair the model's performance. These guidelines are provided to help avoid bad habits and pitfalls, ensuring a smoother and more effective process.
 ---
 Guide is optimized for BrE as Intunist current production datasets focus on this dialect set.
 However this guide is valid for any and all major dialects of english, including notes for particular broad dialects.
@@ -27,7 +28,7 @@ Intunist plans on releasing an 8hr singing dataset and models for pretraining.
 <br>These models, when available, should help reduce the workload and allow more stable models with less data.
 
 Bear in mind we want to _mostly label_ English **PHONEMICALLY not phonetically**. Based on how it sounds in context and not being painfully accurate, to allow for natural reproduction of the singing voice.
-<br>Labeling based on the intention and not the exact phoneme used is idea in most cases. **BUT THERE IS LEEWAY** and you **can** be more strict if it suites you.
+<br>Labeling based on the intention and not the exact phoneme used is ideal in most cases. **BUT THERE IS LEEWAY** and you **can** be more strict if it suites you.
 <br>While vowels are generally labeled stylistically/exactly as pronounced (can be personal preference), consonants are labeled based on their phonological grouping.
 <br>Most speakers cannot distinguish fine phonetic differences accurately and handling it broadly allows us to rely on the model to handle these differences naturally.
 <br>Exceptions are/can be [dx] and [ax] where one may prefer having more control of these sounds.
@@ -77,7 +78,7 @@ As a related note, [tr] and [dr] are INVALID phonemes and only exist as an artif
 <br>In Intunist's rigorous testing this has not been the case and has no real practical benefit outside of being more comfortable for a small subset of UTAU users.
 <br>Given that nothing is compatible with this and no one else (SynthV, Vocaloid, CMU, etc) does this, it is our recommendation to continue using [t r] and [d r]
 <br>If there is enough demand, Intunist could provide a version of our G2P model that supports this.
-<br>	However bare in mind that there is NO way to properly support it as it causes every user to label their models differently.
+<br>	However keep in mind that there is NO way to properly support it as it causes every user to label their models differently.
 
 # Vowels
 You can label vowels in two ways, perceptually or "correct/strict" to the dictionary,
@@ -206,4 +207,5 @@ Once you are comfortable and understand the rules here you may be able to use CM
 
 [Intunist provides a REFERENCE-ONLY dictionary to assist with syllabification.](https://github.com/hetteric/english-labeling-guide/blob/main/reference/AmE_guide_dictionary_v0.5.txt)
 This dictionary cannot be used for synthesis but should be a useful resource. It contains over 40,000 words and their syllable breaks.
-Please bare in mind this dictionary may break rules stated in this resource. Please ignore the dictionary mistakes and follow the rules in this document. Report any inconsistency please.
+Please keep in mind this dictionary may break rules stated in this resource. Please ignore the dictionary mistakes and follow the rules in this document. Report any inconsistency please.
+A new, from scratch, dictionary is being worked on but will require time.
