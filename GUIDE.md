@@ -22,20 +22,29 @@ It is best to assume most of what you know will not be suitable for an easier ex
 While many users may say things such as "you can do it however you want," "have fun and experiment," or offer various other suggestions, the fact remains that only a small range of acceptable methods and techniques produce adequate results. While there is some room for adaptability, deviating too far from established methods can significantly impair the model's performance. These guidelines are provided to help avoid bad habits and pitfalls, ensuring a smoother and more effective process.
 
 ---
-Guide is optimized for BrE as Intunist current production datasets focus on this dialect set.
+Guide is optimized for BrE and International (European, BrE leaning) dialects of English as Intunist current production datasets focus on this dialect set.
 However this guide is valid for any and all major dialects of english, including notes for particular broad dialects.
 
 Intunist plans on releasing an 8hr singing dataset and models for pretraining.
 <br>These models, when available, should help reduce the workload and allow more stable models with less data.
 
-Bear in mind we want to _mostly label_ English **PHONEMICALLY not phonetically**. Based on how it sounds in context and not being painfully accurate, to allow for natural reproduction of the singing voice.
-<br>Labeling based on the intention and not the exact phoneme used is ideal in most cases. **BUT THERE IS LEEWAY** and you **can** be more strict if it suites you.
-<br>While vowels are generally labeled stylistically/exactly as pronounced (can be personal preference), consonants are labeled based on their phonological grouping.
-<br>Most speakers cannot distinguish fine phonetic differences accurately and handling it broadly allows us to rely on the model to handle these differences naturally.
-<br>Exceptions are/can be [dx] and [ax] where one may prefer having more control of these sounds.
-<br>**HOWEVER, if you, for example, randomly/stylistically pronounce a word like "sleep" as [s l ey p] instead of [s l iy p] then it makes much more sense to label it as [ey]!**
-<br> **THE ABOVE MEANS STYLE OVERRIDES THE "CORRECT" PHONEME!**
-<br> ...which means you can sometimes label [ah] as [aa] (etc) if appropriate for the singing style, especially across the singing range.
+---
+Keep in mind, we aim to _mostly label_ English **PHONEMICALLY not phonetically**. This means labeling based on how it sounds in context rather than being meticulously accurate, allowing for the natural reproduction of the singing voice.
+
+Labeling should be based on the intention and not the exact phoneme used in most cases. **However, there is flexibility**, and you **can** be more precise if it suits your needs.
+
+
+Vowels are generally labeled to follow the singer stylistically rather than exactly as pronounced. This means the vowel phonemes may not be "technically correct" but are perceptually appropriate.
+<br>Consonants are labeled based on their phonological grouping. Most speakers cannot distinguish fine phonetic differences accurately, and handling it broadly allows the model to manage these differences naturally.
+
+A notable exception would be including [dx]/[q], where more control is often be preferred over automatic tapping/glottalization.
+<br>**However, if you stylistically pronounce a word like "sleep" as [s l ey p] instead of [s l iy p], then it makes more sense to label it as [ey]!**
+
+
+In essence, **style overrides the "correct" phoneme.** This applies to both labeling vowels based on perception and distinguishing an extreme or notable change in pronunciation from a consistent and natural style.
+
+
+This means you may often label a pronounced [ah] as [aa] (or similar) if it is appropriate for the singing style, especially across the sung range as the vocalist adjusts their vowel shape for an ideal tone.
 
 <sup>1</sup> Exceptions do occur, as we are inconsistent humans, however if you find you are making exceptions more often than not you should stop making that exception and allow the model to learn it as a default behavior.
 
