@@ -37,7 +37,7 @@ Vowels are generally labeled to follow the singer stylistically rather than exac
 <br>Consonants are labeled based on their phonological grouping. Most speakers cannot distinguish fine phonetic differences accurately, and handling it broadly allows the model to manage these differences naturally.
 
 A notable exception would be including [dx]/[q], where more control is often be preferred over automatic tapping/glottalization.
-<br>**However, if you stylistically pronounce a word like "sleep" as [s l ey p] instead of [s l iy p], then it makes more sense to label it as [ey]!**
+<br>**However, if you stylistically pronounce a word like "sleep" as [s l ey p] instead of [s l iy p], then it makes more sense to label it as [ey]!**<sup>1</sup> 
 
 In essence, **style overrides the "correct" phoneme.** This applies to both labeling vowels based on perception and distinguishing an extreme or notable change in pronunciation from the consistent and natural style.
 
